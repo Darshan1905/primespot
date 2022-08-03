@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="538" height="373" viewBox="0 0 538 373">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.655" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#1a60bb"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2534" data-name="Group 2534" transform="translate(-138 -697)">
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="538" height="373" rx="10" transform="translate(138 697)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_2481" data-name="Rectangle 2481" width="522" height="357" rx="10" transform="translate(146 705)" fill="#fff"/>
+    <text id="Head_of_Delivery" data-name="Head of Delivery" transform="translate(172 742)" font-size="30" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="32">Head of Delivery</tspan></text>
+    <text id="Mumbai" transform="translate(172 803)" font-size="25" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="27">Mumbai</tspan></text>
+    <text id="Full_Time" data-name="Full Time" transform="translate(172 851)" font-size="25" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="0" y="27">Full Time</tspan></text>
+    <g id="Group_2532" data-name="Group 2532" transform="translate(-548 -79)">
+      <g id="Rectangle_2482" data-name="Rectangle 2482" transform="translate(720 1028)" fill="#1a60bb" stroke="#df6cb6" stroke-width="1" opacity="0.78">
+        <rect width="240" height="62" stroke="none"/>
+        <rect x="0.5" y="0.5" width="239" height="61" fill="none"/>
+      </g>
+      <text id="Apply_Now" data-name="Apply Now" transform="translate(781 1065)" fill="#fff" font-size="27" font-family="TTCommons-DemiBold, TT Commons" font-weight="300"><tspan x="0" y="0">Apply Now</tspan></text>
+    </g>
+  </g>
+</svg>

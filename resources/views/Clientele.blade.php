@@ -21,21 +21,21 @@
 
 
     <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <!-- Swiper slide -->
     <link
       rel="stylesheet"
       type="text/css"
-      href="/assets/css/swiper-bundle.min.css"
+      href="assets/css/swiper-bundle.min.css"
     />
 
     <!-- Reponsive -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="/assets/icon/Favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png" />
+    <link rel="shortcut icon" href="assets/icon/Favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png" />
     <!--[if lt IE 9]>
       <script src="javascript/html5shiv.js"></script>
       <script src="javascript/respond.min.js"></script>
@@ -44,7 +44,7 @@
     <!-- owl-carousel-css -->
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.carousel.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
       integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
@@ -52,7 +52,7 @@
 
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.theme.default.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
       integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
@@ -77,7 +77,7 @@
               <div id="site-log-inner">
                 <a href="/" rel="home" class="main-logo">
                   <img
-                    src="/assets/images/logo/logo.svg"
+                    src="assets/images/logo/logo.svg"
                     alt="bixos"
                     width="96"
                     height="26"
@@ -168,13 +168,13 @@
           <div class="row clientele-first-section pt-5 pb-5">
             <div class="col-lg-1 dots-flot">
               <img
-                src="//assets/images/image-box/verticaldots.png"
+                src="/assets/images/image-box/verticaldots.png"
                 alt="dots-img"
               />
             </div>
             <div class="col-lg-4 mt-5 pt-5  ">
               <img
-                src="//assets/images/image-box/Rectangle 236.png"
+                src="/assets/images/image-box/Rectangle 236.png"
                 width="100%"
                 alt="img"
               />
@@ -262,49 +262,49 @@
             <div class="owl-carousel owl-theme clientele1 p-5">
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/swarovski.png"
+                  src="/assets/images/owl-slider-images/swarovski.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/guess.png"
+                  src="/assets/images/owl-slider-images/guess.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/schwarz.png"
+                  src="/assets/images/owl-slider-images/schwarz.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/gross.png"
+                  src="/assets/images/owl-slider-images/gross.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/swarovski.png"
+                  src="/assets/images/owl-slider-images/swarovski.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/guess.png"
+                  src="/assets/images/owl-slider-images/guess.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/schwarz.png"
+                  src="/assets/images/owl-slider-images/schwarz.png"
                   alt="img"
                 />
               </div>
               <div class="item p-5" >
                 <img
-                  src="//assets/images/owl-slider-images/gross.png"
+                  src="/assets/images/owl-slider-images/gross.png"
                   alt="img"
                 />
               </div>
@@ -319,7 +319,7 @@
               <p class="mt-4">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam  fisd fsdjikfnosd fsdnifjsdo gjuop gfgdf dfgaliquyam</p>
             </div>
             <div class="col-lg-6 cli-img text-center pt-5">
-                <img src="//assets/images/image-box/clientele-img.png" alt="">
+                <img src="/assets/images/image-box/clientele-img.png" alt="">
             </div>
           </div>
         </div>
@@ -337,12 +337,12 @@
 
     <!-- Javascript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/js/jquery.easing.js"></script>
-    <script src="/assets/js/wow.min.js"></script>
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/shortcodes.js"></script>
-    <script src="/assets/js/jquery.fancybox.js"></script>
-    <script src="/assets/js/plugin.js"></script>
+    <script src="assets/js/jquery.easing.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/shortcodes.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/plugin.js"></script>
 
     <!-- owl-carousel-js -->
     <script
@@ -352,9 +352,9 @@
       referrerpolicy="no-referrer"
     ></script>
 
-    <script src="//assets/js/owl-page-slider.js"></script>
+    <script src="/assets/js/owl-page-slider.js"></script>
 
-    <script src="/assets/js/swiper-bundle.min.js"></script>
-    <script src="/assets/js/swiper.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper.js"></script>
   </body>
 </html>

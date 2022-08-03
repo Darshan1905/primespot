@@ -21,21 +21,21 @@
     content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
     <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <!-- Reponsive -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
 
     <!-- Swiper slide -->
     <link
       rel="stylesheet"
       type="text/css"
-      href="/assets/css/swiper-bundle.min.css"
+      href="assets/css/swiper-bundle.min.css"
     />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="/assets/icon/Favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png" />
+    <link rel="shortcut icon" href="assets/icon/Favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png" />
     <!--[if lt IE 9]>
       <script src="javascript/html5shiv.js"></script>
       <script src="javascript/respond.min.js"></script>
@@ -44,7 +44,7 @@
     <!-- owl-carousel-css -->
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.carousel.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
       integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
@@ -52,13 +52,13 @@
 
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.theme.default.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
       integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
 
-    <!-- <script src="/assets/js/jquery.min.js"></script> -->
+    <!-- <script src="assets/js/jquery.min.js"></script> -->
 
 
   
@@ -81,7 +81,7 @@
               <div id="site-log-inner">
                 <a href="/" rel="home" class="main-logo">
                   <img
-                    src="/assets/images/logo/logo.svg"
+                    src="assets/images/logo/logo.svg"
                     alt="bixos"
                     width="96"
                     height="26"
@@ -157,7 +157,7 @@
         <!-- slider -->
         <section class="slider">
           <!-- <div class="elip-header">
-                    <img src="/assets/images/mark-page/ab-header.png" alt="img">
+                    <img src="assets/images/mark-page/ab-header.png" alt="img">
                 </div> -->
           <div class="swiper-container mainslider">
             <div class="swiper-wrapper">
@@ -166,13 +166,13 @@
                   <div class="overlay-slider"></div>
                   <div class="sld-img">
                     <img
-                      src="/assets/images/image-slider/Group 1.png"
+                      src="assets/images/image-slider/Group 1.png"
                       alt="img"
                     />
                   </div>
                   <div class="elip-slider">
                     <img
-                      src="/assets/images/image-slider/Path 1.svg"
+                      src="assets/images/image-slider/Path 1.svg"
                       alt="img"
                     />
                   </div>
@@ -216,12 +216,12 @@
             <div class="row">
               <div class="col-lg-6 col-md-5">
                 <div class="media img-1">
-                  <img class="index-img-1" src="/assets/images/image-box/Group 3.png" alt="images" style="width: 100%;"/>
-                  <img class="index-img-2" src="/assets/images/image-box/Group 3-without.png" alt="images" style="width: 100%;"/>
-                  <div class="mark-page tf-mark  animate-up"> <img src="/assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
-                  <div class="mark-page2 tf-mark animate-up"> <img src="/assets/images/mark-page/boxes.png" alt="images" style="width:70%" > </div>
-                  <div class="mark-page3 tf-mark animate-up"> <img src="/assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
-                  <div class="mark-page4 tf-mark animate-up"> <img src="/assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
+                  <img class="index-img-1" src="assets/images/image-box/Group 3.png" alt="images" style="width: 100%;"/>
+                  <img class="index-img-2" src="assets/images/image-box/Group 3-without.png" alt="images" style="width: 100%;"/>
+                  <div class="mark-page tf-mark  animate-up"> <img src="assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
+                  <div class="mark-page2 tf-mark animate-up"> <img src="assets/images/mark-page/boxes.png" alt="images" style="width:70%" > </div>
+                  <div class="mark-page3 tf-mark animate-up"> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
+                  <div class="mark-page4 tf-mark animate-up"> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
                  
                 </div>
               </div>
@@ -368,43 +368,43 @@
             <h2 class="mb-5" style="color: #fff ;">Our <span class="text-color-3 style-title">Product</span> Line</h2>
             <div class="owl-carousel owl-theme index1 p-5">
               <div class="item">
-               <img src="//assets/images/owl-slider-images/Group 1.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 1.svg" alt="img">
                <div class="overlay">
                fragnrance
                </div>
               </div>
               <div class="item">
-               <img src="//assets/images/owl-slider-images/Group 2.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 2.svg" alt="img">
                <div class="overlay">
                fragnrance
                </div>
               </div>
               <div class="item">
-               <img src="//assets/images/owl-slider-images/Group 3.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 3.svg" alt="img">
                <div class="overlay">
                fragnrance
                </div>
               </div>
               <div class="item">
-               <img src="//assets/images/owl-slider-images/Group 4.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 4.svg" alt="img">
                <div class="overlay">
                fragnrance
                </div>
               </div>
               <div class="item">
-               <img src="//assets/images/owl-slider-images/Group 5.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 5.svg" alt="img">
                <div class="overlay">
                fragnrance
                </div>
               </div>
               <div class="item">
-               <img src="//assets/images/owl-slider-images/Group 1.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 1.svg" alt="img">
                <div class="overlay">
                fragnrance
                </div>
               </div>
               <div class="item">
-                <img src="//assets/images/owl-slider-images/Group 2.svg" alt="img">
+                <img src="/assets/images/owl-slider-images/Group 2.svg" alt="img">
                 <div class="overlay">
                fragnrance
                </div>
@@ -423,26 +423,26 @@
               <div class="col-lg-8 mt-5">
                 <div class="owl-carousel owl-theme index3 ">
                   <div class="item">
-                   <img src="//assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+                   <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
                   </div>
                   <div class="item">
-                    <img src="//assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+                    <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
                    
                   </div>
                   <div class="item">
-                    <img src="//assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+                    <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
                                     
                   </div>
                   <div class="item">
-                    <img src="//assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+                    <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
                    
                   </div>
                   <div class="item">
-                    <img src="//assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+                    <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
                                     
                   </div>
                   <div class="item">
-                    <img src="//assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+                    <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
                    
                   </div>
                 </div>
@@ -455,11 +455,11 @@
           <div class="container mt-5 pt-5 text-center">
           <div class="howdowework mb-5 pb-5">
             <div>
-            <img src="//assets/images/image-box/waves.svg" alt="" style="width: 100%;">
+            <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
           </div>
             <h2 class=" pl-2 pr-2" style="color: #000 ;">So, How do we <span class="text-color-3 style-title">work</span> ?</h2>
           <div>
-            <img src="//assets/images/image-box/waves.svg" alt="" style="width: 100%;">
+            <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
           </div>
         </div>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing </p>
@@ -467,23 +467,23 @@
           <div class="road-map mt-5 pt-5 mb-5 pb-5">
               <div id="map">
                 <div class=" mt-3">
-                  <img src="//assets/images/image-box/Group 2541.png" width="100%" alt="Map">
+                  <img src="/assets/images/image-box/Group 2541.png" width="100%" alt="Map">
                 </div>
                 <div id="dots">
                   <div class="dot dot-1">
-                    <img class="dot1-img" src="//assets/images/image-box/Group 2536.svg" />
+                    <img class="dot1-img" src="/assets/images/image-box/Group 2536.svg" />
                     
                   </div>
-                  <div class="dot dot-2"><img class="dot2-img"  src="//assets/images/image-box/Group 2537.svg"/>
+                  <div class="dot dot-2"><img class="dot2-img"  src="/assets/images/image-box/Group 2537.svg"/>
    
                   </div>
-                  <div class="dot dot-3"><img class="dot3-img" src="//assets/images/image-box/Group 2538.svg"/>
+                  <div class="dot dot-3"><img class="dot3-img" src="/assets/images/image-box/Group 2538.svg"/>
                     
                   </div>
-                  <div class="dot dot-4"><img class="dot4-img" src="//assets/images/image-box/Group 2539.svg"/>
+                  <div class="dot dot-4"><img class="dot4-img" src="/assets/images/image-box/Group 2539.svg"/>
                     
                   </div>
-                  <div class="dot dot-5"><img class="dot5-img" src="//assets/images/image-box/Group 2540.svg"/>
+                  <div class="dot dot-5"><img class="dot5-img" src="/assets/images/image-box/Group 2540.svg"/>
                     
                   </div>
                   
@@ -590,7 +590,7 @@
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
             </div>
             <div class="col-lg-6">
-              <img src="//assets/images/image-box/map.png" alt="" style="width: 90%;">
+              <img src="/assets/images/image-box/map.png" alt="" style="width: 90%;">
             </div>
           </div>
         </div>
@@ -604,7 +604,7 @@
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, ta kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
             </div>
             <div class="col-lg-7">
-              <img src="//assets/images/image-box/Group 5.png" alt="" style="width: 90%;">
+              <img src="/assets/images/image-box/Group 5.png" alt="" style="width: 90%;">
             </div>
           </div>
         </div>
@@ -627,20 +627,20 @@
       });
       </script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="//assets/js/counter.js"></script>
-    <script src="//assets/js/counter-main.js"></script>
+    <script src="/assets/js/counter.js"></script>
+    <script src="/assets/js/counter-main.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
       
 
     <!-- Javascript -->
-    <script src="/assets/js/countto.js"></script>
-    <script src="/assets/js/wow.min.js"></script>
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/shortcodes.js"></script>
-    <script src="/assets/js/jquery.easing.js"></script>
-    <script src="/assets/js/jquery.fancybox.js"></script>
-    <script src="/assets/js/plugin.js"></script>
+    <script src="assets/js/countto.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/shortcodes.js"></script>
+    <script src="assets/js/jquery.easing.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/plugin.js"></script>
 
 
     <!-- owl-carousel-js -->
@@ -651,13 +651,13 @@
       referrerpolicy="no-referrer"
     ></script>
 
-    <script src="//assets/js/owl-page-slider.js"></script>
+    <script src="/assets/js/owl-page-slider.js"></script>
 
     <!-- Counter-js -->
       <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="//assets/js/counter-main.js"></script>
+    <script src="/assets/js/counter-main.js"></script>
 
-      <script src="//assets/js/counter.js"></script>
+      <script src="/assets/js/counter.js"></script>
       <script>
         jQuery(document).ready(function($) {
             $(".counter").counterUp({
@@ -671,7 +671,7 @@
      
 
     <!-- Swiper slide -->
-    <script src="/assets/js/swiper-bundle.min.js"></script>
-    <script src="/assets/js/swiper.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper.js"></script>
   </body>
 </html>

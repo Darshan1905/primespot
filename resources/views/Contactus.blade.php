@@ -21,21 +21,21 @@
 
 
     <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <!-- Swiper slide -->
     <link
       rel="stylesheet"
       type="text/css"
-      href="/assets/css/swiper-bundle.min.css"
+      href="assets/css/swiper-bundle.min.css"
     />
 
     <!-- Reponsive -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="/assets/icon/Favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png" />
+    <link rel="shortcut icon" href="assets/icon/Favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png" />
     <!--[if lt IE 9]>
       <script src="javascript/html5shiv.js"></script>
       <script src="javascript/respond.min.js"></script>
@@ -60,7 +60,7 @@
               <div id="site-log-inner">
                 <a href="/" rel="home" class="main-logo">
                   <img
-                    src="/assets/images/logo/logo.svg"
+                    src="assets/images/logo/logo.svg"
                     alt="bixos"
                     width="96"
                     height="26"
@@ -151,7 +151,7 @@
         <div class="container p-5">
           <div class="row pt-5 pb-5">
             <div class="col-lg-5 pt-3 contact-map-img">
-              <img src="//assets/images/image-box/map.png" alt="" />
+              <img src="/assets/images/image-box/map.png" alt="" />
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, se, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
             </div>
             <div class="col-lg-7 pt-3">
@@ -238,15 +238,15 @@
 
     <!-- Javascript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/assets/js/jquery.easing.js"></script>
-    <script src="/assets/js/wow.min.js"></script>
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/shortcodes.js"></script>
-    <script src="/assets/js/jquery.fancybox.js"></script>
-    <script src="/assets/js/plugin.js"></script>
-    <script src="/assets/js/jquery-validate.js"></script>
+    <script src="assets/js/jquery.easing.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/shortcodes.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/plugin.js"></script>
+    <script src="assets/js/jquery-validate.js"></script>
 
-    <script src="/assets/js/swiper-bundle.min.js"></script>
-    <script src="/assets/js/swiper.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper.js"></script>
   </body>
 </html>

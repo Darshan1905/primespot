@@ -21,21 +21,21 @@
 
 
     <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 
     <!-- Swiper slide -->
     <link
       rel="stylesheet"
       type="text/css"
-      href="/assets/css/swiper-bundle.min.css"
+      href="assets/css/swiper-bundle.min.css"
     />
 
     <!-- Reponsive -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="/assets/icon/Favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png" />
+    <link rel="shortcut icon" href="assets/icon/Favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png" />
     <!--[if lt IE 9]>
       <script src="javascript/html5shiv.js"></script>
       <script src="javascript/respond.min.js"></script>
@@ -44,7 +44,7 @@
     <!-- owl-carousel-css -->
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.carousel.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
       integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
@@ -52,7 +52,7 @@
 
     <link
       rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.theme.default.min.css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
       integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
@@ -77,7 +77,7 @@
               <div id="site-log-inner">
                 <a href="/" rel="home" class="main-logo">
                   <img
-                    src="/assets/images/logo/logo.svg"
+                    src="assets/images/logo/logo.svg"
                     alt="bixos"
                     width="96"
                     height="26"
@@ -237,7 +237,7 @@
                   <li ><a href="#tab2">Logistic</a></li>
               </ul>
               <div class="mt-5  bascket-img-int">
-                <img src="//assets/images/image-box/big-basket.svg" alt="" style="width: 70%;">
+                <img src="/assets/images/image-box/big-basket.svg" alt="" style="width: 70%;">
               </div>
       
               
@@ -283,19 +283,19 @@
                 </div>
 
             <div id="tab-1" class="tab-cont activated">
-               <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-2" class="tab-cont">
-               <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-3" class="tab-cont">
-               <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-4" class="tab-cont">
-               <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-5" class="tab-cont ">
-               <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
            </div>
 
           
@@ -346,19 +346,19 @@
             
       
           <div id="itab-1" class="tab-content current">
-            <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-2" class="tab-content">
-            <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-3" class="tab-content">
-            <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-4" class="tab-content">
-            <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-5" class="tab-content">
-            <img src="//assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
         </div>
       </div>
   </div>
@@ -379,15 +379,15 @@
     <!-- Javascript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-    <!-- <script src="//assets/js/jquery.min.js"></script> -->
-    <script src="/assets/js/countto.js"></script>
-    <script src="/assets/js/wow.min.js"></script>
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/shortcodes.js"></script>
-    <script src="/assets/js/jquery.easing.js"></script>
-    <script src="/assets/js/jquery.fancybox.js"></script>
-    <script src="/assets/js/plugin.js"></script>
-    <script src="//assets/js/verticaltabs.js"></script>
+    <!-- <script src="/assets/js/jquery.min.js"></script> -->
+    <script src="assets/js/countto.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/shortcodes.js"></script>
+    <script src="assets/js/jquery.easing.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/plugin.js"></script>
+    <script src="/assets/js/verticaltabs.js"></script>
 
     <!-- owl-carousel-js -->
     <script
@@ -397,15 +397,15 @@
       referrerpolicy="no-referrer"
     ></script>
 
-    <script src="//assets/js/owl-page-slider.js"></script>
+    <script src="/assets/js/owl-page-slider.js"></script>
 
-    <script src="/assets/js/swiper-bundle.min.js"></script>
-    <script src="/assets/js/swiper.js"></script>
-    <!-- <script src="/assets/js/tabs.js"></script> -->
-    <script src="/assets/js/tabs-1.js"></script>
-    <script src="/assets/js/tabs-2.js"></script>
-    <script src="/assets/js/tabs-3.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper.js"></script>
+    <!-- <script src="assets/js/tabs.js"></script> -->
+    <script src="assets/js/tabs-1.js"></script>
+    <script src="assets/js/tabs-2.js"></script>
+    <script src="assets/js/tabs-3.js"></script>
 
-    <!-- <script src="//assets/js/tabs-tabs.js"></script> -->
+    <!-- <script src="/assets/js/tabs-tabs.js"></script> -->
   </body>
 </html>

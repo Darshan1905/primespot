@@ -12,6 +12,8 @@
 
   <meta name="author" content="themesflat.com">
 
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
   <!-- Mobile Specific Metas -->
   <meta 
     name="viewport" 

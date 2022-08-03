@@ -627,8 +627,8 @@
       });
       </script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="/assets/js/counter.js"></script>
-    <script src="/assets/js/counter-main.js"></script>
+    <script src="assets/js/counter.js"></script>
+    <script src="assets/js/counter-main.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
       
@@ -651,13 +651,13 @@
       referrerpolicy="no-referrer"
     ></script>
 
-    <script src="/assets/js/owl-page-slider.js"></script>
+    <script src="assets/js/owl-page-slider.js"></script>
 
     <!-- Counter-js -->
       <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="/assets/js/counter-main.js"></script>
+    <script src="assets/js/counter-main.js"></script>
 
-      <script src="/assets/js/counter.js"></script>
+      <script src="assets/js/counter.js"></script>
       <script>
         jQuery(document).ready(function($) {
             $(".counter").counterUp({

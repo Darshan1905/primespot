@@ -618,29 +618,22 @@
     <a id="scroll-top"></a>
 
     <!-- Counter-js -->
-    <script>
-      jQuery(document).ready(function($) {
-          $(".counter").counterUp({
-              delay: 10,
-              time: 1500,
-          });
-      });
-      </script>
+   
     <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="assets/js/counter.js"></script>
-    <script src="assets/js/counter-main.js"></script>
+    <script src="/js/counter.js"></script>
+    <script src="/js/counter-main.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
       
 
     <!-- Javascript -->
-    <script src="assets/js/countto.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/shortcodes.js"></script>
-    <script src="assets/js/jquery.easing.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/plugin.js"></script>
+    <script src="/js/countto.js"></script>
+    <script src="/js/wow.min.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/shortcodes.js"></script>
+    <script src="/js/jquery.easing.js"></script>
+    <script src="/js/jquery.fancybox.js"></script>
+    <script src="/js/plugin.js"></script>
 
 
     <!-- owl-carousel-js -->
@@ -651,13 +644,13 @@
       referrerpolicy="no-referrer"
     ></script>
 
-    <script src="assets/js/owl-page-slider.js"></script>
+    <script src="/js/owl-page-slider.js"></script>
 
     <!-- Counter-js -->
       <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
-    <script src="assets/js/counter-main.js"></script>
+    <script src="/js/counter-main.js"></script>
 
-      <script src="assets/js/counter.js"></script>
+      <script src="/js/counter.js"></script>
       <script>
         jQuery(document).ready(function($) {
             $(".counter").counterUp({
@@ -671,7 +664,7 @@
      
 
     <!-- Swiper slide -->
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/swiper.js"></script>
+    <script src="/js/swiper-bundle.min.js"></script>
+    <script src="/js/swiper.js"></script>
   </body>
 </html>

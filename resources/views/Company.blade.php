@@ -19,29 +19,29 @@
 
 
   <!-- Theme Style -->
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
   <!-- Swiper slide -->
-  <link rel="stylesheet" type="text/css" href="assets/css/swiper-bundle.min.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/swiper-bundle.min.css">
 
   <!-- Reponsive -->
-  <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css">
 
   <!-- Favicon and Touch Icons  -->
-  <link rel="shortcut icon" href="assets/icon/Favicon.png">
-  <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png">
+  <link rel="shortcut icon" href="/assets/icon/Favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png">
   <!--[if lt IE 9]>
         <script src="javascript/html5shiv.js"></script>
         <script src="javascript/respond.min.js"></script>
     <![endif]-->
 
   <!-- owl-carousel-css -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.carousel.min.css"
     integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <link rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.theme.default.min.css"
     integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
    
@@ -68,7 +68,7 @@
           <div id="site-logo" class="clearfix">
             <div id="site-log-inner">
               <a href="/" rel="home" class="main-logo">
-                <img src="assets/images/logo/logo.svg" alt="bixos" width="96" height="26"
+                <img src="/assets/images/logo/logo.svg" alt="bixos" width="96" height="26"
                    data-width="100" data-height="44" style="width: 100%;">
               </a>
             </div>
@@ -157,11 +157,11 @@
         <div class="row about-us-row  pb-5">
 
           <div class="waves-about">
-            <img src="/assets/images/image-box/waves.svg" alt="">
+            <img src="//assets/images/image-box/waves.svg" alt="">
           </div>
           <div class="col-lg-1">
             <div class="dots-about">
-              <img src="/assets/images/image-box/verticaldots.png" alt="">
+              <img src="//assets/images/image-box/verticaldots.png" alt="">
             </div>
           </div>
           <div class="col-lg-6 mt-5">
@@ -180,10 +180,10 @@
           <div class="col-lg-5 mt-5">
             <div class="flat-trusted">
             <div class="media img-1">
-                  <img class="index-img-2" src="/assets/images/image-box/Rectangle 4.png" alt="images" style="width: 100%;"/>
-                  <img class="index-img-1" src="/assets/images/image-box/about-img.png" alt="images" style="width: 100%;"/>
-                  <div class="mark-page5 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
-                  <div class="mark-page6 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:70%" > </div>
+                  <img class="index-img-2" src="//assets/images/image-box/Rectangle 4.png" alt="images" style="width: 100%;"/>
+                  <img class="index-img-1" src="//assets/images/image-box/about-img.png" alt="images" style="width: 100%;"/>
+                  <div class="mark-page5 tf-mark animate-up"> <img src="/assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page6 tf-mark animate-up"> <img src="/assets/images/mark-page/gift.svg" alt="images" style="width:70%" > </div>
                 </div>
 
             </div>
@@ -200,11 +200,11 @@
           <h2 class="" style="color: #fff;">Our Expert <span class="text-color-3 style-title">Team</span>Members</h2>
           <div class="owl-carousel owl-theme company1 p-5">
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 1.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 1.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -213,11 +213,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 2.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 2.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -226,11 +226,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 3.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 3.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -239,11 +239,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 4.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 4.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -252,11 +252,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 1.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 1.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -265,11 +265,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 2.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 2.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -278,11 +278,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 3.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 3.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -291,11 +291,11 @@
 
             </div>
             <div class="item p-5">
-              <img src="/assets/images/owl-slider-images/Mask Group 4.png" alt="img">
+              <img src="//assets/images/owl-slider-images/Mask Group 4.png" alt="img">
               <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
               <button class="company-btn mt-3 mb-3">
                 <div><span>View More</span>&nbsp;</div>
-                <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
+                <div><img class="com-imgg" src="//assets/images/owl-slider-images/linkedin.svg" alt=""
                     style="width: 20px;"></div>
               </button>
 
@@ -315,9 +315,9 @@
             
             <div class="flat-trusted">
             <div class="media img-1 com-sec-img-ani">
-                  <img class="index-img-2 text-center" src="/assets/images/image-box/Group 4-without.png" alt="images" style="width: 80%;"/>
-                  <img class="index-img-1 text-center" src="/assets/images/image-box/company-group-3.png" alt="images" style="width: 100%;"/>
-                  <div class="mark-page7 tf-mark animate-up"> <img src="assets/images/mark-page/light-bascket.svg" alt="images" style="width:70%" > </div>
+                  <img class="index-img-2 text-center" src="//assets/images/image-box/Group 4-without.png" alt="images" style="width: 80%;"/>
+                  <img class="index-img-1 text-center" src="//assets/images/image-box/company-group-3.png" alt="images" style="width: 100%;"/>
+                  <div class="mark-page7 tf-mark animate-up"> <img src="/assets/images/mark-page/light-bascket.svg" alt="images" style="width:70%" > </div>
                 </div> 
           </div>
             
@@ -358,7 +358,7 @@
           <div class="owl-carousel owl-theme company2 pl-5 pr-5">
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -366,7 +366,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -374,7 +374,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -382,7 +382,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -394,7 +394,7 @@
           <div class="owl-carousel owl-theme company2 pl-5 pr-5">
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -402,7 +402,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -410,7 +410,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -418,7 +418,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -430,7 +430,7 @@
           <div class="owl-carousel owl-theme company2 pl-5 pr-5">
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -438,7 +438,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -446,7 +446,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -454,7 +454,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -466,7 +466,7 @@
           <div class="owl-carousel owl-theme company2 pl-5 pr-5">
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -474,7 +474,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -482,7 +482,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -490,7 +490,7 @@
             </div>
             <div class="item ">
               <div class="card">
-                <img src="/assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
+                <img src="//assets/images/owl-slider-images/Mask Group 13.png" alt="img" style="height:200px;">
                 <h4 class="mt-3 ml-4">lorem</h4>
                 <p class="mt-2 ml-4" style="color: #000;">Lorem ipsum dolor sit amet consectetur</p>
                 <p class="mt-2 ml-4"><u style="color: #1A60BB; font-weight: bold;">See more</u></p>
@@ -510,23 +510,23 @@
 
     <!-- Javascript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="assets/js/jquery.easing.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/shortcodes.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/plugin.js"></script>
+    <script src="/assets/js/jquery.easing.js"></script>
+    <script src="/assets/js/wow.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/shortcodes.js"></script>
+    <script src="/assets/js/jquery.fancybox.js"></script>
+    <script src="/assets/js/plugin.js"></script>
 
     <!-- owl-carousel-js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
       integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
       crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <script src="/assets/js/owl-page-slider.js"></script>
+    <script src="//assets/js/owl-page-slider.js"></script>
 
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/swiper.js"></script>
-    <script src="assets/js/tabs.js"></script>
+    <script src="/assets/js/swiper-bundle.min.js"></script>
+    <script src="/assets/js/swiper.js"></script>
+    <script src="/assets/js/tabs.js"></script>
 
 </body>
 

@@ -16,21 +16,21 @@
 
 
     <!-- Theme Style -->
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 
     <!-- Swiper slide -->
     <link
       rel="stylesheet"
       type="text/css"
-      href="assets/css/swiper-bundle.min.css"
+      href="/assets/css/swiper-bundle.min.css"
     />
 
     <!-- Reponsive -->
-    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css" />
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/icon/Favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png" />
+    <link rel="shortcut icon" href="/assets/icon/Favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png" />
   </head>
 
   <body class="header-fixed">
@@ -46,7 +46,7 @@
               <div id="site-log-inner">
                 <a href="/" rel="home" class="main-logo">
                   <img
-                    src="assets/images/logo/logo.svg"
+                    src="/assets/images/logo/logo.svg"
                     alt="bixos"
                     width="96"
                     height="26"
@@ -197,14 +197,14 @@
 
     <!-- Javascript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="assets/js/jquery.easing.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/shortcodes.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/plugin.js"></script>
+    <script src="/assets/js/jquery.easing.js"></script>
+    <script src="/assets/js/wow.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/shortcodes.js"></script>
+    <script src="/assets/js/jquery.fancybox.js"></script>
+    <script src="/assets/js/plugin.js"></script>
 
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/swiper.js"></script>
+    <script src="/assets/js/swiper-bundle.min.js"></script>
+    <script src="/assets/js/swiper.js"></script>
   </body>
 </html>

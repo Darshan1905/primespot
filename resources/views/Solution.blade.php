@@ -19,29 +19,29 @@
 
 
   <!-- Theme Style -->
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
 
   <!-- Swiper slide -->
-  <link rel="stylesheet" type="text/css" href="assets/css/swiper-bundle.min.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/swiper-bundle.min.css">
 
   <!-- Reponsive -->
-  <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css">
 
   <!-- Favicon and Touch Icons  -->
-  <link rel="shortcut icon" href="assets/icon/Favicon.png">
-  <link rel="apple-touch-icon-precomposed" href="assets/icon/Favicon.png">
+  <link rel="shortcut icon" href="/assets/icon/Favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="/assets/icon/Favicon.png">
   <!--[if lt IE 9]>
         <script src="javascript/html5shiv.js"></script>
         <script src="javascript/respond.min.js"></script>
     <![endif]-->
 
   <!-- owl-carousel-css -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.carousel.min.css"
     integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   <link rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4//assets/owl.theme.default.min.css"
     integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -66,7 +66,7 @@
           <div id="site-logo" class="clearfix">
             <div id="site-log-inner">
               <a href="/" rel="home" class="main-logo">
-                <img src="assets/images/logo/logo.svg" alt="bixos" width="96" height="26"
+                <img src="/assets/images/logo/logo.svg" alt="bixos" width="96" height="26"
                   data-width="100" data-height="44"
                   style="width: 100%;">
               </a>
@@ -259,7 +259,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="//assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -322,7 +322,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="//assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -385,7 +385,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="//assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -448,7 +448,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="//assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -512,7 +512,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="//assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -541,24 +541,24 @@
 
     <!-- Javascript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="assets/js/countto.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/shortcodes.js"></script>
-    <script src="assets/js/jquery.easing.js"></script>
-    <script src="assets/js/jquery.fancybox.js"></script>
-    <script src="assets/js/plugin.js"></script>
+    <script src="/assets/js/countto.js"></script>
+    <script src="/assets/js/wow.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/shortcodes.js"></script>
+    <script src="/assets/js/jquery.easing.js"></script>
+    <script src="/assets/js/jquery.fancybox.js"></script>
+    <script src="/assets/js/plugin.js"></script>
 
     <!-- owl-carousel-js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
       integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
       crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-    <script src="/assets/js/owl-page-slider.js"></script>
+    <script src="//assets/js/owl-page-slider.js"></script>
 
-    <script src="assets/js/swiper-bundle.min.js"></script>
-    <script src="assets/js/swiper.js"></script>
-    <script src="assets/js/tabs.js"></script>
+    <script src="/assets/js/swiper-bundle.min.js"></script>
+    <script src="/assets/js/swiper.js"></script>
+    <script src="/assets/js/tabs.js"></script>
 
 
 </body>

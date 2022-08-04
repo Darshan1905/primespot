@@ -372,43 +372,57 @@
               <div class="item">
                <img src="/assets/images/owl-slider-images/Group 1.svg" alt="img">
                <div class="overlay">
-               fragnrance
+               <div class="content">
+               <p >Home fragrance</p>
                </div>
+</div>
               </div>
               <div class="item">
                <img src="/assets/images/owl-slider-images/Group 2.svg" alt="img">
                <div class="overlay">
-               fragnrance
+                <div class="content">
+               <p  >Accessories</p>
+               </div>
                </div>
               </div>
               <div class="item">
                <img src="/assets/images/owl-slider-images/Group 3.svg" alt="img">
                <div class="overlay">
-               fragnrance
+                <div class="content">
+               <p  >Fragrance</p>
+               </div>
                </div>
               </div>
               <div class="item">
                <img src="/assets/images/owl-slider-images/Group 4.svg" alt="img">
                <div class="overlay">
-               fragnrance
+                <div class="content">
+               <p  >Sunglasses</p>
+               </div>
                </div>
               </div>
               <div class="item">
                <img src="/assets/images/owl-slider-images/Group 5.svg" alt="img">
                <div class="overlay">
-               fragnrance
+                <div class="content">
+               <p  >Luggage</p>
+               </div>
                </div>
               </div>
               <div class="item">
-               <img src="/assets/images/owl-slider-images/Group 1.svg" alt="img">
+               <img src="/assets/images/owl-slider-images/Group 6.svg" alt="img">
                <div class="overlay">
-               fragnrance
+                <div class="content">
+               <p  >Appearls</p>
+               </div>
                </div>
               </div>
               <div class="item">
-                <img src="/assets/images/owl-slider-images/Group 2.svg" alt="img">
+                <img src="/assets/images/owl-slider-images/Group 3.svg" alt="img">
                 <div class="overlay">
-               fragnrance
+                  <div class="content">
+               <p>Fragrance</p>
+               </div>
                </div>
                </div>
             </div>
@@ -466,6 +480,33 @@
         </div>
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing </p>
           </div>
+
+          <!-- ***************************** -->
+
+          <div class="road-map-content-cards"> 
+        <div class="index-page-box-1-1 text-center">
+            <div class="index-btn-1  ">
+                <h2 style="font-size:32px;"><b>2 </b> </h2>
+            </div>
+            <div class="index-box-2-1">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+        
+        <div class="index-page-box-1-3 text-center">
+            <div class="index-btn-3  ">
+                <h2 style="font-size:32px;"><b>4 </b> </h2>
+            </div>
+            <div class="index-box-2-3">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+</div>
+
+
+          <!-- ********************************* -->
           <div class="road-map mt-5 pt-5 mb-5 pb-5">
               <div id="map">
                 <div class=" mt-3">
@@ -497,6 +538,36 @@
               
 
           </div>
+
+          <div class="road-map-content-cards">
+          <div class="index-page-box-1 text-center">
+            <div class="index-btn  ">
+                <h2 style="font-size:32px;"><b>1 </b> </h2>
+            </div>
+            <div class="index-page-box-2">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+        <div class="index-page-box-1-2 text-center">
+            <div class="index-btn-2  ">
+                <h2 style="font-size:32px;"><b>3 </b> </h2>
+            </div>
+            <div class="index-box-2-2">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+        <div class="index-page-box-1-4 text-center">
+            <div class="index-btn-4   ">
+                <h2 style="font-size:32px;"><b>5 </b> </h2>
+            </div>
+            <div class="index-box-2-4">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+        </div>
 
         </section>
 

@@ -49,103 +49,110 @@
 
 </head>
 
-<body class="header-fixed counter-scroll">
-
-  <!-- preloader -->
-  <!-- <div class="preload preload-container">
+<body class="header-fixed">
+    <!-- preloader -->
+    <!-- <div class="preload preload-container">
         <div class="preload-logo"></div>
     </div> -->
-  <!-- /preloader -->
+    <!-- /preloader -->
 
-  <div id="wrapper" class="animsition">
-    <div id="page" class="clearfix">
-      <!-- Header Wrap -->
-      <div id="site-header-wrap">
-
-        <!-- /#top-bar -->
-        <!-- Header -->
-        <header id="site-header">
-          <div id="site-logo" class="clearfix">
-            <div id="site-log-inner">
-              <a href="/" rel="home" class="main-logo">
-                <img src="assets/images/logo/logo.svg" alt="bixos" width="96" height="26"
-                  data-width="100" data-height="44"
-                  style="width: 100%;">
-              </a>
+    <div id="wrapper" class="animsition">
+      <div id="page" class="clearfix">
+        <!-- Header Wrap -->
+        <div id="site-header-wrap">
+          <!-- /#top-bar -->
+          <!-- Header -->
+          <header id="site-header">
+            <div id="site-logo" class="clearfix">
+              <div id="site-log-inner">
+                <a href="/" rel="home" class="main-logo">
+                  <img
+                    src="assets/images/logo/logo.svg"
+                    alt="bixos"
+                    width="96"
+                    height="26"
+                    data-width="100"
+                    data-height="44"
+                    style="width: 100%;"
+                  />
+                </a>
+              </div>
             </div>
-          </div>
-          <div class="mobile-button">
-            <span></span>
-          </div>
-          <!-- /.mobile-button -->
-          <!-- /#site-logo -->
-          <div id="site-header-inner">
-            <div class="wrap-inner clearfix">
-              <nav id="main-nav" class="main-nav">
-                <ul id="menu-primary-menu" class="menu">
-                  <li class="menu-item ">
-                    <a href="company">Company</a>
-                    <!-- <ul class="sub-menu">
-                      <li class="menu-item current-item"><a href="company">Company01</a></li>
-
-                    </ul> -->
-                  </li>
-                  <li class="menu-item  current-menu-item ">
-                    <a href="solution">Solution</a>
-                    <!-- <ul class="sub-menu">
-                      <li class="menu-item"><a href="solution">Solution01</a></li>
-                    </ul> -->
-                  </li>
-                  <li class="menu-item ">
-                    <a href="integration">Integration</a>
-                    <!-- <ul class="sub-menu">
-                      <li class="menu-item"><a href="integration">Integration01</a></li>
-                    </ul> -->
-                  </li>
-                  <li class="menu-item ">
-                    <a href="clientele">Clientele</a>
-                    <!-- <ul class="sub-menu">
-                      <li class="menu-item"><a href="clientele">Clientele01</a></li>
-                    </ul> -->
-                  </li>
-                  <li class="menu-item ">
-                    <a href="career">Career</a>
-                    <!-- <ul class="sub-menu">
-                      <li class="menu-item"><a href="career">Career01</a></li>
-                    </ul> -->
-                  </li>
-
-                </ul>
-              </nav>
-              <!-- /#main-nav -->
+            <div class="mobile-button">
+              <span></span>
             </div>
-            <!-- /.wrap-inner -->
+            <!-- /.mobile-button -->
+            <!-- /#site-logo -->
+            <div id="site-header-inner">
+              <div class="wrap-inner clearfix">
+                  <nav id="main-nav" class="main-nav">
+                      <ul id="menu-primary-menu" class="menu">
+                          <li class="menu-item ">
+                              <a href="company">Company</a>
+                              <!-- <ul class="sub-menu">
+                                  <li class="menu-item current-item"><a href="company">Company01</a></li>
+                                  
+                              </ul> -->
+                          </li>
+                          <li class="menu-item current-menu-item  ">
+                              <a href="solution">Solution</a>
+                              <!-- <ul class="sub-menu">
+                                  <li class="menu-item"><a href="solution">Solution01</a></li>
+                              </ul> -->
+                          </li>
+                          <li class="menu-item ">
+                              <a href="integration">Integration</a>
+                              <!-- <ul class="sub-menu">
+                                  <li class="menu-item"><a href="integration">Integration01</a></li>
+                              </ul> -->
+                          </li>
+                          <li class="menu-item  ">
+                              <a href="clientele">Clientele</a>
+                              <!-- <ul class="sub-menu">
+                                  <li class="menu-item"><a href="clientele">Clientele01</a></li>
+                              </ul> -->
+                          </li>
+                          <li class="menu-item ">
+                              <a href="career">Career</a>
+                              <!-- <ul class="sub-menu">
+                                  <li class="menu-item"><a href="career">Career01</a></li>
+                              </ul> -->
+                          </li>
+
+                      </ul>
+                  </nav>
+                  <!-- /#main-nav -->
+              </div>
+              <!-- /.wrap-inner -->
           </div>
 
-          <!-- /#site-header-inner -->
+            <!-- /#site-header-inner -->
 
-          <div class="tf-button"><a href="contact" class="button btn-1"><span>Contact Us </span></a>
-          </div>
-
-        </header>
-        <!-- /#site-header -->
-        <section class="flat-title-page page-about">
-          <div class="overlay-page"></div>
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-12 col-md-12">
-                <div class="breadcrumbs">
-                  <h1>Solution</h1>
-                  <div class="breadcrumb-trail link-style-2">
-                    <a class="home" href="/">Home</a><span>Solution</span>
+            <div class="tf-button">
+              <a href="contact" class="button btn-1"
+                ><span>Contact Us </span></a
+              >
+            </div>
+          </header>
+          <!-- /#site-header -->
+          <section class="flat-title-page">
+            <div class="overlay-page"></div>
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-12 col-md-12">
+                  <div class="breadcrumbs">
+                    <h1>Solution</h1>
+                    <div class="breadcrumb-trail link-style-2">
+                      <a class="home" href="/">Home</a
+                      ><span>Solution</span>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-        </section>
-      </div>
-      <!-- #site-header-wrap -->
+          </section>
+        </div>
+        <!-- #site-header-wrap -->
 
       <section>
         <div class="container mt-5 mb-5 pt-5 pb-5">

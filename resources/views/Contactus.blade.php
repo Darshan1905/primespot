@@ -66,7 +66,6 @@
                     alt="bixos"
                     width="96"
                     height="26"
-                  
                     data-width="100"
                     data-height="44"
                     style="width: 100%;"
@@ -102,7 +101,7 @@
                                   <li class="menu-item"><a href="integration">Integration01</a></li>
                               </ul> -->
                           </li>
-                          <li class="menu-item ">
+                          <li class="menu-item  ">
                               <a href="clientele">Clientele</a>
                               <!-- <ul class="sub-menu">
                                   <li class="menu-item"><a href="clientele">Clientele01</a></li>
@@ -120,9 +119,7 @@
                   <!-- /#main-nav -->
               </div>
               <!-- /.wrap-inner -->
-          </div>
-
-            <!-- /#site-header-inner -->
+          </div>            <!-- /#site-header-inner -->
 
             <div class="tf-button">
               <a href="contact" class="button btn-1"
@@ -153,10 +150,15 @@
         <div class="container p-5">
           <div class="row pt-5 pb-5">
             <div class="col-lg-5 pt-3 contact-map-img">
+            <div class="flat-trusted">
+                  <div class="mark-page37 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  
+          </div>
               <img src="/assets/images/image-box/map.png" alt="" />
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, se, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
             </div>
             <div class="col-lg-7 pt-3">
+            
               <h2 class="mb-5">How we can help you?</h2>
               <form action="">
                 <div class="pb-5">
@@ -209,6 +211,10 @@
                 </button>
               </form>
             </div>
+            <div class="flat-trusted">
+                  <div class="mark-page38 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page39 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
+          </div>
           </div>
         </div>
 

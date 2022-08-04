@@ -225,9 +225,14 @@
                   <div class="mark-page3 tf-mark animate-up"> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
                   <div class="mark-page4 tf-mark animate-up"> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
                  
+                 
                 </div>
               </div>
               <div class="col-lg-6 col-md-7">
+                <div class="flat-trusted">
+              <div class="mark-page19 tf-mark "> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
+                  <div class="mark-page20 tf-mark "> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
+                  </div>
                 <div class="trusted-heading">
                   <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
                   <h2 class="tf-title">
@@ -428,9 +433,12 @@
             </div>
           </div>
         </section>
-
+  
         <section class="index-carousel-bg-3">
           <div class="container pt-5 pb-5 mt-5 mb-5">
+          <div class="flat-trusted">
+                  <div class="mark-page8 tf-mark "> <img src="assets/images/mark-page/volume.svg" alt="images" style="width:70%" > </div>
+          </div>
             <div class="row">
               <div class="col-lg-4 mt-5">
                 <h2 style="font-size:50px ; color: #000;" >Brands who   <br> <span class="text-color-3 style-type">Trust us</span></h2>
@@ -464,11 +472,21 @@
                 </div>
               </div>
             </div>
+            <div class="flat-trusted">
+                  <div class="mark-page9 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  
+          </div>
           </div>
         </section>
+        
 
         <section>
           <div class="container mt-5 pt-5 text-center">
+          <div class="flat-trusted">
+                  <div class="mark-page10 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page18 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
+                  
+          </div>
           <div class="howdowework mb-5 pb-5">
             <div>
             <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
@@ -654,9 +672,16 @@
             </div>
           </div>
         </section>
+        
 
         <section>
           <div class="container mt-5 mb-5 pt-5 pb-5">
+          <div class="flat-trusted">
+         
+                  <div class="mark-page11 tf-mark animate-up "> <img src="assets/images/mark-page/round.svg" alt="images" style="width:70%" > </div>
+                 
+                 
+          </div>
           <div class="row index-map-section">
             <div class="col-lg-6">
               <h2 class="mb-4">India <span class="text-color-3 style-title">Presence</span></h2>
@@ -668,9 +693,16 @@
           </div>
         </div>
         </section>
-
+        
         <section>
           <div class="container mt-5 mb-5 pt-5 pb-5">
+          <div class="flat-trusted">
+                  <div class="mark-page12 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page13 tf-mark "> <img src="assets/images/mark-page/round.svg" alt="images" style="width:60%" > </div>
+                  <div class="mark-page14 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:90%" > </div>
+                  <div class="mark-page15 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page16 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+          </div>
           <div class="row index-map-section">
             <div class="col-lg-5">
               <h2 class="mb-4">Why you  <span class="text-color-3 style-title">should</span> work<br> with us?</h2>
@@ -680,8 +712,13 @@
               <img src="/assets/images/image-box/Group 5.png" alt="" style="width: 90%;">
             </div>
           </div>
+          <div class="flat-trusted">
+          <div class="mark-page17 tf-mark animate-up"> <img src="assets/images/mark-page/sale.svg" alt="images" style="width:70%" > </div>
+                  
+          </div>
         </div>
         </section>
+        
 
        <!-- Footer -->
        

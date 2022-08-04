@@ -171,6 +171,10 @@
 
     <section class="tf-space flat-testimonial falt-client">
       <div class="container">
+      <div class="flat-trusted">
+                  <div class="mark-page26 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                
+          </div>
         <div class="row">
           <div class="col-lg-6">
             <div
@@ -224,6 +228,7 @@
             <div class="swiper-pagination-testi tf-style"></div>
           </div>
         </div>
+        
       </div>
     </section>
 
@@ -364,6 +369,10 @@
         </div>
       </div>
   </div>
+  <div class="flat-trusted">
+                  <div class="mark-page27 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page28 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
+          </div>
   </div>
     </section>
 

@@ -310,8 +310,12 @@
         </div>
       </section>
 
-      <div class="container mt-5">
+      <div class="container mt-5 mb-5 pb-5">
         <div class="row">
+        <div class="flat-trusted">
+                  <div class="mark-page21 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  
+          </div>
           <div class="col-lg-12 mt-5 ">
             <!-- <h2 class="comp-pos">Our <span class="text-color-3 style-title">Culture</span></h1> -->
             
@@ -326,6 +330,7 @@
           </div>
           </div>
           <div class="col-lg-12">
+         
             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
               et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
               Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
@@ -340,14 +345,23 @@
               aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
               gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
               sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
+              <div class="flat-trusted">
+                  <div class="mark-page22 tf-mark "> <img src="assets/images/image-box/waves.svg" alt="images" style="width:70%" > </div>
+                  
           </div>
+            </div>
         </div>
+       
       </div>
 
       
       
 
-      <div class="container  pt-5 pb-5 ">
+      <div class="container  pt-5 pb-5 mt-5 ">
+      <div class="flat-trusted">
+                  <div class="mark-page23 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page24 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
+          </div>
         <h2 class="mb-5 text-center text-color-3 style-title">Newsroom</h2>
         <ul class="tabs text-center">
           <li class="tab-link current" data-tab="tab-1">Lorem</li>
@@ -500,6 +514,10 @@
             </div>
           </div>
         </div>
+        <div class="flat-trusted">
+                  <div class="mark-page25 tf-mark animate-up"> <img src="assets/images/mark-page/money.svg" alt="images" style="width:70%" > </div>
+                 
+          </div>
       </div>
 
       

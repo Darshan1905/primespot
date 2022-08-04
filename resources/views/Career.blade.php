@@ -134,7 +134,12 @@
         </div>
         <!-- #site-header-wrap -->
 
-        <div class="container career-con pt-5 pb-5">
+        <div class="container career-con pt-5 pb-5 mt-5 mb-5">
+        <div class="flat-trusted">
+                  <div class="mark-page34 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page35 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page36 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
+          </div>
           <div class="row mt-5 mb-5">
             <div class="col-lg-4 col-md-4 col-sm-6 mt-4">
               <div class="box-out">
@@ -170,6 +175,7 @@
               </div>
             </div>
           </div>
+          
         </div>
 
         <!-- Footer -->

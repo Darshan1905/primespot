@@ -167,6 +167,10 @@
         <!-- #site-header-wrap -->
 
         <div class="container  pb-5">
+        <div class="flat-trusted">
+                  <div class="mark-page31 tf-mark animate-up"> <img src="assets/images/mark-page/message.svg" alt="images" style="width:70%" > </div>
+                 
+          </div>
           <div class="row clientele-first-section pt-5 pb-5">
             <div class="col-lg-1 dots-flot">
               <img
@@ -321,6 +325,10 @@
               <p class="mt-4">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam  fisd fsdjikfnosd fsdnifjsdo gjuop gfgdf dfgaliquyam</p>
             </div>
             <div class="col-lg-6 cli-img text-center pt-5">
+            <div class="flat-trusted">
+                  <div class="mark-page32 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page33 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
+          </div>
                 <img src="/assets/images/image-box/clientele-img.png" alt="">
             </div>
           </div>

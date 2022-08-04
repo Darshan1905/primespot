@@ -156,6 +156,10 @@
 
       <section>
         <div class="container mt-5 mb-5 pt-5 pb-5">
+        <div class="flat-trusted">
+                  <div class="mark-page29 tf-mark animate-up "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>
+                
+          </div>
           <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
             et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
             Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit
@@ -168,6 +172,10 @@
 
       <section>
         <div class="container mb-5 p-5">
+        <div class="flat-trusted">
+                  <div class="mark-page30 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+                  
+          </div>
 
           <div class="owl-carousel owl-theme solution1 p-5 text-center">
             <div class="item">

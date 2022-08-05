@@ -480,7 +480,7 @@
         </section>
         
 
-        <section>
+        <section >
           <div class="container mt-5 pt-5 text-center">
           <div class="flat-trusted">
                   <div class="mark-page10 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
@@ -496,7 +496,7 @@
             <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
           </div>
         </div>
-            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing </p>
+            <p class="mb-5 pb-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing </p>
           </div>
 
           <!-- ***************************** -->
@@ -654,7 +654,7 @@
 
         </section>
 
-        <section  class="index-carousel-bg-2">
+        <section  class="index-carousel-bg-2 mt-5 pt-5">
           <div class="container mt-5 pt-5">
             <div class="row">
               <div class="col-lg-4">

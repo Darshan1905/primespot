@@ -4987,43 +4987,9 @@ ul {
 
 .dot {
   position: relative;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
-.tooltiptext {
-  visibility: hidden;
-  width: 150px;
-  right: -100px;
-  top: 30px;
-  background-color: #fff;
-  color: #000;
-  text-align: center;
-  border-radius: 6px;
-  box-shadow: inset 0px 3px 6px #00000029;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-}
-
-.dot .tooltiptext::after {
-  content: "";
-  position: absolute;
-  margin-left: -5px;
-  border-width: 5px;
-}
-
-.dot:hover .tooltiptext {
-  visibility: visible;
-}
-
-.tooltiptext h5 {
-  font-weight: bold;
-  font-size: 13px;
-}
-
-.tooltiptext p {
-  font-size: 10px;
-}
 
 #map {
   position: relative;
@@ -5031,12 +4997,12 @@ ul {
 }
 
 .dot {
-  width: 100%;
+  width: 5%;
   position: absolute;
 }
 
 .dot img {
-  width: 5%;
+  width: 100%;
 }
 
 .dot-1 {
@@ -5547,12 +5513,229 @@ ul.tablist li.activated {
     display: none;
   }
 
+  .road-map .overlay-1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.4s ease;
+    /* background: #000; */
+    cursor: pointer;
+    /* border-radius: 30px; */
+  }
+  
+  
+  
+  .road-map .dot-1:hover .overlay-1{
+    opacity: .8;
+    /* visibility: visible; */
+  }
+
+
+  .road-map .overlay-2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.4s ease;
+    /* background: #000; */
+    cursor: pointer;
+    /* border-radius: 30px; */
+  }
+  
+  
+  
+  .road-map .dot-2:hover .overlay-2{
+    opacity: .8;
+    /* visibility: visible; */
+  }
+
+  
+  .road-map .overlay-3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.4s ease;
+    /* background: #000; */
+    cursor: pointer;
+    /* border-radius: 30px; */
+  }
+  
+  
+  
+  .road-map .dot-3:hover .overlay-3{
+    opacity: .8;
+    /* visibility: visible; */
+  }
+
+  .road-map .overlay-4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.4s ease;
+    /* background: #000; */
+    cursor: pointer;
+    /* border-radius: 30px; */
+  }
+  
+  
+  
+  .road-map .dot-4:hover .overlay-4{
+    opacity: .8;
+    /* visibility: visible; */
+  }
+  .road-map .overlay-5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.4s ease;
+    /* background: #000; */
+    cursor: pointer;
+    /* border-radius: 30px; */
+  }
+  
+  
+  
+  .road-map .dot-5:hover .overlay-5{
+    opacity: .8;
+    /* visibility: visible; */
+  }
+
+  
+
+  
+  .road-map .content{
+    position: absolute;
+    visibility: visible !important;
+    /* top: 0; */
+    /* right: 0%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+  }
+ 
+   
+  .road-map .content-2{
+    position: absolute;
+    visibility: visible !important;
+    /* top: 0; */
+    /* right: 0%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+  }
+ 
+
+  .road-map .content-3{
+    position: absolute;
+    visibility: visible !important;
+    /* top: 0; */
+    /* right: 0%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+  }
+  .road-map .content-4{
+    position: absolute;
+    visibility: visible !important;
+    /* top: 0; */
+    /* right: 0%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+  }
+  .road-map .content-5{
+    position: absolute;
+    visibility: visible !important;
+    /* top: 0; */
+    /* right: 0%; */
+    /* transform: translate(-50%, -50%); */
+    text-align: center;
+  }
+
+
 }
 
 /* ************************** */
+
+
+.road-map .content{
+  position: absolute;
+  /* top: 0%; */
+  /* left: 50%; */
+  transform: translate(10%, 40%);
+  visibility: hidden;
+  text-align: center;
+}
+
+.road-map .content-2{
+  position: absolute;
+  /* top: 0%; */
+  /* left: 50%; */
+  transform: translate(0%, -90%);
+  visibility: hidden;
+  text-align: center;
+}
+
+.road-map .content-3{
+  position: absolute;
+  visibility: hidden;
+  top: 0;
+  right: 0%;
+  /* transform: translate(-50%, -50%); */
+  text-align: center;
+}
+.road-map .content-4{
+  position: absolute;
+  visibility: hidden;
+  /* top: 5%; */
+  /* right: 10%; */
+  transform: translate(-50%, 20%);
+  text-align: center;
+}
+.road-map .content-5{
+  position: absolute;
+  visibility: hidden;
+  /* top: 0; */
+  /* right: 0%; */
+  transform: translate(-90%, -100%);
+  text-align: center;
+}
+
+
+.index-page-box-1-99{
+
+  width: 170px;
+  /* visibility: hidden; */
+
+}
+
+.index-page-box-1-99 h3{
+   
+  font-size: 15px;
+  
+}
+
+.index-page-box-1-99 p{
+ 
+  font-size: 10px;
+  
+}
+
+
 
 
 .road-map-content-cards{
   display: flex;
   justify-content: center;
 }
+

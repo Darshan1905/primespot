@@ -230,8 +230,8 @@
               </div>
               <div class="col-lg-6 col-md-7">
                 <div class="flat-trusted">
-              <div class="mark-page19 tf-mark "> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
-                  <div class="mark-page20 tf-mark "> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
+              <div class="mark-page19 tf-mark "> <img src="assets/images/mark-page/mobile.png" alt="images" style="width:70%" > </div>
+                  <div class="mark-page20 tf-mark "> <img src="assets/images/mark-page/locate.png" alt="images" style="width:70%" > </div>
                   </div>
                 <div class="trusted-heading">
                   <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
@@ -484,7 +484,7 @@
           <div class="container mt-5 pt-5 text-center">
           <div class="flat-trusted">
                   <div class="mark-page10 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
-                  <div class="mark-page18 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page18 tf-mark animate-up"> <img src="assets/images/mark-page/discount.png" alt="images" style="width:70%" > </div>
                   
           </div>
           <div class="howdowework mb-5 pb-5">
@@ -530,22 +530,87 @@
                 <div class=" mt-3">
                   <img src="/assets/images/image-box/Group 2541.png" width="100%" alt="Map">
                 </div>
-                <div id="dots">
-                  <div class="dot dot-1">
+                <div id="dots ">
+                  <div class="dot dot-1 ">
+                   
                     <img class="dot1-img" src="/assets/images/image-box/Group 2536.svg" />
+                   
+                    <div class="overlay-1">
+                <div class="content">
+                <div class="index-page-box-1-99 text-center">
+            <div class="index-btn  ">
+                <h2 style="font-size:32px;"><b>1 </b> </h2>
+            </div>
+            <div class="index-page-box-2">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+               </div>
+               </div>
+              
+                   
                     
                   </div>
                   <div class="dot dot-2"><img class="dot2-img"  src="/assets/images/image-box/Group 2537.svg"/>
-   
+                  <div class="overlay-2">
+                <div class="content-2">
+                <div class="index-page-box-1-99 text-center">
+            <div class="index-btn-1  ">
+                <h2 style="font-size:32px;"><b>2</b> </h2>
+            </div>
+            <div class="index-box-2-1">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+               </div>
+               </div>
                   </div>
                   <div class="dot dot-3"><img class="dot3-img" src="/assets/images/image-box/Group 2538.svg"/>
-                    
+                  <div class="overlay-3">
+                <div class="content-3">
+                <div class="index-page-box-1-99 text-center">
+            <div class="index-btn-2  ">
+                <h2 style="font-size:32px;"><b>3</b> </h2>
+            </div>
+            <div class="index-box-2-2">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+               </div>
+               </div>
                   </div>
                   <div class="dot dot-4"><img class="dot4-img" src="/assets/images/image-box/Group 2539.svg"/>
-                    
+                  <div class="overlay-4">
+                <div class="content-4">
+                <div class="index-page-box-1-99 text-center">
+            <div class="index-btn-3  ">
+                <h2 style="font-size:32px;"><b>4</b> </h2>
+            </div>
+            <div class="index-box-2-3">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+               </div>
+               </div>
                   </div>
                   <div class="dot dot-5"><img class="dot5-img" src="/assets/images/image-box/Group 2540.svg"/>
-                    
+                  <div class="overlay-5">
+                <div class="content-5">
+                <div class="index-page-box-1-99 text-center">
+            <div class="index-btn-4  ">
+                <h2 style="font-size:32px;"><b>5</b> </h2>
+            </div>
+            <div class="index-box-2-4">
+                <h3 class="mt-4">TEXT TITLE</h3>
+                <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+            </div>
+        </div>
+               </div>
+               </div>
                   </div>
                   
                   
@@ -678,7 +743,7 @@
           <div class="container mt-5 mb-5 pt-5 pb-5">
           <div class="flat-trusted">
          
-                  <div class="mark-page11 tf-mark animate-up "> <img src="assets/images/mark-page/round.svg" alt="images" style="width:70%" > </div>
+                  <div class="mark-page11 tf-mark animate-up "> <img src="assets/images/mark-page/coupon.png" alt="images" style="width:70%" > </div>
                  
                  
           </div>

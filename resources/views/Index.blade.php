@@ -182,7 +182,7 @@
                   <div class="content">
                     <div class="heading">
                       <h1>
-                        We Are Expart Digital<br />
+                        We Are Expert Digital<br />
                         Agency Solution.
                       </h1>
                       <p>
@@ -654,7 +654,7 @@
 
         </section>
 
-        <section  class="index-carousel-bg-2 mt-5 pt-5">
+        <section  class="index-carousel-bg-2 ">
           <div class="container mt-5 pt-5">
             <div class="row">
               <div class="col-lg-4">

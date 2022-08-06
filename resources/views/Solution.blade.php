@@ -157,7 +157,7 @@
       <section>
         <div class="container mt-5 mb-5 pt-5 pb-5">
         <div class="flat-trusted">
-                  <div class="mark-page29 tf-mark animate-up "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>
+                  <div class="mark-page29 tf-mark animate-up   "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>
                 
           </div>
           <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
@@ -339,7 +339,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="/assets/images/image-box/Rectangle 235/solution-2.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -402,7 +402,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="/assets/images/image-box/Rectangle 235/solution-3.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>
@@ -529,7 +529,7 @@
               </div>
             </div>
             <div class="col-lg-5">
-              <img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+              <img src="/assets/images/image-box/Rectangle 235/solution-1.png" alt="" style="width:90% ;">
             </div>
           </div>
         </div>

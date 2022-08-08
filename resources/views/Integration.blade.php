@@ -293,13 +293,13 @@
                <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-2" class="tab-cont">
-               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/brand-bb1.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-3" class="tab-cont">
-               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/brand-bb2.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-4" class="tab-cont">
-               <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+               <img src="/assets/images/image-box/brand-bb3.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
             </div>
             <div id="tab-5" class="tab-cont ">
                <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
@@ -356,13 +356,13 @@
             <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-2" class="tab-content">
-            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/brand-bb1.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-3" class="tab-content">
-            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/brand-bb2.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-4" class="tab-content">
-            <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+            <img src="/assets/images/image-box/brand-bb3.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
           </div>
           <div id="itab-5" class="tab-content">
             <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">

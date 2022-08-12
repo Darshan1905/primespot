@@ -365,12 +365,6 @@
 
   </div>
 
-
-  
-
-
-
-
           <div class="container p-5 text-center">
             <h2 class="mb-5" style="color: #fff ;">Our <span class="text-color-3 style-title">Product</span> Line</h2>
             <div class="owl-carousel owl-theme index1 p-5">
@@ -378,15 +372,17 @@
                <img src="/assets/images/owl-slider-images/Group 1.svg" alt="img">
                <div class="overlay">
                <div class="content">
-               <p >Home fragrance</p>
+               <p  >Fragrance</p>
+
                </div>
-</div>
+        </div>
               </div>
               <div class="item">
                <img src="/assets/images/owl-slider-images/Group 2.svg" alt="img">
                <div class="overlay">
                 <div class="content">
-               <p  >Accessories</p>
+               <p>Home&nbsp;Fragrance</p>
+
                </div>
                </div>
               </div>
@@ -394,7 +390,8 @@
                <img src="/assets/images/owl-slider-images/Group 3.svg" alt="img">
                <div class="overlay">
                 <div class="content">
-               <p  >Fragrance</p>
+               <p  >Luggage</p>
+
                </div>
                </div>
               </div>
@@ -402,7 +399,7 @@
                <img src="/assets/images/owl-slider-images/Group 4.svg" alt="img">
                <div class="overlay">
                 <div class="content">
-               <p  >Sunglasses</p>
+               <p  >Accessories</p>
                </div>
                </div>
               </div>
@@ -410,7 +407,8 @@
                <img src="/assets/images/owl-slider-images/Group 5.svg" alt="img">
                <div class="overlay">
                 <div class="content">
-               <p  >Luggage</p>
+               <p  >Sunglasses</p>
+
                </div>
                </div>
               </div>
@@ -418,18 +416,11 @@
                <img src="/assets/images/owl-slider-images/Group 6.svg" alt="img">
                <div class="overlay">
                 <div class="content">
-               <p  >Appearls</p>
+               <p  >Apparels</p>
                </div>
                </div>
               </div>
-              <div class="item">
-                <img src="/assets/images/owl-slider-images/Group 3.svg" alt="img">
-                <div class="overlay">
-                  <div class="content">
-               <p>Fragrance</p>
-               </div>
-               </div>
-               </div>
+              
             </div>
           </div>
         </section>

@@ -5,7 +5,7 @@ const nextIcon =
 $(".index1").owlCarousel({
   items: 6,
   nav: true,
-  autoplay: true,
+  autoplay: false,
   autoplayHoverPause:true,
   autoplayTimeout: 2000,
   margin: 30,
@@ -17,13 +17,18 @@ $(".index1").owlCarousel({
       items: 2,
       nav: false,
       dots: true,
+  autoplay: true
+
     },
     600: {
       items: 3,
       nav: true,
+  autoplay: true
+
     },
     1000: {
-      items: 6,
+      items: 6
+      // autoplay: flase,
       // nav:true,
       // loop:false
     },

@@ -242,7 +242,7 @@
                   </h2>
                 </div>
                 <h3 class="text-color-3">
-                  Pnteger vitae pretium nunc. Aliquam rutrum lectus vel est
+                  Hello pretium nunc. Aliquam rutrum lectus vel est
                   pulvinar, in scelerisque purus faucibus fusce varius lacinia.
                 </h3>
                 <p>

@@ -543,7 +543,11 @@
                    
                     
                   </div>
-                  <div class="dot dot-2"><img class="dot2-img"  src="/assets/images/image-box/Group 2537.svg"/>
+                  <!--<div class="dot dot-2"><img class="dot2-img"  src="/assets/images/image-box/Group 2537.svg"/>-->
+                  
+                  <div class="dot dot-2"><img class="dot2-img"  src="/assets/images/image-box/Map-Pin-Example.png"/>
+                  
+                  
                   <div class="overlay-2">
                 <div class="content-2">
                 <div class="index-page-box-1-99 text-center">

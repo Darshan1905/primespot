@@ -422,7 +422,7 @@
               </div>
               
             </div>
-          </div>
+          </div>    
         </section>
   
         <section class="index-carousel-bg-3">
@@ -769,7 +769,7 @@
               <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, ta kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
             </div>
             <div class="col-lg-7">
-              <img src="/assets/images/image-box/Group 5.png" alt="" style="width: 90%;">
+              <img src="/assets/images/image-box/Should-Work.png" alt="" style="width: 90%;">
             </div>
           </div>
           <div class="flat-trusted">

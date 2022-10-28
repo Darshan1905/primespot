@@ -219,7 +219,7 @@
               <div class="col-lg-6 col-md-5">
                 <div class="media img-1">
                   <img class="index-img-1" src="assets/images/image-box/Second-Banner.png" alt="images" style="width: 100%;"/>
-                  <img class="index-img-2" src="assets/images/image-box/Group 3-without.png" alt="images" style="width: 100%;"/>
+                  <img class="index-img-2" src="assets/images/image-box/Second-Banner.png" alt="images" style="width: 100%;"/>
                   <div class="mark-page tf-mark  animate-up"> <img src="assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
                   <div class="mark-page2 tf-mark animate-up"> <img src="assets/images/mark-page/boxes.png" alt="images" style="width:70%" > </div>
                   <div class="mark-page3 tf-mark animate-up"> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>

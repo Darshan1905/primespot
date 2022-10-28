@@ -168,7 +168,7 @@
                   <div class="overlay-slider"></div>
                   <div class="sld-img">
                     <img
-                      src="assets/images/image-slider/Group 1.png"
+                      src="assets/images/image-slider/MainBanner-1.png"
                       alt="img"
                     />
                   </div>

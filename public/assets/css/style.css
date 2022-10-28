@@ -4230,8 +4230,7 @@ a:focus {
 }
 
 .index-carousel-bg-2 {
- /* background: url(/assets/images/image-box/Building-182420.png);*/
-  background: url(/assets/images/image-box/Building-img.png);  
+  background: url(/assets/images/image-box/buildings\Building-img.png);  
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

@@ -448,29 +448,31 @@ finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
 </div>
 <div class="col-lg-8 mt-5">
 <div class="owl-carousel owl-theme index3 ">
+
 <div class="item">
 <img src="/assets/images/owl-slider-images/Fragrance-Logo.png" alt="" style="width: 100%;">
 </div>
+
 <div class="item">
 <img src="/assets/images/owl-slider-images/Luggage-Logo.png" alt="" style="width: 100%;">
-
 </div>
+
 <div class="item">
 <img src="/assets/images/owl-slider-images/Sunglasses-Logo.png" alt="" style="width: 100%;">
-
 </div>
+
+<div class="item">
+<img src="/assets/images/owl-slider-images/Beauty-Logo.png" alt="" style="width: 100%;">
+</div>
+
+<!--<div class="item">
+<img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+</div>
+
 <div class="item">
 <img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+</div>-->
 
-</div>
-<div class="item">
-<img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
-
-</div>
-<div class="item">
-<img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
-
-</div>
 </div>
 </div>
 </div>

@@ -444,7 +444,7 @@
             <div class="row">
               <div class="col-lg-4 mt-5">
                 <h2 style="font-size:50px ; color: #000;" >Brands who   <br> <span class="text-color-3 style-type">Trust us</span></h2>
-                <h3 class="mt-5 pt-5" style="color: #FF4040;">Sunglasses</h3>
+                <!--<h3 class="mt-5 pt-5" style="color: #FF4040;">Sunglasses</h3>-->
               </div>
               <div class="col-lg-8 mt-5">
                 <div class="owl-carousel owl-theme index3 ">
@@ -493,12 +493,13 @@
             <div>
             <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
           </div>
-            <h2 class=" pl-2 pr-2" style="color: #000 ;">So, How do we <span class="text-color-3 style-title">work</span> ?</h2>
+            <h2 class=" pl-2 pr-2" style="color: #000 ;">Accelerated Growth with <span class="text-color-3 style-title">PrimeSpot</span> ?</h2>
           <div>
             <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
           </div>
         </div>
-            <p class="mb-5 pb-5">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing </p>
+            <p class="mb-5 pb-5">The increase in internet and mobile penetration will be a catalyst for the Indian e-commerce space to grow 3x in 5 years, pushing 
+            brands to adapt to a <b>multi-channel strategy<b> more rapidly for their e-commerce business.</p>
           </div>
 
           <!-- ***************************** -->

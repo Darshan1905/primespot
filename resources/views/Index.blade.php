@@ -182,7 +182,7 @@
                   <div class="content">
                     <div class="heading">
                       <h1>
-                       A cohesive one-stop solution for your brand's e-commerce expansion.
+                       A cohesive one-stop solution <br> for your brand's e-commerce expansion.
                       </h1>
                       <p>
                         Empowering your brand's accelerated online growth with a full stack of services that can be tailor made to suit your business needs.

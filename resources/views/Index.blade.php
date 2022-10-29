@@ -684,8 +684,8 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="index-box-1">
 <div class="index-box-4">
 <div class="index-box-5 ">
-<h2 style="color: #fff;" class="text-center mb-4" >Accelerator 2</h2>
-<p style="color: #fff;" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam</p>
+<h2 style="color: #fff;" class="text-center mb-4" >Accelerator</h2>
+<p style="color: #fff;text-align: justify;" >As established brands, to complement your business, we offer a fully aligned offline / modern trade distributor-style all-inclusive margin business model to accelerate your e-commerce growth. We have a dedicated team of brand experts and strategists for day to day operational needs overseeing every part of marketplace management, cataloging, logistics, returns & finance reconciliations, accelerating your business. Our intelligent inventory system under this model is designed to offer you the best of our state of art Supply Chain capabilities with Stock Pooling capabilities to avoid overstocking and ensure FIFO, without the typical 3PL cost per sqft model. </p>
 </div>
 </div>
 </div>
@@ -695,8 +695,9 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="index-box-1">
 <div class="index-box-2">
 <div class="index-box-3 ">
-<h2 style="color: #fff;" class="text-center mb-4" >Accelerator 3</h2>
-<p style="color: #fff;" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam</p>
+<h2 style="color: #fff;" class="text-center mb-4" >A-la-carte</h2>
+<p style="color: #fff;text-align: justify" >For Brands that require agility and flexibility we offer Bespoke services suited to enable transformation. The rapidly changing business of e-commerce may require  you to create your own D2C website from the ground up, SEO optimize it to boost rankings; build a marketing strategy to capture the right market share or optimize your ACOS on AMS (Amazon marketing services); manage omnichannel logistics for ecommerce,  warehouse storage or shipping services with a pan-India fulfillment network; optimize cataloging for your products searchability with getting the right photoshoots done for your new range - we help you capitalize on trends shaping the future of e-commerce.
+</p>
 </div>
 </div>
 </div>

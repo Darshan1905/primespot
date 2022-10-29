@@ -313,7 +313,7 @@
                       <div class="progress-skill">
                         <div class="couter">
                           <div class="chart" data-percent="100">
-                            <span class="counter-number counter">130+</span>
+                            <span class="counter-number counter">130</span>
 
                             <!-- <span class="percent">10</span> -->
                           </div>
@@ -327,13 +327,13 @@
                       <div class="progress-skill">
                         <div class="couter">
                           <div class="chart2" data-percent="100">
-                            <span class="counter-number counter ">3654</span>
+                            <span class="counter-number counter ">5000</span>
                             <!-- <span class="percent">0</span> -->
                           </div>
                         </div>
                       </div>
                       <div class="content">
-                        <h3 style="color: #fff; font-size: 25px;" >Brands</h3>
+                        <h3 style="color: #fff; font-size: 25px;" >Products</h3>
                       </div>
                     </div>
                   </div>
@@ -344,13 +344,13 @@
                       <div class="progress-skill">
                         <div class="couter">
                           <div class="chart3" data-percent="100">
-                            <span class="counter-number counter ">10000 </span>
+                            <span class="counter-number counter ">19000</span>
                             <!-- <span class="percent">0</span> -->
                           </div>
                         </div>
                       </div>
                       <div class="content">
-                        <h3 style="color: #fff; font-size: 25px;" >Team Strength</h3>
+                        <h3 style="color: #fff; font-size: 25px;" >Pincodes</h3>
                       </div>
                     </div>
 
@@ -359,13 +359,13 @@
                         <div class="couter">
                           <div class="chart4" data-percent="100">
                             <!-- <span class="percent">0</span> -->
-                            <span class="counter-number counter ">4856 </span>
+                            <span class="counter-number counter "> 100000 </span>
 
                           </div>
                         </div>
                       </div>
                       <div class="content">
-                        <h3 style="color: #fff; font-size: 25px;" >Products</h3>
+                        <h3 style="color: #fff; font-size: 25px;" >Warehouses (Sq ft)</h3>
                       </div>
                     </div>
                   </div>

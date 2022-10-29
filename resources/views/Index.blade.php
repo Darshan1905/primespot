@@ -452,7 +452,7 @@ finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
 <img src="/assets/images/owl-slider-images/Fragrance-Logo.png" alt="" style="width: 100%;">
 </div>
 <div class="item">
-<img src="/assets/images/owl-slider-images/index-page-slide.png" alt="" style="width: 100%;">
+<img src="/assets/images/owl-slider-images/Luggage-Logo.png" alt="" style="width: 100%;">
 
 </div>
 <div class="item">

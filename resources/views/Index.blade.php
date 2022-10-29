@@ -511,7 +511,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-1">
 <h3 class="mt-4">PrimeSpot’s Dispatch</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b><br> is < 0.05%  across all website partners</p>
+<p style=" margin:6px; line-height:1.2; text-align: justify;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b><br> is < 0.05%  across all website partners</p>
 </div>
 </div>
 
@@ -521,7 +521,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-3">
 <h3 class="mt-4">Brand Management</h3>
-<p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online/p>
+<p style=" margin:6px; line-height:1.2; text-align: justify;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online/p>
 </div>
 </div>
 </div>
@@ -548,7 +548,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-page-box-2">
 <h3 class="mt-4">PrimeSpot's Sells</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
+<p style=" margin:6px; line-height:1.2;text-align: justify;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
 </div>
 </div>
 </div>
@@ -566,7 +566,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-1">
 <h3 class="mt-4">PrimeSpot’s Dispatch</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot’s dispatch breach and cancellation ratio is < 0.05%  across all website partners</p>
+<p style=" margin:6px; line-height:1.2;text-align: justify;">PrimeSpot’s dispatch breach and cancellation ratio is < 0.05%  across all website partners</p>
 </div>
 </div>
 </div>
@@ -581,7 +581,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-2">
 <h3 class="mt-4">PrimeSpot's Listing </h3>
-<p style=" margin:6px; line-height:1.2;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals</p>
+<p style=" margin:6px; line-height:1.2;text-align: justify;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals</p>
 </div>
 </div>
 </div>
@@ -596,7 +596,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-3">
 <h3 class="mt-4">Brand Management</h3>
-<p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online.</p>
+<p style=" margin:6px; line-height:1.2;text-align: justify;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online.</p>
 </div>
 </div>
 </div>
@@ -611,7 +611,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-4">
 <h3 class="mt-4">Integration</h3>
-<p style=" margin:6px; line-height:1.2;">We deploy Microsoft Dynamics 365, a deeply integrated e-commerce IT systems giving you real time insights into your business.</p>
+<p style=" margin:6px; line-height:1.2;text-align: justify;">We deploy Microsoft Dynamics 365, a deeply integrated e-commerce IT systems giving you real time insights into your business.</p>
 </div>
 </div>
 </div>

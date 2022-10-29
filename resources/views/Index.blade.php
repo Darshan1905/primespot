@@ -301,12 +301,12 @@
                       <div class="progress-skill">
                         <div class="couter">
                           <div class="chart5" data-percent="100">
-                            <span class="counter-number counter ">1500 </span>
+                            <span class="counter-number counter ">25+ </span>
                           </div>
                         </div>
                       </div>
                       <div class="content">
-                        <h3 style="color: #fff; font-size: 25px;" >Markets</h3>
+                        <h3 style="color: #fff; font-size: 25px;" >Websites</h3>
                       </div>
                     </div>
                     <div class=" mt-5 col-lg-4 col-md-4 col-sm-6">

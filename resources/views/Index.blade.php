@@ -674,8 +674,8 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="index-box-1">
 <div class="index-box-2">
 <div class="index-box-3 ">
-<h2 style="color: #fff;" class="text-center mb-4" >Accelerator 1</h2>
-<p style="color: #fff;" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam</p>
+<h2 style="color: #fff;" class="text-center mb-4" >Brand Aggregator</h2>
+<p style="color: #fff; text-align: justify;" >E-commerce growth for your business requires access to a full stack of fulfillment services with end-to-end logistics operations. The Brand Aggregator model of PrimeSpot, much like the E-commerce roll up model, offers to invest in your business with a stake giving you the chance to capitalize on all our capabilities - people & technology. It’s a way of aligning priorities for optimum long-term results, adding value to boost growth and revenue and pushing the brand to thrive in the digital space and ultimately the market.  This model allows for a Founder’s vision to be realized by tapping into the best talent and enjoying economies of scale without high OpEx or capital investments and instead focusing on the Brand’s growth .</p>
 </div>
 </div>
 </div>

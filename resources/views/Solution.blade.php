@@ -169,7 +169,7 @@ generating businesses adapting to the new digital future.</p>
 <section>
 <div class="container mb-5 p-5">
 <div class="flat-trusted">
-<div class="mark-page30 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+<div class="mark-page30 tf-mark "> <img src="assets/images/mark-page/dots-.svg" alt="images" style="width:70%" > </div>
 
 </div>
 

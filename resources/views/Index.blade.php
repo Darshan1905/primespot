@@ -507,17 +507,17 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="road-map-content-cards"> 
 <div class="index-page-box-1-1 text-center">
 <div class="index-btn-1  ">
-<h2 style="font-size:32px;"><b>2 </b> </h2>
+<h2 style="font-size:32px;"><b>2</b> </h2>
 </div>
 <div class="index-box-2-1">
-<h3 class="mt-4">PrimeSpot's Sells</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
+<h3 class="mt-4">PrimeSpot’s Dispatch</h3>
+<p style=" margin:6px; line-height:1.2;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b><br> is < 0.05%  across all website partners</p>
 </div>
 </div>
 
 <div class="index-page-box-1-3 text-center">
 <div class="index-btn-3  ">
-<h2 style="font-size:32px;"><b>4 </b> </h2>
+<h2 style="font-size:32px;"><b>4</b> </h2>
 </div>
 <div class="index-box-2-3">
 <h3 class="mt-4">PrimeSpot’s Dispatch</h3>
@@ -544,11 +544,11 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="content">
 <div class="index-page-box-1-99 text-center">
 <div class="index-btn  ">
-<h2 style="font-size:32px;"><b>1 </b> </h2>
+<h2 style="font-size:32px;"><b>1</b> </h2>
 </div>
 <div class="index-page-box-2">
-<h3 class="mt-4">TEXT TITLE</h3>
-<p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+<h3 class="mt-4">PrimeSpot's Sells</h3>
+<p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
 </div>
 </div>
 </div>
@@ -564,10 +564,6 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="index-btn-1  ">
 <h2 style="font-size:32px;"><b>2</b> </h2>
 </div>
-
-
-
-
 <div class="index-box-2-1">
 <h3 class="mt-4">TEXT TITLE</h3>
 <p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
@@ -584,8 +580,8 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>3</b> </h2>
 </div>
 <div class="index-box-2-2">
-<h3 class="mt-4">TEXT TITLE</h3>
-<p style=" margin:6px; line-height:1.2;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla facilis nemo quam. Aperiam, nisi, quasi voluptatem veniam quo obcaecati </p>
+<h3 class="mt-4">PrimeSpot's Listing </h3>
+<p style=" margin:6px; line-height:1.2;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals</p>
 </div>
 </div>
 </div>

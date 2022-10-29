@@ -232,12 +232,13 @@
                   </div>
                 <div class="trusted-heading">
                   <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
-                  <h3 class="tf-title">
-                    We Are
-                    <span class="text-color-3 style-title">Trusted</span> By
-                    First & Best In The World.
-                  </h3>
+                  <h2 class="tf-title">
+                    We are<span class="text-color-3 style-title">trusted</span> by
+                    first & best in the world.
+                  </h2>
                 </div>
+                
+                
                <!-- <h3 class="text-color-3">
                   Hello pretium nunc. Aliquam rutrum lectus vel est
                   pulvinar, in scelerisque purus faucibus fusce varius lacinia.

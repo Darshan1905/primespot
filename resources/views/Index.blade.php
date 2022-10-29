@@ -444,7 +444,7 @@
             <div class="row">
               <div class="col-lg-4 mt-5">
                 <h2 style="font-size:50px ; color: #000;" >Brands who   <br> <span class="text-color-3 style-type">Trust us</span></h2>
-                <h3 class="mt-5 pt-5" style="color: #FF4040;">Sunglasses</h3>
+                <!--<h3 class="mt-5 pt-5" style="color: #FF4040;">Sunglasses</h3>-->
               </div>
               <div class="col-lg-8 mt-5">
                 <div class="owl-carousel owl-theme index3 ">

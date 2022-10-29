@@ -315,7 +315,8 @@
                           <div class="chart" data-percent="100">
                             <span class="counter-number counter">130</span>
 
-                            <!-- <span class="percent">10</span> -->
+                            <span class="percent">10</span>
+                            
                           </div>
                         </div>
                       </div>

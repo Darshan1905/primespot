@@ -703,39 +703,10 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 
 </div>
-<div class="item">
-<div class="index-box-1">
-<div class="index-box-4">
-<div class="index-box-5 ">
-<h2 style="color: #fff;" class="text-center mb-4" >Accelerator 4</h2>
-<p style="color: #fff;" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam</p>
-</div>
-</div>
-</div>
 
-</div>
-<div class="item">
-<div class="index-box-1">
-<div class="index-box-2">
-<div class="index-box-3 ">
-<h2 style="color: #fff;" class="text-center mb-4" >Accelerator 5</h2>
-<p style="color: #fff;" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam</p>
-</div>
-</div>
-</div>
 
-</div>
-<div class="item">
-<div class="index-box-1">
-<div class="index-box-4">
-<div class="index-box-5 ">
-<h2 style="color: #fff;" class="text-center mb-4" >Accelerator 6</h2>
-<p style="color: #fff;" >Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam</p>
-</div>
-</div>
-</div>
 
-</div>
+
 </div>
 </div>
 </div>

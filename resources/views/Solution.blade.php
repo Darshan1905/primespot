@@ -170,7 +170,6 @@ generating businesses adapting to the new digital future.</p>
 <div class="container mb-5 p-5">
 <div class="flat-trusted">
 <div class="mark-page30 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
-
 </div>
 
 <div class="owl-carousel owl-theme solution1 p-5 text-center">
@@ -178,39 +177,36 @@ generating businesses adapting to the new digital future.</p>
 <!-- <h4 class="mt-3">Marketplace Management</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link  current " data-tab="tab-1">Marketplace Management</li>
-
 </ul>
-
 </div>
+
 <div class="item">
 <!-- <h4 class="mt-3">D2C Solutions</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link " data-tab="tab-2">D2C Solutions</li>
-
-
 </ul>
-
 </div>
+
 <div class="item">
 <!-- <h4 class="mt-3">Warehousing Services</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link" data-tab="tab-3">Warehousing Services</li>
-
 </ul>
 </div>
+
 <div class="item">
 <!-- <h4 class="mt-3">Ecommerce Consultancy</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link" data-tab="tab-4">Ecommerce Consultancy</li>
-
 </ul>
 </div>
+
 <div class="item">
 <!-- <h4 class="mt-3">Marketplace Management</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link " data-tab="tab-5">D2C Solutions</li>
-
 </ul>
+
 </div>
 </div>
 
@@ -275,27 +271,10 @@ dolore magna aliquyam
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
 <p class="" style="color:#000 ;">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
+We bring end-to-end e-commerce expansion offerings, personalization capabilities and insights to power the entire customer journey.  We draw first-hand experience from existing Primespot brands to adapt learnings  for your business by tapping into functions like website development for new customer acquisition and retention to escalation and query solving. We build across platforms like Shopify, Magento, Java and across operating systems - android and iOS to touch thresholds of cutting age technology for your business requirements. Performance driven ads across google and other affiliated partners and social media with influencer collaborations for D2C are an imperative part of the digital expansion strategy.
 </p>
 </div>
-<div class="item pr-5" data-dot="<button>2</button>">
+<!--<div class="item pr-5" data-dot="<button>2</button>">
 <p class="" style="color:#000 ;">
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
@@ -316,7 +295,7 @@ ea rebum. Stet clita kasd gubergren, no sea takimata
 sanctus est Lorem eirmod tempor invidunt ut labore et
 dolore magna aliquyam
 </p>
-</div>
+</div>---->
 
 
 </div>
@@ -338,27 +317,10 @@ dolore magna aliquyam
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
 <p class="" style="color:#000 ;">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
+Our own state of the art nation-wide warehousing capabilities  allow you to capitalize on the “next-day” fulfillment opportunity. With temperature controlled environments and  security cage for high value items,  and adherence to all safety norms of warehouse  and operations, we’ve got you covered to capture expansive consumer demand. We focus on coherent packaging and have an agile, experienced team that deals with your brand with care and precision, reflecting your brand’s positioning and core values. We work with customised packaging solutions to truly substantiate what your brand stands for by prepping for the last step in your consumer’s journey at this touchpoint. 
 </p>
 </div>
-<div class="item pr-5" data-dot="<button>2</button>">
+<!--<div class="item pr-5" data-dot="<button>2</button>">
 <p class="" style="color:#000 ;">
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
@@ -379,7 +341,7 @@ ea rebum. Stet clita kasd gubergren, no sea takimata
 sanctus est Lorem eirmod tempor invidunt ut labore et
 dolore magna aliquyam
 </p>
-</div>
+</div>-->
 
 
 </div>
@@ -401,27 +363,10 @@ dolore magna aliquyam
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
 <p class="" style="color:#000 ;">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
+We work to transform your online business into a revenue generating machine by reimagining end-to-end operating models. Your brand tone, positioning, voice and story are an imperative part of how consumers see your brand. To ensure alignment with  full potential strategic business goals we focus on minimizing handoffs and maximizing delivery. We help you harness the power of digital content generation in the form of photoshoots, videos for cataloging and listing, hacking growth on social media and through performance ads, press interactions and furthermore provide  insights into your business for course correction to fuel growth leading to long term cost benefit.
 </p>
 </div>
-<div class="item pr-5" data-dot="<button>2</button>">
+<!--<div class="item pr-5" data-dot="<button>2</button>">
 <p class="" style="color:#000 ;">
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
@@ -442,7 +387,7 @@ ea rebum. Stet clita kasd gubergren, no sea takimata
 sanctus est Lorem eirmod tempor invidunt ut labore et
 dolore magna aliquyam
 </p>
-</div>
+</div>-->
 
 
 </div>
@@ -454,70 +399,6 @@ dolore magna aliquyam
 </div>
 </div>
 
-
-
-<div id="tab-5" class="tab-content">
-<div class="row">
-<div class="col-lg-7">
-<h2 class="mb-5 pb-5">D2C Solutions</h2>
-<div class="home-slide-2 pt-5 pb-5">
-<div class="line-2"></div>
-<div class="home-2 owl-carousel owl-theme">
-<div class="item pr-5" data-dot="<button>1</button>">
-<p class="" style="color:#000 ;">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
-</p>
-</div>
-<div class="item pr-5" data-dot="<button>2</button>">
-<p class="" style="color:#000 ;">
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
-</p>
-</div>
-
-
-</div>
-</div>
-</div>
-<div class="col-lg-5">
-<img src="/assets/images/image-box/Rectangle 235/solution-1.png" alt="" style="width:90% ;">
-</div>
-</div>
-</div>
-</div>
 </section>
 
 <!-- Footer -->

@@ -5,7 +5,7 @@
               <!-- <div class="widget"> -->
               <div class="text-center">
                 <a href="index" rel="home" class="main-logo">
-                  <img src="assets/images/logo/logo.svg" alt="images" style="width: 80%;" />
+                  <img src="assets/images/logo/primespot-logo-01.svg" alt="images" style="width: 80%;" />
                 </a>
               </div>
               <h5 class="text-color-4 foot-data footer-section-1 p-3">

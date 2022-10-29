@@ -201,11 +201,11 @@ generating businesses adapting to the new digital future.</p>
 </ul>
 </div>
 
-<div class="item">
+<!--<div class="item">
 <!-- <h4 class="mt-3">Marketplace Management</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link " data-tab="tab-5">D2C Solutions</li>
-</ul>
+</ul>-->
 
 </div>
 </div>
@@ -219,7 +219,7 @@ generating businesses adapting to the new digital future.</p>
 <div class="line-2"></div>
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
-<p class="" style="color:#000 ;">
+<p class="" style="color:#000; text-align: justify;">
 PrimeSpot partners with every top digital marketplace giving us a competitive advantage to place your brand with them for maximum outreach -  Amazon, TATA Cliq, Myntra, Flipkart, Nykaa, Ajio are some of the names at the helm of this digital revolution reaching the most remote nation-wide pincodes. We have a top-tier team of brand experts that negotiate business margins & work closely on JBP  (JOINT BUSINESS PLAN) FOR EVERY BRAND with marketplaces to hyperscale your business on them.
 </p>
 </div>

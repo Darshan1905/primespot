@@ -498,8 +498,8 @@
             <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
           </div>
         </div>
-            <p class="mb-5 pb-5">The increase in internet and mobile penetration will be a catalyst for the Indian e-commerce space to grow 3x in 5 years, pushing 
-            brands to adapt to a <b>multi-channel strategy<b> more rapidly for their e-commerce business.</p>
+            <p class="mb-8 pb-8">The increase in internet and mobile penetration will be a catalyst for the Indian e-commerce space to grow 3x in 5 years, pushing 
+            brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-commerce business.</p>
           </div>
 
           <!-- ***************************** -->

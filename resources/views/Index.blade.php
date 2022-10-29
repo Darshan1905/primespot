@@ -244,7 +244,7 @@
                 </h3>-->
                 
                 
-                <p>
+                <p style="text-align: justify;">
                   PrimeSpot specializes in integrated e-commerce solutions for brands with special expertise in  premium and luxury brands. 
                   After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK, Polaroid and many more in the fragrance, 
                   beauty, luggage & sunglass categories, PrimeSpot set out to service other organizations keeping in mind the highest standards 
@@ -278,7 +278,7 @@
                   finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
                 </p>-->
                 
-                
+                <br>
                 
                 <div>
                   <a href="contact" class="button btn-1"

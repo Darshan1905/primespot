@@ -232,11 +232,11 @@
                   </div>
                 <div class="trusted-heading">
                   <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
-                  <h2 class="tf-title">
+                  <h3 class="tf-title">
                     We Are
                     <span class="text-color-3 style-title">Trusted</span> By
                     First & Best In The World.
-                  </h2>
+                  </h3>
                 </div>
                <!-- <h3 class="text-color-3">
                   Hello pretium nunc. Aliquam rutrum lectus vel est
@@ -278,7 +278,7 @@
                   finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
                 </p>-->
                 
-                <br>
+                <br><br>
                 
                 <div>
                   <a href="contact" class="button btn-1"

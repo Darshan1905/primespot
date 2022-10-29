@@ -194,25 +194,25 @@ alt="img"
 <div class="home-2 owl-carousel owl-theme">
 <div class="item" data-dot="<button>1</button>">
 <p>
-Get on Onboard:
+<b>Get on Onboard:</b><br>
 Access our ecosystem of marketplace partners to list your products for a greater outreach.
 </p>
 </div>
 <div class="item" data-dot="<button>2</button>">
 <p>
-Disseminate:
+<b>Disseminate:</b><br>
 Utilize the intelligent inventory ERP software system to access pan-india fulfillment services with assured shipping and logistics.
 </p>
 </div>
 <div class="item" data-dot="<button>3</button>">
 <p>
-Organised Fulfillment:
+<b>Organised Fulfillment:</b><br>
 Fulfill your consumer’s demands with our robust technology OF CRM, GOOGLE ADS, SOCIAL MEDIA STRATEGY,  & fast and assured shipping, coherent packaging and efficient deliveries. 
 </p>
 </div>
 <div class="item" data-dot="<button>4</button>">
 <p>
-Augment:
+<b>Augment:</b><br>
 Draw from PrimeSpot’s full capabilities to hyperscale and hyper-personalise your business needs with real time insights and intelligent inventory for replenishments.
 </p>
 </div>

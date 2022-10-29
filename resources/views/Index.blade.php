@@ -521,7 +521,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-3">
 <h3 class="mt-4">Brand Management</h3>
-<p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online/p>
+<p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online </p>
 </div>
 </div>
 </div>

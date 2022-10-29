@@ -315,7 +315,7 @@
                           <div class="chart" data-percent="100">
                             <span class="counter-number counter">130</span>
 
-                            <span class="percent">10</span>
+                            <!--<span class="percent">10</span>-->
                             
                           </div>
                         </div>
@@ -366,7 +366,7 @@
                         </div>
                       </div>
                       <div class="content">
-                        <h3 style="color: #fff; font-size: 25px;" >Warehouses (Sq ft)</h3>
+                        <h3 style="color: #fff; font-size: 25px;" >Warehouses(Sq.ft.)</h3>
                       </div>
                     </div>
                   </div>

@@ -232,8 +232,8 @@
                   </div>
                 <div class="trusted-heading">
                   <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
-                  <h2 class="tf-title">
-                    We are<span class="text-color-3 style-title">trusted</span> by
+                  <h2 class="tf-title" style="text-align: center;">
+                    We are <span class="text-color-3 style-title">trusted</span> by
                     first & best in the world.
                   </h2>
                 </div>

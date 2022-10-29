@@ -520,8 +520,8 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>4</b> </h2>
 </div>
 <div class="index-box-2-3">
-<h3 class="mt-4">PrimeSpot’s Dispatch</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b><br> is < 0.05%  across all website partners</p>
+<h3 class="mt-4">Brand Management</h3>
+<p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online/p>
 </div>
 </div>
 </div>

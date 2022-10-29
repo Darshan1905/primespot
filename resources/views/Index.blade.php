@@ -232,13 +232,13 @@
                   </div>
                 <div class="trusted-heading">
                   <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
-                  <!--<h2 class="tf-title">
+                  <h2 class="tf-title">
                     We Are
                     <span class="text-color-3 style-title">Trusted</span> By
                     First & Best In The World.
                   </h2>
                 </div>
-                <h3 class="text-color-3">
+               <!-- <h3 class="text-color-3">
                   Hello pretium nunc. Aliquam rutrum lectus vel est
                   pulvinar, in scelerisque purus faucibus fusce varius lacinia.
                 </h3>-->
@@ -258,7 +258,7 @@
                 
                 
                 
-                <div class="content-progress-box">
+                <!--<div class="content-progress-box">
                   <div class="progress-bar" data-percentage="80%">
                     <h4 class="progress-title-holder">
                       <span class="progress-title">Digital Analysis</span>
@@ -272,15 +272,17 @@
                       <div class="progress-content"></div>
                     </div>
                   </div>
-                </div>
-                <p class="text">
+                </div>-->
+                <!--<p class="text">
                   Hasellus dignissim arcu sit amet augue mattis, eget rutrum ex
                   finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
-                </p>
+                </p>-->
+                
+                
+                
                 <div>
                   <a href="contact" class="button btn-1"
-                    ><span>Know more </span></a
-                  >
+                    ><span>Know more </span></a>
                 </div>
               </div>
             </div>

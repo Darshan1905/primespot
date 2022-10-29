@@ -82,16 +82,8 @@ referrerpolicy="no-referrer"
 <div id="site-logo" class="clearfix">
 <div id="site-log-inner">
 <a href="/" rel="home" class="main-logo">
-<img
-src="assets/images/logo/logo.svg"
-alt="bixos"
-width="96"
-height="26"
+<img src="assets/images/logo/primespot-logo.svg" alt="bixos" width="96" height="26" data-width="100" data-height="44" style="width: 100%;"/>
 
-data-width="100"
-data-height="44"
-style="width: 100%;"
-/>
 <!-- <h1>PRIME SPOT</h1> -->
 </a>
 </div>

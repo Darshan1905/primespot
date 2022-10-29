@@ -220,12 +220,7 @@ generating businesses adapting to the new digital future.</p>
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
 <p class="" style="color:#000 ;">
-PrimeSpot partners with every top digital marketplace giving us a 
-competitive advantage to place your brand with them for maximum outreach 
--  Amazon, TATA Cliq, Myntra, Flipkart, Nykaa, Ajio are some of the names at 
-the helm of this digital revolution reaching the most remote nation-wide pincodes. 
-We have a top-tier team of brand experts that negotiate business margins & work closely on JBP  
-(JOINT BUSINESS PLAN) FOR EVERY BRAND with marketplaces to hyperscale your business on them.
+PrimeSpot partners with every top digital marketplace giving us a competitive advantage to place your brand with them for maximum outreach -  Amazon, TATA Cliq, Myntra, Flipkart, Nykaa, Ajio are some of the names at the helm of this digital revolution reaching the most remote nation-wide pincodes. We have a top-tier team of brand experts that negotiate business margins & work closely on JBP  (JOINT BUSINESS PLAN) FOR EVERY BRAND with marketplaces to hyperscale your business on them.
 </p>
 </div>
 <!--<div class="item pr-5" data-dot="<button>2</button>">
@@ -233,21 +228,6 @@ We have a top-tier team of brand experts that negotiate business margins & work 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
 </p>
 </div>-->
 
@@ -280,20 +260,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
 accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
 </p>
 </div>---->
 
@@ -325,21 +291,6 @@ Our own state of the art nation-wide warehousing capabilities  allow you to capi
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
 </p>
 </div>-->
 
@@ -371,21 +322,6 @@ We work to transform your online business into a revenue generating machine by r
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor
-sit amet. Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-<br>
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam sadipscing elitr, sed diam nonumy
-ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et
-ea rebum. Stet clita kasd gubergren, no sea takimata
-sanctus est Lorem eirmod tempor invidunt ut labore et
-dolore magna aliquyam
 </p>
 </div>-->
 

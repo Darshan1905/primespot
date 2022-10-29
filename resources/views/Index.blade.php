@@ -521,7 +521,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-3">
 <h3 class="mt-4">PrimeSpot’s Dispatch</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b> is < 0.05%  across all website partners</p>
+<p style=" margin:6px; line-height:1.2;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b><br> is < 0.05%  across all website partners</p>
 </div>
 </div>
 </div>

@@ -191,7 +191,7 @@
 
                     <div class="button-slider">
                       <a href="contact" class="button btn-1"
-                        ><span>Get In Touch </span></a
+                        ><span>Book a Consultation | How does it work? </span></a
                       >
                       <div class="video-slider">
                         <a

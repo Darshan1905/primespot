@@ -202,12 +202,10 @@ generating businesses adapting to the new digital future.</p>
 </div>
 
 <!--<div class="item">
-<!-- <h4 class="mt-3">Marketplace Management</h4> -->
 <ul class="tabs text-center">
 <li class="tab-link " data-tab="tab-5">D2C Solutions</li>
-</ul>-->
-
-</div>
+</ul>
+</div>-->
 </div>
 
 
@@ -261,7 +259,7 @@ sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
 accusam et justo duo dolores et ea rebum. Stet clita kasd
 </p>
-</div>---->
+</div>-->
 
 
 </div>

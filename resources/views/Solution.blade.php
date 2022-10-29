@@ -160,7 +160,7 @@ style="width: 100%;"
 <!--<div class="mark-page29 tf-mark animate-up   "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>-->
 
 </div>
-<p style="text-align: justify;">The rise of digital has brought about a new transformation of the industrial revolution with new ways of working with
+<p style="text-align: center;">The rise of digital has brought about a new transformation of the industrial revolution with new ways of working with
  consumers and industries. We help companies assess, strategize, bring in new system processes for better automation to create scalable, revenue 
 generating businesses adapting to the new digital future.</p>
 </div>

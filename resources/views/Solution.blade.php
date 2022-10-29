@@ -157,7 +157,7 @@ style="width: 100%;"
 <section>
 <div class="container mt-5 mb-5 pt-5 pb-5">
 <div class="flat-trusted">
-<div class="mark-page29 tf-mark animate-up   "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>
+<!--<div class="mark-page29 tf-mark animate-up   "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>-->
 
 </div>
 <p style="text-align: justify;">The rise of digital has brought about a new transformation of the industrial revolution with new ways of working with
@@ -169,7 +169,7 @@ generating businesses adapting to the new digital future.</p>
 <section>
 <div class="container mb-5 p-5">
 <div class="flat-trusted">
-<div class="mark-page30 tf-mark "> <img src="assets/images/mark-page/dots-.svg" alt="images" style="width:70%" > </div>
+<div class="mark-page30 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
 
 </div>
 

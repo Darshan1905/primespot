@@ -177,15 +177,28 @@ style="width: 100%"
 <div
 class="swiper-container testimonial-slider tf-style carousel-5">
 <div class="swiper-wrapper">
+
 <div class="swiper-slide testimonial-post">
 <div class="content">
 <div class="tf-texts">
 <span class="text">
-Our intelligent inventory system ERP integrates seamlessly across Marketplaces allowing you to scale as per demand without manual intervention in stock management. 
+Our intelligent inventory system ERP integrates seamlessly across Marketplaces allowing you to scale as per demand without manual intervention in stock management.
 </span>
 </div>
 </div>
 </div>
+
+<div class="swiper-slide testimonial-post">
+<div class="content">
+<div class="tf-texts">
+<span class="text">
+Our intelligent inventory system ERP integrates seamlessly across Marketplaces allowing you to scale as per demand without manual intervention in stock management.
+</span>
+</div>
+</div>
+</div>
+
+
 <div class="swiper-slide testimonial-post">
 <div class="content">
 <div class="tf-texts">
@@ -195,6 +208,7 @@ Our associations with D2C partners like Shopify, Magento, Java and shipping part
 </div>
 </div>
 </div>
+
 <div class="swiper-slide testimonial-post">
 <div class="content">
 <div class="tf-texts">
@@ -204,6 +218,8 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 </div>
 </div>
 </div>
+
+
 </div>
 </div>
 <div class="swiper-pagination-testi tf-style"></div>

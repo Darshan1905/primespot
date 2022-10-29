@@ -184,7 +184,7 @@ class="swiper-container testimonial-slider tf-style carousel-5">
 <div class="content">
 <div class="tf-texts">
 <span class="text">
-Our intelligent inventory system ERP integrates seamlessly across Marketplaces allowing you to scale as per demand without manual intervention in stock management.
+Our intelligent inventory system ERP integrates seamlessly across Marketplaces allowing you to scale as per demand without manual intervention in stock management. you to scale as per demand without manual intervention in stock management.
 </span>
 </div>
 </div>

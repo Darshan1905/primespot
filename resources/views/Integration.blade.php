@@ -268,7 +268,7 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
     <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 
-<div id="tab-2" class="tab-cont">
+<!--<div id="tab-2" class="tab-cont">
     <img src="/assets/images/image-box/brand-bb1.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 
@@ -282,7 +282,7 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 
 <div id="tab-5" class="tab-cont ">
     <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
-</div>
+</div>-->
 </div>
 
 <div id="tab2" class="tab">
@@ -290,7 +290,7 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 
 <div class="item">
     <ul class="tabslists">
-        <li class="tab-link current" data-tabs="itab-1">Beauty</li>
+        <li class="tab-link current" data-tabs="itab-1">Logistic Partners</li>
     </ul>
 </div>
 

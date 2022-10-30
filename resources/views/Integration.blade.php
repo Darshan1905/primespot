@@ -264,7 +264,7 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 </div>
 
 <!--<div id="tab-2" class="tab-cont">
-    <img src="/assets/images/image-box/brand-bb1.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/Fashion-Integration-Logo.png" alt="" style="width: 90%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 
 <div id="tab-3" class="tab-cont">

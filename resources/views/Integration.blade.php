@@ -220,8 +220,8 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
     <div class="col-lg-4 mt-5 mb-5 pb-5int-main-tabs">
     <div class="tabs">
         <ul class="tabs-list">
-            <li class="active"><a href="#tab1">E-commerce list</a></li>
-            <li ><a href="#tab2">Logistic</a></li>
+            <li class="active"><a href="#tab1">E-Commerce Partners</a></li>
+            <li ><a href="#tab2">Logistic Partners</a></li>
         </ul>
         <div class="mt-5  bascket-img-int">
             <img src="/assets/images/image-box/big-basket.svg" alt="" style="width: 70%;">

@@ -272,12 +272,12 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 </div>
 
 <div id="tab-4" class="tab-cont">
-    <img src="/assets/images/image-box/brand-bb3.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/Grocery-Integration-Logo.png" alt="" style="width: 90%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 
-<div id="tab-5" class="tab-cont ">
+<!--<div id="tab-5" class="tab-cont ">
     <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
-</div>
+</div>-->
 </div>
 
 <div id="tab2" class="tab">

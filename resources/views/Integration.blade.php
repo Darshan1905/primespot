@@ -257,11 +257,6 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
     </ul>
 </div>
 
-    <div class="item">
-    <ul class="tablist">
-        <li class="tab-link" data-tab="tab-5">Fashion & Apparels</li>
-    </ul>
-</div>
 </div>
 
 <div id="tab-1" class="tab-cont activated">

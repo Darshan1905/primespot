@@ -217,117 +217,107 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 <section>
 <div class="container  mb-5  pb-5">
 <div class="row">
-<div class="col-lg-4 mt-5 mb-5 pb-5int-main-tabs">
-<div class="tabs">
-<ul class="tabs-list">
-<li class="active"><a href="#tab1">E-commerce list</a></li>
-<li ><a href="#tab2">Logistic</a></li>
-</ul>
-<div class="mt-5  bascket-img-int">
-<img src="/assets/images/image-box/big-basket.svg" alt="" style="width: 70%;">
+    <div class="col-lg-4 mt-5 mb-5 pb-5int-main-tabs">
+    <div class="tabs">
+        <ul class="tabs-list">
+            <li class="active"><a href="#tab1">E-commerce list</a></li>
+            <li ><a href="#tab2">Logistic</a></li>
+        </ul>
+        <div class="mt-5  bascket-img-int">
+            <img src="/assets/images/image-box/big-basket.svg" alt="" style="width: 70%;">
+        </div>
+    </div>
 </div>
 
-
-</div>
-</div>
 <div class="col-lg-8 text-center">
 <div id="tab1" class="tab">
-
 <div class="owl-carousel owl-theme integration1 p-5 text-center">
+
 <div class="item">
-<ul class="tablist">
-<li class="tab-link activated" data-tab="tab-1">Beauty</li>
-
-</ul>
-
+    <ul class="tablist">
+        <li class="tab-link activated" data-tab="tab-1">Beauty</li>
+    </ul>
 </div>
+
 <div class="item">
-<ul class="tablist">
-
-<li class="tab-link" data-tab="tab-2">Fashion & Apparels</li>
-
-</ul>
-
+    <ul class="tablist">
+        <li class="tab-link" data-tab="tab-2">Fashion & Apparels</li>
+    </ul>
 </div>
+
 <div class="item">
-<ul class="tablist">
-
-<li class="tab-link" data-tab="tab-3">Market place</li>
-
-</ul>
+    <ul class="tablist">
+        <li class="tab-link" data-tab="tab-3">Market Place</li>
+    </ul>
 </div>
-<div class="item">
-<ul class="tablist">
 
-<li class="tab-link" data-tab="tab-4">Grocery & Wellness</li>
-</ul>
-</div>
 <div class="item">
-<ul class="tablist">
-<li class="tab-link" data-tab="tab-5">Fashion & Apparels</li>
-</ul>
+    <ul class="tablist">
+        <li class="tab-link" data-tab="tab-4">Grocery & Wellness</li>
+    </ul>
+</div>
+
+    <div class="item">
+    <ul class="tablist">
+        <li class="tab-link" data-tab="tab-5">Fashion & Apparels</li>
+    </ul>
 </div>
 </div>
 
 <div id="tab-1" class="tab-cont activated">
-<img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
 </div>
+
 <div id="tab-2" class="tab-cont">
-<img src="/assets/images/image-box/brand-bb1.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/brand-bb1.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
 </div>
+
 <div id="tab-3" class="tab-cont">
-<img src="/assets/images/image-box/brand-bb2.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/brand-bb2.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
 </div>
+
 <div id="tab-4" class="tab-cont">
-<img src="/assets/images/image-box/brand-bb3.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/brand-bb3.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
 </div>
+
 <div id="tab-5" class="tab-cont ">
-<img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+</div>
 </div>
 
-
-</div>
 <div id="tab2" class="tab">
-
-
 <div class="owl-carousel owl-theme integration2 p-5 text-center">
-<div class="item">
-<ul class="tabslists">
-<li class="tab-link current" data-tabs="itab-1">Beauty</li>
 
-</ul>
-
-</div>
 <div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-2">Fashion & Apparels</li>
-</ul>
-
-</div>
-<div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-3">Market place</li>
-</ul>
-</div>
-<div class="item">
-<ul class="tabslists">
-
-<li class="tab-link" data-tabs="itab-4">Grocery & Wellness</li>
-</ul>
-</div>
-<div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-5">Fashion & Apparels</li>
-</ul>
-
+    <ul class="tabslists">
+        <li class="tab-link current" data-tabs="itab-1">Beauty</li>
+    </ul>
 </div>
 
-<!-- <div class="item">
-<ul class="tabslists">
+<!--<div class="item">
+    <ul class="tabslists">
+        <li class="tab-link" data-tabs="itab-2">Fashion & Apparels</li>
+    </ul>
+</div>
 
-<li class="tab-link" data-tabs="itab-5">Fashion & Apparels</li>
-</ul>
-</div> -->
+<div class="item">
+    <ul class="tabslists">
+        <li class="tab-link" data-tabs="itab-3">Market place</li>
+    </ul>
+</div>
+
+<div class="item">
+    <ul class="tabslists">
+        <li class="tab-link" data-tabs="itab-4">Grocery & Wellness</li>
+    </ul>
+</div>
+
+<div class="item">
+    <ul class="tabslists">
+        <li class="tab-link" data-tabs="itab-5">Fashion & Apparels</li>
+    </ul>
+</div>-->
+
 </div>
 
 

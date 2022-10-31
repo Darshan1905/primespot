@@ -318,7 +318,7 @@ We deploy Microsoft Dynamics 365 the latest & best ERP software from the house o
 
 
 <div id="itab-1" class="tab-content current">
-    <img src="/assets/images/image-box/integration-brands-img.png" alt="" style="width: 80%;box-shadow: 1px 1px 12px #00000029;">
+    <img src="/assets/images/image-box/Logistic-Partners.png" alt="" style="width: 90%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 
 <!--<div id="itab-2" class="tab-content">

@@ -189,13 +189,53 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="container p-5  text-center">
 <h2 class="" style="color: #fff;">Our Expert <span class="text-color-3 style-title">Team</span>Members</h2>
 <div class="owl-carousel owl-theme company1 p-5">
+
 <div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 1.png" alt="img">
+<img src="/assets/images/owl-slider-images/Team-1.png" alt="img">
 <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
 <button class="company-btn mt-3 mb-3">
 <div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
+</button>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+</div>
+
+<div class="item p-5">
+<img src="/assets/images/owl-slider-images/Team-2.png" alt="img">
+<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
+<button class="company-btn mt-3 mb-3">
+<div><span>View More</span>&nbsp;</div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
+</button>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+</div>
+
+<div class="item p-5">
+<img src="/assets/images/owl-slider-images/Team-3.png" alt="img">
+<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
+<button class="company-btn mt-3 mb-3">
+<div><span>View More</span>&nbsp;</div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt="" style="width: 20px;"></div>
+</button>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+</div>
+
+<div class="item p-5">
+<img src="/assets/images/owl-slider-images/Team-4.png" alt="img">
+<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
+<button class="company-btn mt-3 mb-3">
+<div><span>View More</span>&nbsp;</div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
+</button>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+</div>
+
+<div class="item p-5">
+<img src="/assets/images/owl-slider-images/Team-5.png" alt="img">
+<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
+<button class="company-btn mt-3 mb-3">
+<div><span>View More</span>&nbsp;</div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
 
 <p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
@@ -203,96 +243,34 @@ labore et dolore magna aliquyam erat, sed diam </p>
 
 </div>
 <div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 2.png" alt="img">
+<img src="/assets/images/owl-slider-images/Team-6.png" alt="img">
 <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
 <button class="company-btn mt-3 mb-3">
 <div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
 </div>
+
 <div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 3.png" alt="img">
+<img src="/assets/images/owl-slider-images/Team-7.png" alt="img">
 <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
 <button class="company-btn mt-3 mb-3">
 <div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
 </div>
-<div class="item p-5">
+
+<!--<div class="item p-5">
 <img src="/assets/images/owl-slider-images/Mask Group 4.png" alt="img">
 <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
 <button class="company-btn mt-3 mb-3">
 <div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
+<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
-</div>
-<div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 1.png" alt="img">
-<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
-<button class="company-btn mt-3 mb-3">
-<div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
-</button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
-</div>
-<div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 2.png" alt="img">
-<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
-<button class="company-btn mt-3 mb-3">
-<div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
-</button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
-</div>
-<div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 3.png" alt="img">
-<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
-<button class="company-btn mt-3 mb-3">
-<div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
-</button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
-</div>
-<div class="item p-5">
-<img src="/assets/images/owl-slider-images/Mask Group 4.png" alt="img">
-<h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>
-<button class="company-btn mt-3 mb-3">
-<div><span>View More</span>&nbsp;</div>
-<div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""
-style="width: 20px;"></div>
-</button>
-
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
-</div>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+</div>-->
 
 </div>
 </div>

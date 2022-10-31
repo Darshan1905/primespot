@@ -129,7 +129,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </header>
 <!-- /#site-header -->
-<section class="flat-title-page">
+<section class="flat-title-page-Company">
 <div class="overlay-page"></div>
 <div class="container">
 <div class="row">

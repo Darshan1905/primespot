@@ -121,7 +121,7 @@
                             <div class="col-lg-12 col-md-12 col-sm-6 mt-4">
                             <div class="box-out">
                             <div class="box-in">
-                            <h3 style="text-align: centre;">No Opening for Now</h3>
+                            <h3 style="text-align: center;">No Opening for Now</h3>
                             <!--<p style="color: #000">Mumbai</p>
                             <p style="color: #000">Full Time</p>
                             <br/>

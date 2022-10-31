@@ -134,9 +134,9 @@
 <div class="heading">
 
 
-<h1-home>
+<h1>
 A cohesive one-stop solution <br> for your brand's e-commerce expansion.
-</h1-home>
+</h1>
 
 
 <p>

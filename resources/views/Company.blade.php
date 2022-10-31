@@ -185,7 +185,15 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!-- /About us Section -->
 
-<section style="background-color: #000;">
+
+
+
+
+
+<!-- Team Menber Section Starts Here -- >
+
+
+<!--<section style="background-color: #000;">
 <div class="container p-5  text-center">
 <h2 class="" style="color: #fff;">Our Expert <span class="text-color-3 style-title">Team</span>Members</h2>
 <div class="owl-carousel owl-theme company1 p-5">
@@ -273,7 +281,16 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 </div>
 </div>
-</section>
+</section> -->
+
+
+<!-- Team Member Section Ends Here -->
+
+
+
+
+
+
 
 <div class="container mt-5 mb-5 pb-5">
 <div class="row">

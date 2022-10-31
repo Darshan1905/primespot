@@ -136,7 +136,7 @@ referrerpolicy="no-referrer"
 </div>
 </header>
 <!-- /#site-header -->
-<section class="flat-title-page">
+<section class="flat-title-page-integration">
 <div class="overlay-page"></div>
 <div class="container">
 <div class="row">

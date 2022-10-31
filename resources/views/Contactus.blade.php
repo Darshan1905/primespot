@@ -120,7 +120,7 @@ href="assets/css/swiper-bundle.min.css"
 </div>
 </header>
 <!-- /#site-header -->
-<section class="flat-title-page">
+<section class="flat-title-page-Contact">
 <div class="overlay-page"></div>
 <div class="container">
 <div class="row">

@@ -127,7 +127,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 </div>
 </header>
 <!-- /#site-header -->
-<section class="flat-title-page">
+<section class="flat-title-page-Solution">
 <div class="overlay-page"></div>
 <div class="container">
 <div class="row">

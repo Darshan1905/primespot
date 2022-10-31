@@ -1961,6 +1961,13 @@ a:focus {
   padding: 200px 0 120px 0;
 }
 
+
+.flat-title-page-clientele .breadcrumbs {
+  color: #fff;
+  z-index: 50;
+  text-align: center;
+}
+
 .flat-title-page.page-about {
   padding: 280px 0 169px 0;
 }

@@ -280,7 +280,7 @@ networking to enable brands to tap into the booming business vertical of e-comme
 <div class="mark-page32 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
 <div class="mark-page33 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
 </div>
-<img src="/assets/images/image-box/clientele-img.png" alt="">
+<img src="/assets/images/image-box/Client-102.png" alt="">
 </div>
 </div>
 </div>

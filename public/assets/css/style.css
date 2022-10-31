@@ -2021,6 +2021,23 @@ a:focus {
 }
 
 
+.flat-title-page-Contact {
+  position: relative;
+  background-image: url(../images/background-section/Contact-US-Banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 200px 0 120px 0;
+}
+
+
+.flat-title-page-Contact .breadcrumbs {
+  color: #fff;
+  z-index: 50;
+  text-align: center;
+}
+
+
 
 
 

@@ -170,12 +170,8 @@ src="/assets/images/image-box/verticaldots.png"
 alt="dots-img"
 />
 </div>
-<div class="col-lg-4 mt-5 pt-5  ">
-<img
-src="/assets/images/image-box/Rectangle 236.png"
-width="100%"
-alt="img"
-/>
+<div class="col-lg-4 mt-5 pt-5">
+<img src="/assets/images/image-box/Client-101.png" width="100%" alt="img"/>
 <h2 class="text-center pt-4">Accelerator Model</h2>
 </div>
 <div class="col-lg-7 mt-5 pt-5  ">

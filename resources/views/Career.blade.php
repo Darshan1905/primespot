@@ -118,17 +118,19 @@
 <div class="row mt-5 mb-5">
 
 
-<div class="col-lg-12 col-md-12 col-sm-6 mt-4">
-<div class="box-out">
-<div class="box-in">
-<h3>No Opening for Now</h3>
-<!--<p style="color: #000">Mumbai</p>
-<p style="color: #000">Full Time</p>
-<br/>
-<button class="btn-careere">Apply Now</button>-->
-</div>
-</div>
-</div>
+                            <div class="col-lg-12 col-md-12 col-sm-6 mt-4">
+                            <div class="box-out">
+                            <div class="box-in">
+                            <h3 style="text-align: centre;">No Opening for Now</h3>
+                            <!--<p style="color: #000">Mumbai</p>
+                            <p style="color: #000">Full Time</p>
+                            <br/>
+                            <button class="btn-careere">Apply Now</button>-->
+                            </div>
+                            </div>
+                            </div>
+                            
+                            
 
                             <!--<div class="col-lg-4 col-md-4 col-sm-6 mt-4">
                             <div class="box-out">

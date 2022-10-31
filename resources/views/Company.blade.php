@@ -197,7 +197,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <div class="item p-5">
@@ -207,7 +207,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <div class="item p-5">
@@ -217,7 +217,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt="" style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <div class="item p-5">
@@ -227,7 +227,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <div class="item p-5">
@@ -238,7 +238,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
 
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <div class="item p-5">
@@ -248,7 +248,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <div class="item p-5">
@@ -258,7 +258,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>
 
 <!--<div class="item p-5">
@@ -268,7 +268,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><span>View More</span>&nbsp;</div>
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
 </div>-->
 
 </div>

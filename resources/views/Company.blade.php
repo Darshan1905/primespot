@@ -286,6 +286,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <div class="flat-trusted">
 <div class="media img-1 com-sec-img-ani">
+<h2 class="tf-title"><span class="text-color-3 style-title">About</span> Us</h2>
 <img class="index-img-2 text-center" src="/assets/images/image-box/Group 4-without.png" alt="images" style="width: 80%;"/>
 <img class="index-img-1 text-center" src="/assets/images/image-box/company-group-3.png" alt="images" style="width: 100%;"/>
 <div class="mark-page7 tf-mark animate-up"> <img src="assets/images/mark-page/light-bascket.svg" alt="images" style="width:70%" > </div>
@@ -296,7 +297,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 </div>
 <div class="col-lg-12">
 
-<p>At Prime Spot, a customer-first approach is the foundation of our culture. We believe in authentically pushing your business to the forefront with 
+<p style="text-align: justify;">At Prime Spot, a customer-first approach is the foundation of our culture. We believe in authentically pushing your business to the forefront with 
 all of our in-house capabilities designed to grow an organization rapidly through these changing times. We believe in collaboration as partners instead 
 of being another third party service provider who is determined to get you the results and solutions that you are looking for as we help you scale your business. 
 Our customer-oriented revenue models are designed to benefit you in the long term with cost optimization, access to better talent and maximum growth in revenue with 

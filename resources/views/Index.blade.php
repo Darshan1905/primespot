@@ -134,7 +134,7 @@
 <div class="heading">
 
 
-<h1 style="padding-top: 25px">
+<h1 style="padding-top: 35px">
 A cohesive one-stop solution <br> for your brand's e-commerce expansion.
 </h1>
 

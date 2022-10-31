@@ -41,9 +41,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!-- <script src="assetsassets/js/jquery.min.js"></script> -->
 
-
-
-
 </head>
 
 <body class="header-fixed counter-scroll">
@@ -55,6 +52,7 @@
 <div id="wrapper" class="animsition">
 <div id="page" class="clearfix">
 <div id="site-header-wrap">
+
 <!-- Header Wrap -->
 <header id="site-header">
 <div id="site-logo" class="clearfix">
@@ -64,6 +62,7 @@
 <div class="mobile-button">
 <span></span>
 </div>
+
 <!-- /.mobile-button -->
 <!-- /#site-logo -->
 <div id="site-header-inner">
@@ -74,8 +73,8 @@
 <a href="company">Company</a>
 <!-- <ul class="sub-menu">
 <li class="menu-item current-item"><a href="company">Company01</a></li>
-
 </ul> -->
+
 </li>
 <li class="menu-item ">
 <a href="solution">Solution</a>

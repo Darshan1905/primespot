@@ -7,9 +7,8 @@
 <head>
 <!-- Basic Page Needs -->
 <meta charset="utf-8" />
-<!--[if IE
-]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
-/><![endif]-->
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif]-->
+
 <title>Primespot</title>
 
 <!-- <meta name="author" content="themesflat.com"> -->
@@ -18,9 +17,7 @@
 
 <!-- Mobile Specific Metas -->
 
-<meta 
-name="viewport" 
-content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
 <!-- Theme Style -->
 <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
@@ -29,11 +26,7 @@ content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable
 <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
 
 <!-- Swiper slide -->
-<link
-rel="stylesheet"
-type="text/css"
-href="assets/css/swiper-bundle.min.css"
-/>
+<link rel="stylesheet" type="text/css" href="assets/css/swiper-bundle.min.css" />
 
 <!-- Favicon and Touch Icons  -->
 <link rel="shortcut icon" href="assets/icon/Favicon.png" />
@@ -44,22 +37,8 @@ href="assets/css/swiper-bundle.min.css"
 <![endif]-->
 
 <!-- owl-carousel-css -->
-<link
-rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
-integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
-crossorigin="anonymous"
-referrerpolicy="no-referrer"
-/>
-
-<link
-rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
-integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
-crossorigin="anonymous"
-referrerpolicy="no-referrer"
-/>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!-- <script src="assetsassets/js/jquery.min.js"></script> -->
 
 
@@ -68,10 +47,9 @@ referrerpolicy="no-referrer"
 </head>
 
 <body class="header-fixed counter-scroll">
+
 <!-- preloader -->
-<!-- <div class="preload preload-container">
-<div class="preload-logo"></div>
-</div> -->
+<!-- <div class="preload preload-container"> <div class="preload-logo"></div> </div> -->
 <!-- /preloader -->
 
 <div id="wrapper" class="animsition">
@@ -81,12 +59,7 @@ referrerpolicy="no-referrer"
 <header id="site-header">
 <div id="site-logo" class="clearfix">
 <div id="site-log-inner">
-<a href="/" rel="home" class="main-logo">
-<img src="assets/images/logo/primespot-logo-01.svg" alt="bixos" width="200" height="150" data-width="100" data-height="44" style="width: 100%;"/>
-
-<!-- <h1>PRIME SPOT</h1> -->
-</a>
-</div>
+<a href="/" rel="home" class="main-logo"> <img src="assets/images/logo/primespot-logo-01.svg" alt="bixos" width="200" height="150" data-width="100" data-height="44" style="width: 100%;"/> </a> </div>
 </div>
 <div class="mobile-button">
 <span></span>
@@ -139,12 +112,8 @@ referrerpolicy="no-referrer"
 <!-- /#site-header-inner -->
 
 <div class="tf-button">
-<a href="contact" class="button btn-1"
-><span>Contact Us </span></a
->
-</div>
+<a href="contact" class="button btn-1"><span>Contact Us </span></a></div>
 </header>
-<!-- /#site-header -->
 </div>
 <!-- #site-header-wrap -->
 
@@ -158,18 +127,8 @@ referrerpolicy="no-referrer"
 <div class="swiper-slide">
 <div class="flat-slider">
 <div class="overlay-slider"></div>
-<div class="sld-img">
-<img
-src="assets/images/image-slider/MainBanner-1.png"
-alt="img"
-/>
-</div>
-<div class="elip-slider">
-<img
-src="assets/images/image-slider/Path 1.svg"
-alt="img"
-/>
-</div>
+<div class="sld-img"> <img src="assets/images/image-slider/MainBanner-1.png" alt="img"/> </div> 
+<div class="elip-slider"> <img src="assets/images/image-slider/Path 1.svg" alt="img"/> </div>
 
 <div class="content">
 <div class="heading">
@@ -181,17 +140,8 @@ Empowering your brand's accelerated online growth with a full stack of services 
 </p>
 </div>
 
-<div class="button-slider">
-<a href="contact" class="button btn-1"
-><span>Book a Consultation | How does it work? </span></a
->
-<div class="video-slider">
-<a
-href="https://www.youtube.com/embed/xC4ze0p0b5Y"
-class="lightbox-image"
->
-<i class="ripple"></i>
-</a>
+<div class="button-slider"> <a href="contact" class="button btn-1"><span>Book a Consultation | How does it work? </span> </a>
+<div class="video-slider"> <a href="https://www.youtube.com/embed/xC4ze0p0b5Y" class="lightbox-image"> <i class="ripple"></i> </a>
 </div>
 </div>
 </div>
@@ -306,7 +256,6 @@ finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
 <div class="couter">
 <div class="chart" data-percent="100">
 <span class="counter-number counter">130</span>
-
 <!--<span class="percent">10</span>-->
 
 </div>
@@ -385,41 +334,42 @@ finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
 <div class="overlay">
 <div class="content">
 <p>Home&nbsp;Fragrance</p>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
 <div class="item">
 <img src="/assets/images/owl-slider-images/Group 3.svg" alt="img">
 <div class="overlay">
 <div class="content">
-<p  >Luggage</p>
+<p>Luggage</p>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
 <div class="item">
 <img src="/assets/images/owl-slider-images/Group 4.svg" alt="img">
 <div class="overlay">
 <div class="content">
-<p  >Accessories</p>
+<p>Accessories</p>
 </div>
 </div>
 </div>
+
 <div class="item">
 <img src="/assets/images/owl-slider-images/Group 5.svg" alt="img">
 <div class="overlay">
 <div class="content">
-<p  >Sunglasses</p>
+<p>Sunglasses</p>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
 <div class="item">
 <img src="/assets/images/owl-slider-images/Group 6.svg" alt="img">
 <div class="overlay">
 <div class="content">
-<p  >Apparels</p>
+<p>Apparels</p>
 </div>
 </div>
 </div>
@@ -521,8 +471,6 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 
 <!-- ********************************* -->
-
-
 
 <div class="road-map mt-5 pt-5 mb-5 pb-5">
 <div id="map">
@@ -657,13 +605,13 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="col-lg-4">
 <h2 style="font-size:50px ; color: #fff;" >Our <span class="text-color-3 style-type">Business <br> Models</span></h2>
 <div style="margin-top:80px ;">
-<a href="contact" class="button btn-1 "
-><span>Request a Demo</span></a
->
+<a href="contact" class="button btn-1 "><span>Request a Demo</span></a>
 </div>
 </div>
+
 <div class="col-lg-8 p-5">
 <div class="owl-carousel owl-theme index2 ">
+
 <div class="item">
 <div class="index-box-1">
 <div class="index-box-2">
@@ -674,6 +622,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 </div>
 </div>
+
 <div class="item">
 <div class="index-box-1">
 <div class="index-box-4">
@@ -683,23 +632,18 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 </div>
 </div>
-
 </div>
+
 <div class="item">
 <div class="index-box-1">
 <div class="index-box-2">
 <div class="index-box-3 ">
 <h2 style="color: #fff;" class="text-center mb-4" >A-la-carte</h2>
-<p style="color: #fff;text-align: justify" >For Brands that require agility and flexibility we offer Bespoke services suited to enable transformation. The rapidly changing business of e-commerce may require  you to create your own D2C website from the ground up, SEO optimize it to boost rankings; build a marketing strategy to capture the right market share or optimize your ACOS on AMS (Amazon marketing services); manage omnichannel logistics for ecommerce,  warehouse storage or shipping services with a pan-India fulfillment network; optimize cataloging for your products searchability with getting the right photoshoots done for your new range - we help you capitalize on trends shaping the future of e-commerce.
-</p>
+<p style="color: #fff;text-align: justify" >For Brands that require agility and flexibility we offer Bespoke services suited to enable transformation. The rapidly changing business of e-commerce may require  you to create your own D2C website from the ground up, SEO optimize it to boost rankings; build a marketing strategy to capture the right market share or optimize your ACOS on AMS (Amazon marketing services); manage omnichannel logistics for ecommerce,  warehouse storage or shipping services with a pan-India fulfillment network; optimize cataloging for your products searchability with getting the right photoshoots done for your new range - we help you capitalize on trends shaping the future of e-commerce.</p>
 </div>
 </div>
 </div>
-
 </div>
-
-
-
 
 </div>
 </div>
@@ -711,10 +655,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <section>
 <div class="container mt-5 mb-5 pt-5 pb-5">
 <div class="flat-trusted">
-
 <div class="mark-page11 tf-mark animate-up "> <img src="assets/images/mark-page/coupon.png" alt="images" style="width:70%" > </div>
-
-
 </div>
 <div class="row index-map-section">
 <div class="col-lg-6">
@@ -737,6 +678,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="mark-page15 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
 <div class="mark-page16 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
 </div>
+
 <div class="row index-map-section">
 <div class="col-lg-5">
 <h2 class="mb-4">Why you  <span class="text-color-3 style-title">should</span> work<br> with us?</h2>
@@ -748,7 +690,6 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="flat-trusted">
 <div class="mark-page17 tf-mark animate-up"> <img src="assets/images/mark-page/sale.svg" alt="images" style="width:70%" > </div>
-
 </div>
 </div>
 </section>
@@ -781,19 +722,15 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 
 
 <!-- owl-carousel-js -->
-<script
-src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
 integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
-crossorigin="anonymous"
-referrerpolicy="no-referrer"
-></script>
+crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script src="assets/js/owl-page-slider.js"></script>
 
 <!-- Counter-js -->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 <script src="assets/js/counter-main.js"></script>
-
 <script src="assets/js/counter.js"></script>
 <script>
 jQuery(document).ready(function($) {

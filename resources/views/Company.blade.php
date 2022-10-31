@@ -286,7 +286,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <div class="flat-trusted">
 <div class="media img-1 com-sec-img-ani">
-<h2 class="tf-title"><span class="text-color-3 style-title">About</span> Us</h2>
+<h2 class="tf-title">Our <span class="text-color-3 style-title">Culture</span></h2>
 <img class="index-img-2 text-center" src="/assets/images/image-box/Group 4-without.png" alt="images" style="width: 80%;"/>
 <img class="index-img-1 text-center" src="/assets/images/image-box/company-group-3.png" alt="images" style="width: 100%;"/>
 <div class="mark-page7 tf-mark animate-up"> <img src="assets/images/mark-page/light-bascket.svg" alt="images" style="width:70%" > </div>

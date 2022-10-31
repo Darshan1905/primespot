@@ -238,10 +238,9 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div><img class="com-imgg" src="/assets/images/owl-slider-images/linkedin.svg" alt=""style="width: 20px;"></div>
 </button>
 
-<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-labore et dolore magna aliquyam erat, sed diam </p>
-
+<p style="color: #fff;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut</p>
 </div>
+
 <div class="item p-5">
 <img src="/assets/images/owl-slider-images/Team-6.png" alt="img">
 <h4 class="mt-3" style="color: #fff;">Lorem ipsum</h4>

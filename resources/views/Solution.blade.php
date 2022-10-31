@@ -258,7 +258,7 @@ accusam et justo duo dolores et ea rebum. Stet clita kasd
 </div>
 </div>
 <div class="col-lg-5">
-<img src="/assets/images/image-box/Rectangle 235/solution-2.png" alt="" style="width:90% ;">
+<img src="/assets/images/image-box/Rectangle 235/D2C.png" alt="" style="width:90% ;">
 </div>
 </div>
 </div>

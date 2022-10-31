@@ -132,9 +132,9 @@
 
 <div class="content">
 <div class="heading">
-<h2>
+<h1>
 A cohesive one-stop solution <br> for your brand's e-commerce expansion.
-</h2>
+</h1>
 <p>
 Empowering your brand's accelerated online growth with a full stack of services that can be tailor made to suit your business needs.
 </p>

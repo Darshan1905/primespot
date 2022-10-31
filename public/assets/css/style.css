@@ -2004,6 +2004,23 @@ a:focus {
 }
 
 
+.flat-title-page-Company {
+  position: relative;
+  background-image: url(../images/background-section/Integration-Top-Banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 200px 0 120px 0;
+}
+
+
+.flat-title-page-Company .breadcrumbs {
+  color: #fff;
+  z-index: 50;
+  text-align: center;
+}
+
+
 
 
 

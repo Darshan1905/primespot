@@ -1968,6 +1968,36 @@ a:focus {
   text-align: center;
 }
 
+
+
+.flat-title-page-integration {
+  position: relative;
+  background-image: url(../images/background-section/Integration-Top-Banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 200px 0 120px 0;
+}
+
+
+.flat-title-page-integration .breadcrumbs {
+  color: #fff;
+  z-index: 50;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .flat-title-page.page-about {
   padding: 280px 0 169px 0;
 }

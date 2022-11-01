@@ -577,7 +577,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-page-box-2">
 <h3 class="mt-4">PrimeSpot’s Sells</h3>
-<p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year./p>
+<p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
 </div>
 </div>
 <div class="index-page-box-1-2 text-center">
@@ -586,7 +586,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 </div>
 <div class="index-box-2-2">
 <h3 class="mt-4">PrimeSpot's Listing</h3>
-<p style=" margin:6px; line-height:1.2;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals./p>
+<p style=" margin:6px; line-height:1.2;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals.</p>
 </div>
 </div>
 <div class="index-page-box-1-4 text-center">

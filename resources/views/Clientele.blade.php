@@ -99,7 +99,7 @@ referrerpolicy="no-referrer"
 </ul> -->
 </li>
 <li class="menu-item  ">
-<a href="solution">Solution</a>
+<a href="solution">Solutions</a>
 <!-- <ul class="sub-menu">
 <li class="menu-item"><a href="solution">Solution01</a></li>
 </ul> -->

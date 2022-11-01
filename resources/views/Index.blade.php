@@ -178,8 +178,11 @@ Empowering your brand's accelerated online growth with a full stack of services 
 <div class="trusted-heading">
 <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->
 <h2 class="tf-title" style="text-align: center;">
-We are <span class="text-color-3 style-title">trusted</span> by
-first & best in the world.
+<!--We are <span class="text-color-3 style-title">trusted</span> by
+first & best in the world.-->
+
+We are <span class="text-color-3 style-title"> trusted</span> by the first & the best global brands.
+
 </h2>
 </div>
 

@@ -1635,7 +1635,8 @@ a:focus {
 .mobile-button:before,
 .mobile-button:after,
 .mobile-button span {
-  background-color: var(--primary-color);
+  /*background-color: var(--primary-color);*/
+    background-color: #000000;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
   transition: all ease 0.3s;

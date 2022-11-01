@@ -3,7 +3,7 @@
 <div class="row">
 <div class="col-lg-5 col-md-8 pt-4 ">
 <!-- <div class="widget"> -->
-<div style="pedding-left:125px;" class="text-left">
+<div style="margin-left:125px;" class="text-left">
 <a href="index.php" rel="home" class="main-logo">
   <img src="assets/images/logo/primespot-logo-01.svg" alt="images" style="width: 30%;" />
 </a>

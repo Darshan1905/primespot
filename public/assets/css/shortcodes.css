@@ -583,7 +583,8 @@ video::before {
 .video-slider {
     position: relative;
     display: inline-block;
-    margin-left: 30px;
+    margin-left: 60px;
+    margin-bottom: 80px;
 }
 
 .video-slider::after {

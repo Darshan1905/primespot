@@ -1191,6 +1191,7 @@ a:focus {
   height: 100px;
   padding: 50px 53px;
   /* border-bottom: solid 1px rgba(255, 255, 255, 0.1); */
+  background-color: #ffffff;  
 }
 
 #site-header-inner {

@@ -7,9 +7,7 @@
 <head>
 <!-- Basic Page Needs -->
 <meta charset="utf-8" />
-<!--[if IE
-]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
-/><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><![endif]-->
 <title>Clientele</title>
 
 <meta name="author" content="themesflat.com" />
@@ -164,16 +162,18 @@ referrerpolicy="no-referrer"
 
 </div>
 <div class="row clientele-first-section pt-5 pb-5">
-<div class="col-lg-1 dots-flot">
-<img
-src="/assets/images/image-box/verticaldots.png"
-alt="dots-img"
-/>
-</div>
+<div class="col-lg-1 dots-flot"><img src="/assets/images/image-box/verticaldots.png" alt="dots-img"/></div>
+
+
+
 <div class="col-lg-4 mt-5 pt-5">
 <img src="/assets/images/image-box/Client-101.png" width="100%" alt="img"/>
-<h2 class="text-center pt-4">Accelerator Model</h2>
+<h2 class="text-center pt-4">Scale Your Business</h2>
 </div>
+
+
+
+
 <div class="col-lg-7 mt-5 pt-5  ">
 <h2 class="mb-5">How our <span class="text-color-3 style-title">partnership</span> works</h2>
 

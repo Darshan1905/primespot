@@ -149,7 +149,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <section>
 <div class="container mt-5 mb-5 pt-5 pb-5">
 <div class="flat-trusted">
-<!--<div class="mark-page29 tf-mark animate-up   "> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>-->
+<!--<div class="mark-page29 tf-mark animate-up"> <img src="assets/images/mark-page/card.svg" alt="images" style="width:60%" > </div>-->
 
 </div>
 <p style="text-align: center;">The rise of digital has brought about a new transformation of the industrial revolution with new ways of working with
@@ -220,13 +220,11 @@ sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
 </p>
 </div>-->
-
-
 </div>
 </div>
 </div>
 <div class="col-lg-5">
-<img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+<img src="/assets/images/image-box/Rectangle 235/Marketplace-Management.png" alt="" style="width:90% ;">
 </div>
 </div>
 </div>
@@ -252,8 +250,6 @@ magna aliquyam erat, sed diam voluptua. At vero eos et
 accusam et justo duo dolores et ea rebum. Stet clita kasd
 </p>
 </div>-->
-
-
 </div>
 </div>
 </div>
@@ -289,7 +285,7 @@ magna aliquyam erat, sed diam voluptua. At vero eos et
 </div>
 </div>
 <div class="col-lg-5">
-<img src="/assets/images/image-box/Rectangle 235/solution-3.png" alt="" style="width:90% ;">
+<img src="/assets/images/image-box/Rectangle 235/Warehousing-Services.png" alt="" style="width:90% ;">
 </div>
 </div>
 </div>
@@ -320,7 +316,7 @@ magna aliquyam erat, sed diam voluptua. At vero eos et
 </div>
 </div>
 <div class="col-lg-5">
-<img src="/assets/images/image-box/Rectangle 235/Rectangle 235.png" alt="" style="width:90% ;">
+<img src="/assets/images/image-box/Rectangle 235/Ecommerce-Consultancy.png" alt="" style="width:90% ;">
 </div>
 </div>
 </div>

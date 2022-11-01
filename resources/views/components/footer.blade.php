@@ -1,6 +1,6 @@
 <footer id="footer" class="clearfix main-foot-sec pt-5 pb-5">
 <div id="footer-widgets" class="container">
-<div class="row">
+<div class="row text-left>
 <div class="col-lg-5 col-md-8 pt-4 ">
 <!-- <div class="widget"> -->
 <div style="pedding-left:25px;" class="text-left">

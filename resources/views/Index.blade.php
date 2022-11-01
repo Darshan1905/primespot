@@ -204,7 +204,6 @@ financial reconciliation;</span> PrimeSpot has several business models that it o
 choose just what’s right for their business by being fully risk-return aligned. 
 </p>-->
 
-
 <p style="text-align: justify;">
 PrimeSpot specializes in integrated e-commerce solutions for brands, with special expertise in premium and luxury brands.
  After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK, Polaroid, and many more in the fragrance,

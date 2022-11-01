@@ -440,7 +440,7 @@ finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
 <div>
 <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
 </div>
-<h2 class=" pl-2 pr-2" style="color: #000 ;">Accelerated Growth with <span class="text-color-3 style-title">PrimeSpot</span> ?</h2>
+<h2 class=" pl-2 pr-2" style="color: #000 ;">Accelerated Growth with <span class="text-color-3 style-title">PrimeSpot</span></h2>
 <div>
 <img src="/assets/images/image-box/waves.svg" alt="" style="width: 100%;">
 </div>

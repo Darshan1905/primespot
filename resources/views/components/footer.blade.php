@@ -4,7 +4,7 @@
 <div class="col-lg-5 col-md-8 pt-4 ">
 <!-- <div class="widget"> -->
 <div class="text-center">
-<a href="index" rel="home" class="main-logo">
+<a href="index.php" rel="home" class="main-logo">
   <img src="assets/images/logo/primespot-logo-01.svg" alt="images" style="width: 30%;" />
 </a>
 </div>
@@ -64,7 +64,7 @@ Social Media
 </div>
 <div >
   <img src="/assets/images/image-box/wp.png" alt="" style="width: 70%;">
-                </div>
+</div>
 </div>
 
 <!-- </div> -->

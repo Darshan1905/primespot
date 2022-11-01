@@ -706,7 +706,15 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="row index-map-section">
 <div class="col-lg-6">
 <h2 class="mb-4">India <span class="text-color-3 style-title">Presence</span></h2>
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
+
+
+<p style="text-align: justify;">
+Primespot has a large online distribution network, pan-india warehousing facilities,
+established relationships with marketplace partners, media houses, influencers and bloggers, 
+and an organization structure of more than xxx talents to deliver goal-oriented results for your business.
+</p>
+
+
 </div>
 <div class="col-lg-6">
 <img src="/assets/images/image-box/map.png" alt="" style="width: 90%;">
@@ -728,7 +736,16 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="row index-map-section">
 <div class="col-lg-5">
 <h2 class="mb-4">Why you  <span class="text-color-3 style-title">should</span> work<br> with us?</h2>
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, ta kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
+
+
+<p style="text-align: justify;">
+PrimeSpot specializes in integrated e-commerce solutions for brands, with special expertise in  premium and luxury brands.
+After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK, Polaroid, and many more in the fragrance, 
+beauty, luggage & sunglass categories, PrimeSpot set out to service other organizations keeping in mind the highest standards of efficiency 
+and networking to enable brands to tap into the booming business of e-commerce.
+</p>
+
+
 </div>
 <div class="col-lg-7">
 <img src="/assets/images/image-box/Should-Work.png" alt="" style="width: 90%;">

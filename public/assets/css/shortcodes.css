@@ -22,7 +22,8 @@
 /* button */
 .button {
     font-size: 14px;
-    background-color: var(--primary-color6);
+    /*background-color: var(--primary-color6);*/
+    background-color: #012c57;
     border: 1px solid var(--primary-color6);
     border-radius: 5px;
     color: var(--primary-color);

@@ -193,7 +193,7 @@ pulvinar, in scelerisque purus faucibus fusce varius lacinia.
 </h3>-->
 
 
-<p style="text-align: justify;">
+<!--<p style="text-align: justify;">
 PrimeSpot specializes in integrated e-commerce solutions for brands with special expertise in  premium and luxury brands. 
 After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK, Polaroid and many more in the fragrance, 
 beauty, luggage & sunglass categories, PrimeSpot set out to service other organizations keeping in mind the highest standards 
@@ -202,7 +202,20 @@ services like <span  class="text-color-3 style-title">content generation and man
 warehousing capabilities, marketplace negotiation & management, logistics and fulfillment, returns and claims processing, 
 financial reconciliation;</span> PrimeSpot has several business models that it operates on to empower its clients to 
 choose just what’s right for their business by being fully risk-return aligned. 
+</p>-->
+
+
+<p style="text-align: justify;">
+PrimeSpot specializes in integrated e-commerce solutions for brands, with special expertise in premium and luxury brands.
+ After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK, Polaroid, and many more in the fragrance,
+ beauty, luggage & sunglass categories; PrimeSpot set out to service other organizations keeping in mind the highest standards of efficiency
+ and networking to enable brands to tap into the booming business of e-commerce. With a host of services like content generation and management
+ for e-commerce portals, state of the art warehousing capabilities, marketplace negotiation & management, logistics and fulfillment, returns and
+ claims processing, financial reconciliation; PrimeSpot has several business models that it operates on to empower its clients to choose just what’s
+ right for their business by being fully risk-return aligned.
 </p>
+
+
 
 
 

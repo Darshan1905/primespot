@@ -25,7 +25,7 @@ Necessitatibus quasi, dolores inventore voluptatem laudantium
   Quick Links
 </h3>
 <li><a href="company">Company</a></li>
-<li><a href="solution">Solution</a></li>
+<li><a href="solution">Solutions</a></li>
 <li><a href="integration">Integration</a></li>
 <li><a href="clientele">Clientele</a></li>
 <li><a href="career">Career</a></li>

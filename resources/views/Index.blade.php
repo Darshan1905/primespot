@@ -126,7 +126,7 @@
 <div class="swiper-slide">
 <div class="flat-slider">
 <div class="overlay-slider"></div>
-<div class="sld-img"> <img src="assets/images/image-slider/MainBanner-1.png" alt="img"/> </div> 
+<div class="sld-img"> <img src="assets/images/image-slider/MainBanner-2.png" alt="img"/> </div> 
 <div class="elip-slider"> <img src="assets/images/image-slider/Path 1.svg" alt="img"/> </div>
 
 <div class="content">

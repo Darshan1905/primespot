@@ -239,7 +239,7 @@ magna aliquyam erat, sed diam voluptua. At vero eos et
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
 <p class="" style="color:#000; text-align: justify;">
-    We bring end-to-end e-commerce expansion offerings, personalization capabilities and insights to power the entire customer journey.  We draw first-hand experience from existing Primespot brands to adapt learnings  for your business by tapping into functions like website development for new customer acquisition and retention to escalation and query solving. We build across platforms like Shopify, Magento, Java and across operating systems - android and iOS to touch thresholds of cutting age technology for your business requirements. Performance driven ads across google and other affiliated partners and social media with influencer collaborations for D2C are an imperative part of the digital expansion strategy.
+    We bring end-to-end e-commerce expansion offerings, personalization capabilities and insights to power the entire customer journey.  We draw first-hand experience from existing PrimeSpot brands to adapt learnings  for your business by tapping into functions like website development for new customer acquisition and retention to escalation and query solving. We build across platforms like Shopify, Magento, Java and across operating systems - android and iOS to touch thresholds of cutting age technology for your business requirements. Performance driven ads across google and other affiliated partners and social media with influencer collaborations for D2C are an imperative part of the digital expansion strategy.
 </p>
 </div>
 <!--<div class="item pr-5" data-dot="<button>2</button>">
@@ -300,7 +300,7 @@ magna aliquyam erat, sed diam voluptua. At vero eos et
 <div class="home-2 owl-carousel owl-theme">
 <div class="item pr-5" data-dot="<button>1</button>">
 <p class="" style="color:#000; text-align: justify;">
-We work to transform your online business into a revenue generating machine by reimagining end-to-end operating models. Your brand tone, positioning, voice and story are an imperative part of how consumers see your brand. To ensure alignment with  full potential strategic business goals we focus on minimizing handoffs and maximizing delivery. We help you harness the power of digital content generation in the form of photoshoots, videos for cataloging and listing, hacking growth on social media and through performance ads, press interactions and furthermore provide  insights into your business for course correction to fuel growth leading to long term cost benefit.
+We work to transform your online business into a revenue generating machine by reimagining end-to-end operating models. Your brand tone, positioning, voice and story are an imperative part of how consumers see your brand. To ensure alignment with  full potential strategic business goals we focus on minimizing handoffs and maximizing delivery. We help you harness the power of digital content generation in the form of photoshoots, videos for cataloging and listing, hacking growth on social media and through performance ads, press interactions and furthermore provide insights into your business for course correction to fuel growth leading to long term cost benefit.
 </p>
 </div>
 <!--<div class="item pr-5" data-dot="<button>2</button>">

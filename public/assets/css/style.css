@@ -1262,7 +1262,8 @@ a:focus {
   line-height: 125px;
   font-size: 18px;
   font-weight: 700;
-  color: #000000;
+  /*color: #000000;*/
+  color: #ffffff;  
   position: relative;
 }
 

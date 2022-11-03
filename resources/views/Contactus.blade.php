@@ -147,7 +147,10 @@ href="assets/css/swiper-bundle.min.css"
 
 </div>
 <img src="/assets/images/image-box/map.png" alt="" />
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, se, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
+<p style="text-align: justify;">PrimeSpot specializes in integrated e-commerce solutions for brands, with special expertise in premium and luxury brands.
+ After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK, Polaroid, and many more in the fragrance, beauty, 
+luggage & sunglass categories; PrimeSpot set out to service other organizations keeping in mind the highest standards of efficiency and networking
+ to enable brands to tap into the booming business of e-commerce.</p>
 </div>
 <div class="col-lg-7 pt-3">
 

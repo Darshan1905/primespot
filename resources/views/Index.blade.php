@@ -57,7 +57,7 @@
 <header id="site-header">
 <div id="site-logo" class="clearfix">
 <div id="site-log-inner">
-<a href="/" rel="home" class="main-logo"> <img src="assets/images/logo/primespot-logo.svg" alt="bixos" width="200" height="150" data-width="100" data-height="44" style="width: 100%;"/> </a> </div>
+<a href="/" rel="home" class="main-logo"> <img src="assets/images/logo/primespot-logo.svg" alt="bixos" width="200" height="150" data-width="100" data-height="44" style="/*width: 100%;*/"/> </a> </div>
 </div>
 <div class="mobile-button">
 <span></span>

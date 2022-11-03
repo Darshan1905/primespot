@@ -8,7 +8,7 @@
   <img src="assets/images/logo/primespot-logo-01.svg" alt="images" style="width: 30%;" />
 </a>
 </div>
-<h5 class="text-color-4 foot-data footer-section-1 p-3">Primespot has a host of services like marketplace management, D2C solutions, warehousing services, e-commerce consultancy to empower its clients to choose just what’s right for their business.
+<h5 class="text-color-4 foot-data footer-section-1 p-3" style="text-align: justify;">Primespot has a host of services like marketplace management, D2C solutions, warehousing services, e-commerce consultancy to empower its clients to choose just what’s right for their business.
 </h5>
 
 <!-- </div> -->

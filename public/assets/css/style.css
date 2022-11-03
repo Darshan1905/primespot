@@ -1250,12 +1250,13 @@ a:focus {
 #main-nav ul li {
   position: relative;
   list-style: none;
+  color: #000000;    
 }
 
 #main-nav > ul > li {
   float: left;
   margin: 0 20.7px;
-  color: #000000;  
+  
 }
 
 #main-nav > ul > li > a {

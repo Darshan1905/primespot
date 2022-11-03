@@ -1249,8 +1249,7 @@ a:focus {
 
 #main-nav ul li {
   position: relative;
-  list-style: none;
-  color: #000000;    
+  list-style: none;    
 }
 
 #main-nav > ul > li {
@@ -1264,8 +1263,7 @@ a:focus {
   line-height: 125px;
   font-size: 18px;
   font-weight: 700;
-  /*color: #000000;*/
-  color: #ffffff;  
+  color: #000000; 
   position: relative;
 }
 

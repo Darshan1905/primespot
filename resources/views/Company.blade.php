@@ -314,7 +314,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 </div>
 <div class="col-lg-12">
 
-<p style="text-align: justify;">At Prime Spot, a customer-first approach is the foundation of our culture. We believe in authentically pushing your business to the forefront with 
+<p style="text-align: justify;">At PrimeSpot, a customer-first approach is the foundation of our culture. We believe in authentically pushing your business to the forefront with 
 all of our in-house capabilities designed to grow an organization rapidly through these changing times. We believe in collaboration as partners instead 
 of being another third party service provider who is determined to get you the results and solutions that you are looking for as we help you scale your business. 
 Our customer-oriented revenue models are designed to benefit you in the long term with cost optimization, access to better talent and maximum growth in revenue with 

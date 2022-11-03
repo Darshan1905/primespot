@@ -41,10 +41,10 @@ Necessitatibus quasi, dolores inventore voluptatem laudantium
 <h3 class="widget-title-link-wrap text-color-3">
   Contact Us
 </h3>
-<h5 class="text-color-4 foot-data2">
-  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Necessitatibus quasi, porro doloremque, ab repellat dolor
-  laboriosam iste ea quas nam eum?
+<h5 class="text-color-4 foot-data2" style="text-align: justify;">
+ Primespot has a host of services like marketplace management, D2C solutions,
+ warehousing services, e-commerce consultancy to empower its clients to choose
+ just what’s right for their business.
 </h5>
 </ul>
 <!-- </div> -->

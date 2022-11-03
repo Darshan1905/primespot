@@ -66,7 +66,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div id="site-logo" class="clearfix">
 <div id="site-log-inner">
 <a href="/" rel="home" class="main-logo">
-<img src="assets/images/logo/primespot-logo.svg" alt="bixos" width="200" height="150" data-width="100" data-height="44" style="width: 100%;"/>
+<img src="assets/images/logo/primespot-logo.svg" alt="bixos" width="200" height="150" data-width="100" data-height="44" style="/*width: 100%;*/"/>
 </a>
 </div>
 </div>

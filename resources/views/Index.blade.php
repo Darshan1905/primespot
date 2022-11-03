@@ -473,7 +473,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>2</b> </h2>
 </div>
 <div class="index-box-2-1">
-<h3 class="mt-4">Primespot Dispatch</h3>
+<h3 class="mt-4">PrimeSpot Dispatch</h3>
 <p style=" margin:6px; line-height:1.2;">PrimeSpot’s <b>dispatch breach and cancellation ratio</b><br> is < 0.05%  across all website partners</p>
 </div>
 </div>
@@ -483,7 +483,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>4</b> </h2>
 </div>
 <div class="index-box-2-3">
-<h3 class="mt-4">Primespot Expertise</h3>
+<h3 class="mt-4">PrimeSpot Expertise</h3>
 <p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online </p>
 </div>
 </div>
@@ -508,7 +508,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>1</b> </h2>
 </div>
 <div class="index-page-box-2">
-<h3 class="mt-4">Primespot Sell-Through</h3>
+<h3 class="mt-4">PrimeSpot Sell-Through</h3>
 <p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
 </div>
 </div>
@@ -526,7 +526,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>2</b> </h2>
 </div>
 <div class="index-box-2-1">
-<h3 class="mt-4">Primespot Dispatch</h3>
+<h3 class="mt-4">PrimeSpot Dispatch</h3>
 <p style=" margin:6px; line-height:1.2;">PrimeSpot’s dispatch breach and cancellation ratio is < 0.05%  across all website partners</p>
 </div>
 </div>
@@ -541,7 +541,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>3</b> </h2>
 </div>
 <div class="index-box-2-2">
-<h3 class="mt-4">Primespot Listings</h3>
+<h3 class="mt-4">PrimeSpot Listings</h3>
 <p style=" margin:6px; line-height:1.2;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals</p>
 </div>
 </div>
@@ -556,7 +556,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>4</b> </h2>
 </div>
 <div class="index-box-2-3">
-<h3 class="mt-4">Primespot Expertise</h3>
+<h3 class="mt-4">PrimeSpot Expertise</h3>
 <p style=" margin:6px; line-height:1.2;">A dedicated brand management and sales management team ensures there’s a boost in operational efficiency and readiness to expand online.</p>
 </div>
 </div>
@@ -571,7 +571,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>5</b> </h2>
 </div>
 <div class="index-box-2-4">
-<h3 class="mt-4">Primespot Integrations</h3>
+<h3 class="mt-4">PrimeSpot Integrations</h3>
 <p style=" margin:6px; line-height:1.2;">We deploy Microsoft Dynamics 365, a deeply integrated e-commerce IT systems giving you real time insights into your business.</p>
 </div>
 </div>
@@ -594,7 +594,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>1</b> </h2>
 </div>
 <div class="index-page-box-2">
-<h3 class="mt-4">Primespot Sell-Through</h3>
+<h3 class="mt-4">PrimeSpot Sell-Through</h3>
 <p style=" margin:6px; line-height:1.2;">PrimeSpot sells ~10 products every minute online which is 4.6 million products a year.</p>
 </div>
 </div>
@@ -606,7 +606,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>3</b> </h2>
 </div>
 <div class="index-box-2-2">
-<h3 class="mt-4">Primespot Listings</h3>
+<h3 class="mt-4">PrimeSpot Listings</h3>
 <p style=" margin:6px; line-height:1.2;">Over 99% of our product listings are ‘Prime listings’ on Amazon and A+ listing on other portals.</p>
 </div>
 </div>
@@ -618,7 +618,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <h2 style="font-size:32px;"><b>5</b> </h2>
 </div>
 <div class="index-box-2-4">
-<h3 class="mt-4">Primespot Integrations</h3>
+<h3 class="mt-4">PrimeSpot Integrations</h3>
 <p style=" margin:6px; line-height:1.2;">We deploy Microsoft Dynamics 365, a deeply integrated e-commerce IT systems giving you real time insights into your business</p>
 </div>
 </div>
@@ -686,7 +686,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="index-box-2">
 <div class="index-box-3 ">
 <h2 style="color: #fff;" class="text-center mb-4" >A-la-carte</h2>
-<p style="color: #fff;text-align: justify" >For Brands that require agility and flexibility we offer Bespoke services suited to enable transformation. The rapidly changing business of e-commerce may require  you to create your own D2C website from the ground up, SEO optimize it to boost rankings; build a marketing strategy to capture the right market share or optimize your ACOS on AMS (Amazon marketing services); manage omnichannel logistics for ecommerce,  warehouse storage or shipping services with a pan-India fulfillment network; optimize cataloging for your products searchability with getting the right photoshoots done for your new range - we help you capitalize on trends shaping the future of e-commerce.</p>
+<p style="color: #fff;text-align: justify" >For Brands that require agility and flexibility we offer Bespoke services suited to enable transformation. The rapidly changing business of e-commerce may require you to create your own D2C website from the ground up, SEO optimize it to boost rankings; build a marketing strategy to capture the right market share or optimize your ACOS on AMS (Amazon marketing services); manage omnichannel logistics for ecommerce,  warehouse storage or shipping services with a pan-India fulfillment network; optimize cataloging for your products searchability with getting the right photoshoots done for your new range - we help you capitalize on trends shaping the future of e-commerce.</p>
 </div>
 </div>
 </div>
@@ -710,7 +710,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 
 
 <p style="text-align: justify;">
-Primespot has a large online distribution network, pan-india warehousing facilities,
+PrimeSpot has a large online distribution network, pan-india warehousing facilities,
 established relationships with marketplace partners, media houses, influencers and bloggers, 
 and an organization structure of more than xxx talents to deliver goal-oriented results for your business.
 </p>

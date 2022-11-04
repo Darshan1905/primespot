@@ -57,6 +57,10 @@
     display: none;
   }
 
+  .d-contact-btn{
+    display: block !important;
+  }
+
   .flat-title-page {
     padding: 250px 0 150px 0;
   }
@@ -64,6 +68,12 @@
   #site-header .mobile-button {
     display: block;
     z-index: 200;
+  }
+
+  .slider .content,
+  .slider .content.flat {
+    left: 20px;
+    top: 22%;
   }
 
   .elip-header2,
@@ -171,21 +181,17 @@
 
   .slider .content,
   .slider .content.flat {
-    left: 0;
-    top: 32%;
+    left: 22px;
+    top: 12%;
   }
 
-  .slider .content {
-    left: 22px;
-    right: 5%
-  }
 
   .slider.home3 .content {
     left: 22px;
   }
 
   .slider .content h1 {
-    font-size: 64px;
+    font-size: 55px;
     line-height: 74px;
   }
 
@@ -415,6 +421,7 @@
     margin-bottom: 30px;
   }
 
+ 
 }
 
 /* ------------------------------------------ */
@@ -509,11 +516,12 @@
 
   .slider .content {
     left: 15px;
-    top : 30%
+    right:5px;
+    top : 20%
   }
   
   .slider .content h1 {
-    font-size: 42px;
+    font-size: 35px;
     line-height: 48px;
   }
 
@@ -953,7 +961,7 @@
   }
 
   .slider .content {
-    top:25%
+    top:10%
   }
 }
 
@@ -986,7 +994,7 @@
   }
 
   .slider .content h1 {
-    font-size  : 38px;
+    font-size  : 30px;
     line-height: 46px;
   }
 

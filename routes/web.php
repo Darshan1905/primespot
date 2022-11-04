@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Contactuscontroller;
 
 /*
 |--------------------------------------------------------------------------
@@ -41,3 +42,5 @@ Route::get('contact', function () {
 Route::get('career', function () {
     return view('Career');
 });
+
+Route::post('/send-email',[Contactuscontroller::class,'sendEmail'])->name('Sendemail');

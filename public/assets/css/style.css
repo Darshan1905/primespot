@@ -1205,6 +1205,10 @@ a:focus {
   margin-left: 2.5px;
 }
 
+.d-contact-btn{
+  display: none !important;
+}
+
 .tf-button.home2 {
   right: 14px !important;
   top: 51px !important;
@@ -5164,6 +5168,8 @@ ul {
 .integration2 .tab-content.current {
   display: inherit;
 }
+
+
 /* ***************************************** */
 
 ul.tablist {

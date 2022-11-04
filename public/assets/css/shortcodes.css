@@ -574,17 +574,17 @@ video::before {
     color: #FFFFFFB2;
     font-size: 18px;
     margin-left: 2px;
-    margin
 }
 
 .slider .button {
-    margin-left: 2px;
+    margin-left: 2px ;
 }
 
 .video-slider {
     position: relative;
     display: inline-block;
     margin-left: 30px;
+    margin-top: 50px;
 }
 
 .video-slider::after {

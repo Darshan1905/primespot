@@ -182,7 +182,7 @@ Empowering your brand's accelerated online growth with a full stack of services 
 <!--We are <span class="text-color-3 style-title">trusted</span> by
 first & best in the world.-->
 
-We are <span class="text-color-3 style-title"> trusted</span> by the first & the best global brands.
+We are <span class="text-color-3 style-title"> trusted</span>by <!--the first &--> the best global brands.
 
 </h2>
 </div>

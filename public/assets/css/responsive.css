@@ -276,6 +276,8 @@
     background-position-y: 25%;
     background-position-x: 50%;
     padding: 115px 0 0;
+    background-size: 70%;
+
   }
 
   .flat-testimonial .testimonial-slider.tf-style {
@@ -470,6 +472,11 @@
     margin-bottom: 10px;
   }
  
+  .flat-testimonial.falt-client {
+    background-size: 90%;
+
+  }
+
   .flat-service .service-post .content {
     padding: 0px 20px 35px;
   }

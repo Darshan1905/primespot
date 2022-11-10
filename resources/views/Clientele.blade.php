@@ -146,20 +146,16 @@ data-width="100" data-height="44" style="/*width: 100%;*/" />
 
 <div class="container  pb-5">
 <div class="flat-trusted">
-<div class="mark-page31 tf-mark animate-up"> <img src="assets/images/mark-page/message.svg"
-alt="images" style="width:70%"> </div>
+<!--<div class="mark-page31 tf-mark animate-up"> <img src="assets/images/mark-page/message.svg"alt="images" style="width:70%"> </div>-->
 
 </div>
 <div class="row clientele-first-section pt-5 pb-5">
-<div class="col-lg-1 dots-flot"><img src="/assets/images/image-box/verticaldots.png"
-alt="dots-img" /></div>
+<div class="col-lg-1 dots-flot"><img src="/assets/images/image-box/verticaldots.png" alt="dots-img" /></div>
 
 
 
 <div class="col-lg-4 mt-5 pt-5">
-<img src="/assets/images/image-box/Client-101.png" width="100%" alt="img" />
-<h2 class="text-center pt-4">Scale Your Business</h2>
-</div>
+<img src="/assets/images/image-box/Client-101.png" width="100%" alt="img" /><h2 class="text-center pt-4">Scale Your Business</h2></div>
 
 
 

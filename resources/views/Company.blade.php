@@ -177,8 +177,8 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="media img-1">
 <img class="index-img-2" src="/assets/images/image-box/AboutUs.png" alt="images" style="width: 100%;"/>
 <img class="index-img-1" src="/assets/images/image-box/about-img.png" alt="images" style="width: 100%;"/>
-<div class="mark-page5 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
-<div class="mark-page6 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:70%" > </div>
+<!--<div class="mark-page5 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
+<div class="mark-page6 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:70%" > </div>-->
 </div>
 </div>
 </div>

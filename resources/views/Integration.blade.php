@@ -333,10 +333,8 @@ style="width: 90%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 </div>
 <div class="flat-trusted">
-<div class="mark-page27 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images"
-style="width:70%"> </div>
-<div class="mark-page28 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images"
-style="width:70%"> </div>
+<div class="mark-page27 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images"style="width:70%"> </div>
+<!--<div class="mark-page28 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images"style="width:70%"> </div>-->
 </div>
 </div>
 </section>

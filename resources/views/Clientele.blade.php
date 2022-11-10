@@ -154,8 +154,7 @@ data-width="100" data-height="44" style="/*width: 100%;*/" />
 
 
 
-<div class="col-lg-4 mt-5 pt-5">
-<img src="/assets/images/image-box/Client-101.png" width="100%" alt="img" /><h2 class="text-center pt-4">Scale Your Business</h2></div>
+<div class="col-lg-4 mt-5 pt-5"><img src="/assets/images/image-box/Client-101.png" width="100%" alt="img" /><h2 class="text-center pt-4">Scale Your Business</h2></div>
 
 
 

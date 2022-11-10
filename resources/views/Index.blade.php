@@ -101,9 +101,7 @@
 <li class="menu-item"><a href="career">Career01</a></li>
 </ul> -->
 </li>
-<li class="menu-item d-contact-btn ">
-                                        <a href="contact"><span>Contact Us </span></a>
-                                    </li>
+<li class="menu-item d-contact-btn "><a href="contact"><span>Contact Us </span></a></li>
 </ul>
 </nav>
 <!-- /#main-nav -->
@@ -165,10 +163,12 @@ Empowering your brand's accelerated online growth with a full stack of services 
 <div class="media img-1">
 <img class="index-img-1" src="assets/images/image-box/Second-Banner.png" alt="images" style="width: 100%;"/>
 <img class="index-img-2" src="assets/images/image-box/Second-Banner.png" alt="images" style="width: 100%;"/>
-<div class="mark-page tf-mark  animate-up"> <img src="assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
+
+
+<!--<div class="mark-page tf-mark  animate-up"> <img src="assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
 <div class="mark-page2 tf-mark animate-up"> <img src="assets/images/mark-page/boxes.png" alt="images" style="width:70%" > </div>
 <div class="mark-page3 tf-mark animate-up"> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
-<div class="mark-page4 tf-mark animate-up"> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
+<div class="mark-page4 tf-mark animate-up"> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>-->
 
 
 </div>

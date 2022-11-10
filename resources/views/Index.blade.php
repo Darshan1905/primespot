@@ -453,8 +453,10 @@ finibus. Morbi blandit luctus nisi, id ornare sem blandit sed.
 <section >
 <div class="container mt-5 pt-5 text-center">
 <div class="flat-trusted">
-<div class="mark-page10 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
-<div class="mark-page18 tf-mark animate-up"> <img src="assets/images/mark-page/discount.png" alt="images" style="width:70%" > </div>
+
+
+<!--<div class="mark-page10 tf-mark animate-up"> <img src="assets/images/mark-page/search.svg" alt="images" style="width:70%" > </div>
+<div class="mark-page18 tf-mark animate-up"> <img src="assets/images/mark-page/discount.png" alt="images" style="width:70%" > </div>-->
 
 </div>
 <div class="howdowework mb-5 pb-5">

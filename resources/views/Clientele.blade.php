@@ -233,7 +233,7 @@ replenishments.
 <div class="container pt-5 pb-5">
 <div class="row pb-5">
 <div class="col-lg-6 pt-5">
-<h2 style="line-height: 1.2; text-align: justify;">Why partner with <span class="text-color-3 style-title">Prime Spot?</span></h2>
+<h2 style="line-height: 1.2; text-align: justify;">Why partner with <span class="text-color-3 style-title">PrimeSpot?</span></h2>
 <p class="mt-4">PrimeSpot specializes in integrated e-commerce solutions for brands with special
 expertise in premium and luxury brands.
 After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Essence, Guess,

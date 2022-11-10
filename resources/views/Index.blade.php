@@ -732,13 +732,18 @@ and an organization structure of more than xxx talents to deliver goal-oriented 
 </section>
 
 <section>
+
+
 <div class="container mt-5 mb-5 pt-5 pb-5">
 <div class="flat-trusted">
-<div class="mark-page12 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+
+<!--<div class="mark-page12 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
 <div class="mark-page13 tf-mark "> <img src="assets/images/mark-page/round.svg" alt="images" style="width:60%" > </div>
 <div class="mark-page14 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:90%" > </div>
 <div class="mark-page15 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
-<div class="mark-page16 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
+<div class="mark-page16 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>-->
+
+
 </div>
 
 <div class="row index-map-section">

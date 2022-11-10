@@ -748,7 +748,7 @@ and an organization structure of more than xxx talents to deliver goal-oriented 
 
 <div class="row index-map-section">
 <div class="col-lg-5">
-<h2 class="mb-4">Why you  <span class="text-color-3 style-title">should</span> work<br> with us?</h2>
+<h2 class="mb-4">Why you  <span class="text-color-3 style-title">should</span> partner<br> with us?</h2>
 
 
 <p style="text-align: justify;">

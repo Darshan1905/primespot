@@ -677,7 +677,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="index-box-4">
 <div class="index-box-5 ">
 <h2 style="color: #fff;" class="text-center mb-4" >Accelerator</h2>
-<p style="color: #fff;text-align: justify;" >As established brands,to complement your business,we offer a fully aligned<br> offline / modern trade distributor-style all-inclusive margin business model to accelerate your e-commerce growth. We have a dedicated team of brand experts and strategists for day to day operational needs overseeing every part of marketplace management, cataloging, logistics, returns & finance reconciliations, accelerating your business. Our intelligent inventory system under this model is designed to offer you the best of our state of art Supply Chain capabilities with Stock Pooling capabilities to avoid overstocking and ensure FIFO, without the typical 3PL cost per sq.ft. model. </p>
+<p style="color: #fff;text-align: justify;" >As established brands, to complement your business, we offer a fully aligned<br> offline / modern trade distributor-style all-inclusive margin business model to accelerate your e-commerce growth. We have a dedicated team of brand experts and strategists for day to day operational needs overseeing every part of marketplace management, cataloging, logistics, returns & finance reconciliations, accelerating your business. Our intelligent inventory system under this model is designed to offer you the best of our state of art Supply Chain capabilities with Stock Pooling capabilities to avoid overstocking and ensure FIFO, without the typical 3PL cost per sq.ft. model. </p>
 </div>
 </div>
 </div>

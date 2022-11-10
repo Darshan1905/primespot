@@ -175,8 +175,11 @@ Empowering your brand's accelerated online growth with a full stack of services 
 </div>
 <div class="col-lg-6 col-md-7">
 <div class="flat-trusted">
-<div class="mark-page19 tf-mark "> <img src="assets/images/mark-page/mobile.png" alt="images" style="width:70%" > </div>
-<div class="mark-page20 tf-mark "> <img src="assets/images/mark-page/locate.png" alt="images" style="width:70%" > </div>
+
+<!--<div class="mark-page19 tf-mark "> <img src="assets/images/mark-page/mobile.png" alt="images" style="width:70%" > </div>
+<div class="mark-page20 tf-mark "> <img src="assets/images/mark-page/locate.png" alt="images" style="width:70%" > </div>-->
+
+
 </div>
 <div class="trusted-heading">
 <!-- <div class="tf-sub-title">Please Get To Know Us</div> -->

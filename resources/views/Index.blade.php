@@ -501,7 +501,7 @@ brands to adapt to a <b>multi-channel strategy</b> more rapidly for their e-comm
 <div class="road-map mt-5 pt-5 mb-5 pb-5">
 <div id="map">
 <div class=" mt-3">
-<img src="/assets/images/image-box/Group 2541.png" width="100%" alt="Map">
+<img src="/assets/images/image-box/Group-2541.png" width="100%" alt="Map">
 </div>
 <div id="dots ">
 <div class="dot dot-1 ">

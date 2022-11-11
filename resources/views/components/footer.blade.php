@@ -54,13 +54,13 @@
                 </h3>
                 <div class="social-icon mt-4">
                     <div>
-                        <a><img src="/assets/images/image-box/New-Facebook.png" alt="" style="width: 70%;"></a>
+                        <a href="https://www.w3schools.com"><img src="/assets/images/image-box/New-Facebook.png" alt="" style="width: 70%;"></a>
                     </div>
                     <div>
-                        <a><img src="/assets/images/image-box/New-Instagram.png" alt="" style="width: 70%;"></a>
+                        <a href="#"><img src="/assets/images/image-box/New-Instagram.png" alt="" style="width: 70%;"></a>
                     </div>
                     <div>
-                        <a><img src="/assets/images/image-box/New-Whatsapp.png" alt="" style="width: 70%;"></a>
+                        <a href="#"><img src="/assets/images/image-box/New-Whatsapp.png" alt="" style="width: 70%;"></a>
                     </div>
                 </div>
 

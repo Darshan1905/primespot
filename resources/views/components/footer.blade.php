@@ -54,13 +54,13 @@
                 </h3>
                 <div class="social-icon mt-4">
                     <div>
-                        <img src="/assets/images/image-box/fb.png" alt="" style="width: 70%;">
+                        <img src="/assets/images/image-box/New-Facebook.png" alt="" style="width: 70%;">
                     </div>
                     <div>
-                        <img src="/assets/images/image-box/insta.png" alt="" style="width: 70%;">
+                        <img src="/assets/images/image-box/New-Instagram.png" alt="" style="width: 70%;">
                     </div>
                     <div>
-                        <img src="/assets/images/image-box/wp.png" alt="" style="width: 70%;">
+                        <img src="/assets/images/image-box/New-Whatsapp.png" alt="" style="width: 70%;">
                     </div>
                 </div>
 

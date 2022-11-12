@@ -41,7 +41,7 @@
                         Contact Us
                     </h3>
                     <h5 class="text-color-4 foot-data2">
-                        Get in touch with us, <a href="mailto:contact@primespotindia.com">contact@primespotindia.com</a>
+                        Get in touch with us, <FontAwesomeIcon icon="fa-light fa-envelope" /><a href="mailto:contact@primespotindia.com">contact@primespotindia.com</a>
                     </h5>
                 </ul>
                 <!-- </div> -->

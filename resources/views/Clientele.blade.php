@@ -83,28 +83,24 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 </li>
 <li class="menu-item  ">
 <a href="solution">Solutions</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="solution">Solution01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="solution">Solution01</a></li></ul> -->
 </li>
+
 <li class="menu-item ">
 <a href="integration">Integration</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="integration">Integration01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="integration">Integration01</a></li></ul> -->
 </li>
+
 <li class="menu-item  current-menu-item">
 <a href="clientele">Clientele</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="clientele">Clientele01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="clientele">Clientele01</a></li></ul> -->
 </li>
+
 <li class="menu-item ">
 <a href="career">Career</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="career">Career01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="career">Career01</a></li></ul> -->
 </li>
+
 <li class="menu-item d-contact-btn ">
 <a href="contact"><span>Contact Us </span></a>
 </li>
@@ -162,36 +158,23 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="home-slide-2 pt-5 pb-5">
 <div class="line"></div>
 <div class="home-2 owl-carousel owl-theme">
+
 <div class="item" data-dot="<button>1</button>">
-<p>
-<b>Get on Onboard:</b><br>
-Access our ecosystem of marketplace partners to list your products for a greater
-outreach.
-</p>
+<p><b>Get on Onboard:</b><br>Access our ecosystem of marketplace partners to list your products for a greateroutreach.</p>
 </div>
+
 <div class="item" data-dot="<button>2</button>">
-<p>
-<b>Disseminate:</b><br>
-Utilize the intelligent inventory ERP software system to access pan-india
-fulfillment services with assured shipping and logistics.
-</p>
-</div>
+<p><b>Disseminate:</b><br>Utilize the intelligent inventory ERP software system to access pan-india fulfillment services with assured shipping and logistics.</p>
+</div> 
+
 <div class="item" data-dot="<button>3</button>">
-<p>
-<b>Organised Fulfillment:</b><br>
-Fulfill your consumer’s demands with our robust technology OF CRM, GOOGLE ADS,
-SOCIAL MEDIA STRATEGY, & fast and assured shipping, coherent packaging and
-efficient deliveries.
-</p>
+<p><b>Organised Fulfillment:</b><br> Fulfill your consumer’s demands with our robust technology OF CRM, GOOGLE ADS, SOCIAL MEDIA STRATEGY, & fast and assured shipping, coherent packaging and efficient deliveries.</p>
 </div>
+
 <div class="item" data-dot="<button>4</button>">
-<p>
-<b>Augment:</b><br>
-Draw from PrimeSpot’s full capabilities to hyperscale and hyper-personalise your
-business needs with real time insights and intelligent inventory for
-replenishments.
-</p>
+<p><b>Augment:</b><br>Draw from PrimeSpot’s full capabilities to hyperscale and hyper-personalise your business needs with real time insights and intelligent inventory for replenishments.</p>
 </div>
+
 </div>
 </div>
 </div>
@@ -244,8 +227,8 @@ networking to enable brands to tap into the booming business vertical of e-comme
 </div>
 <div class="col-lg-6 cli-img text-center pt-5">
 <div class="flat-trusted">
-<!--<div class="mark-page32 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images"style="width:70%"> </div>
-<div class="mark-page33 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%"> </div>-->
+<div class="mark-page32 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images"style="width:70%"> </div>
+<div class="mark-page33 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%"> </div>
 </div>
 <img src="/assets/images/image-box/Client-102.png" alt="">
 </div>

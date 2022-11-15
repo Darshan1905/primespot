@@ -70,36 +70,32 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="wrap-inner clearfix">
 <nav id="main-nav" class="main-nav">
 <ul id="menu-primary-menu" class="menu">
+
 <li class="menu-item">
 <a href="company">Company</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item current-item"><a href="company">Company01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item current-item"><a href="company">Company01</a></li></ul> -->
 </li>
+
 <li class="menu-item">
 <a href="solution">Solutions</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="solution">Solution01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="solution">Solution01</a></li></ul> -->
 </li>
+
 <li class="menu-item current-menu-item">
 <a href="integration">Integration</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="integration">Integration01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="integration">Integration01</a></li></ul> -->
 </li>
+
 <li class="menu-item">
 <a href="clientele">Clientele</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="clientele">Clientele01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="clientele">Clientele01</a></li></ul> -->
 </li>
+
 <li class="menu-item">
 <a href="career">Career</a>
-<!-- <ul class="sub-menu">
-<li class="menu-item"><a href="career">Career01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="career">Career01</a></li></ul> -->
 </li>
+
 <li class="menu-item d-contact-btn ">
 <a href="contact"><span>Contact Us </span></a>
 </li>
@@ -141,9 +137,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <section class="tf-space flat-testimonial falt-client">
 <div class="container">
 <div class="flat-trusted">
-<div class="mark-page26 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images"
-style="width:70%"> </div>
-</div>
+<div class="mark-page26 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%"> </div> </div>
 <div class="row">
 <div class="col-lg-6">
 <div class="swiper-container testimonial-slider tf-style carousel-5">
@@ -276,33 +270,23 @@ style="width: 90%;box-shadow: 1px 1px 12px #00000029;">
 <div class="owl-carousel owl-theme integration2 p-5 text-center">
 
 <div class="item">
-<ul class="tabslists">
-<li class="tab-link current" data-tabs="itab-1">Logistic Partners</li>
-</ul>
+<ul class="tabslists"><li class="tab-link current" data-tabs="itab-1">Logistic Partners</li></ul>
 </div>
 
 <!--<div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-2">Fashion & Apparels</li>
-</ul>
+<ul class="tabslists"><li class="tab-link" data-tabs="itab-2">Fashion & Apparels</li></ul>
 </div>
 
 <div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-3">Market place</li>
-</ul>
+<ul class="tabslists"><li class="tab-link" data-tabs="itab-3">Market place</li></ul>
 </div>
 
 <div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-4">Grocery & Wellness</li>
-</ul>
+<ul class="tabslists"><li class="tab-link" data-tabs="itab-4">Grocery & Wellness</li></ul>
 </div>
 
 <div class="item">
-<ul class="tabslists">
-<li class="tab-link" data-tabs="itab-5">Fashion & Apparels</li>
-</ul>
+<ul class="tabslists"><li class="tab-link" data-tabs="itab-5">Fashion & Apparels</li></ul>
 </div>-->
 
 </div>
@@ -334,7 +318,7 @@ style="width: 90%;box-shadow: 1px 1px 12px #00000029;">
 </div>
 <div class="flat-trusted">
 <div class="mark-page27 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images"style="width:70%"> </div>
-<!--<div class="mark-page28 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images"style="width:70%"> </div>-->
+<div class="mark-page28 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images"style="width:70%"> </div>
 </div>
 </div>
 </section>

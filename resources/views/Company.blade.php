@@ -83,41 +83,33 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <div class="wrap-inner clearfix">
 <nav id="main-nav" class="main-nav">
 <ul id="menu-primary-menu" class="menu">
+
 <li class="menu-item  current-menu-item">
 <a href="company">Company</a>
-<!-- <ul class="sub-menu">
-    <li class="menu-item current-item"><a href="company">Company01</a></li>
-
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item current-item"><a href="company">Company01</a></li></ul> -->
 </li>
+
 <li class="menu-item  ">
 <a href="solution">Solutions</a>
-<!-- <ul class="sub-menu">
-    <li class="menu-item"><a href="solution">Solution01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="solution">Solution01</a></li></ul> -->
 </li>
+
 <li class="menu-item ">
 <a href="integration">Integration</a>
-<!-- <ul class="sub-menu">
-    <li class="menu-item"><a href="integration">Integration01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="integration">Integration01</a></li></ul> -->
 </li>
+
 <li class="menu-item ">
 <a href="clientele">Clientele</a>
-<!-- <ul class="sub-menu">
-    <li class="menu-item"><a href="clientele">Clientele01</a></li>
-</ul> -->
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="clientele">Clientele01</a></li></ul> -->
 </li>
+
 <li class="menu-item ">
 <a href="career">Career</a>
-<!-- <ul class="sub-menu">
-    <li class="menu-item"><a href="career">Career01</a></li>
-</ul> -->
-</li>
-<li class="menu-item d-contact-btn ">
-                                        <a href="contact"><span>Contact Us </span></a>
-                                    </li>
+<!-- <ul class="sub-menu"><li class="menu-item"><a href="career">Career01</a></li></ul> --></li>
+<li class="menu-item d-contact-btn "><a href="contact"><span>Contact Us </span></a></li>
 </ul>
+
 </nav>
 <!-- /#main-nav -->
 </div>
@@ -130,22 +122,22 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 </div>
 
 </header>
-<!-- /#site-header -->
-<section class="flat-title-page-Company">
-<div class="overlay-page"></div>
-<div class="container">
-<div class="row">
-<div class="col-lg-12 col-md-12">
-<div class="breadcrumbs">
-<h1>Company</h1>
-<div class="breadcrumb-trail link-style-2">
-<a class="home" href="/">Home</a><span>Company</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
+    <!-- /#site-header -->
+    <section class="flat-title-page-Company">
+        <div class="overlay-page"></div>
+            <div class="container">
+                <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="breadcrumbs">
+                        <h1>Company</h1>
+                        <div class="breadcrumb-trail link-style-2">
+                            <a class="home" href="/">Home</a><span>Company</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
 </div>
 </div>
@@ -159,14 +151,8 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <div class="row about-us-row  pb-5">
 
-<div class="waves-about">
-<img src="/assets/images/image-box/waves.svg" alt="">
-</div>
-<div class="col-lg-1">
-<div class="dots-about">
-<img src="/assets/images/image-box/verticaldots.png" alt="">
-</div>
-</div>
+<div class="waves-about"><img src="/assets/images/image-box/waves.svg" alt=""></div>
+<div class="col-lg-1"><div class="dots-about"><img src="/assets/images/image-box/verticaldots.png" alt=""></div></div>
 <div class="col-lg-6 mt-5">
 
 <h2 class="tf-title"><span class="text-color-3 style-title">About</span> Us</h2>
@@ -179,8 +165,8 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <img class="index-img-1" src="/assets/images/image-box/about-img.png" alt="images" style="width: 100%;"/>
 
 
-<!--<div class="mark-page5 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
-<div class="mark-page6 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:70%" > </div>-->
+<div class="mark-page5 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg" alt="images" style="width:70%" > </div>
+<div class="mark-page6 tf-mark animate-up"> <img src="assets/images/mark-page/gift.svg" alt="images" style="width:70%" > </div>
 
 
 </div>
@@ -314,7 +300,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
 <img class="index-img-1 text-center" src="/assets/images/image-box/Our-Culture.png" alt="images" style="width: 100%;"/>
 
 
-<!--<div class="mark-page7 tf-mark animate-up"> <img src="assets/images/mark-page/light-bascket.svg" alt="images" style="width:70%" > </div>-->
+<div class="mark-page7 tf-mark animate-up"> <img src="assets/images/mark-page/light-bascket.svg" alt="images" style="width:70%" > </div>
 
 
 </div> 

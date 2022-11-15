@@ -3026,22 +3026,22 @@ a:focus {
 
 .flat-trusted .mark-page {
   /* z-index: 1; */
-  bottom: 40%;
+  bottom: -12%;
   right: 6%;
 }
 
 .flat-trusted .mark-page2 {
-  top: -1%;
+  top: -12%;
   left: 5%;
 }
 
 .flat-trusted .mark-page3 {
-  top: 74%;
-  left: 23.5%;
+  top: 81%;
+  left: -12.5%;
 }
 
 .flat-trusted .mark-page4 {
-  top: -7%;
+  top: -18%;
   right: 6%;
 }
 

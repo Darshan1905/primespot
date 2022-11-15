@@ -165,10 +165,10 @@ Empowering your brand's accelerated online growth with a full stack of services 
 <img class="index-img-2" src="assets/images/image-box/Second-Banner.png" alt="images" style="width: 100%;"/>
 
 
-<!--<div class="mark-page tf-mark  animate-up"> <img src="assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
+<div class="mark-page tf-mark  animate-up"> <img src="assets/images/mark-page/bag.png" alt="images" style="width:70%" >  </div>
 <div class="mark-page2 tf-mark animate-up"> <img src="assets/images/mark-page/boxes.png" alt="images" style="width:70%" > </div>
 <div class="mark-page3 tf-mark animate-up"> <img src="assets/images/mark-page/truck.png" alt="images" style="width:70%" > </div>
-<div class="mark-page4 tf-mark animate-up"> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>-->
+<div class="mark-page4 tf-mark animate-up"> <img src="assets/images/mark-page/Trolly.png" alt="images" style="width:70%" > </div>
 
 
 </div>

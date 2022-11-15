@@ -160,24 +160,11 @@ to enable brands to tap into the booming business of e-commerce.</p>
 <input name="fname" class="mt-2" type="text" required />
 </div>
 
-<div class="pb-5">
-<label for=""><b> Last Name</b></label>
-<input name="lname" class="mt-2" type="text" required />
-</div>
-<div class="pb-5">
-<label for=""><b> Email</b></label>
-<input name="email" class="mt-2" type="email" required />
-</div>
-<div class="pb-5">
-<label for=""><b> Mobile/Phone number</b></label>
-<input name="phone" class="mt-2" type="number" required />
-</div>
-<div class="pb-5">
-<label for=""><b> Subject</b></label>
-<input name="sub" class="mt-2" type="text" required />
-</div>
-<div class="form-half">
-<div class="pb-5 ">
+<div class="pb-5"><label for=""><b> Last Name</b></label><input name="lname" class="mt-2" type="text" required /></div>
+<div class="pb-5"><label for=""><b> Email</b></label><input name="email" class="mt-2" type="email" required /></div>
+<div class="pb-5"><label for=""><b> Mobile/Phone number</b></label><input name="phone" class="mt-2" type="number" required /></div>
+<div class="pb-5"><label for=""><b> Subject</b></label><input name="sub" class="mt-2" type="text" required /></div>
+<div class="form-half"><div class="pb-5 ">
 <label class="comp-lable" for=""><b> Company name</b></label>
 <br />
 <input name="cname" class="mt-2 contact-form-c-name " type="text" required />
@@ -200,8 +187,8 @@ class="button btn-style4 btn-submit-comment">
 </form>
 </div>
 <div class="flat-trusted">
-<!--<div class="mark-page38 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images"style="width:70%"> </div>
-<div class="mark-page39 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg"alt="images" style="width:70%"> </div>-->
+<div class="mark-page38 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images"style="width:70%"> </div>
+<div class="mark-page39 tf-mark animate-up"> <img src="assets/images/mark-page/red-truck.svg"alt="images" style="width:70%"> </div>
 </div>
 </div>
 </div>

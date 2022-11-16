@@ -333,7 +333,7 @@ and long-lasting relationships with our clients. You can be rest assured that we
 <!-- News room comments due to non content (Comments Starts Here) -->
 
 
-<div class="container  pt-5 pb-5 mt-5 ">
+<!--<div class="container  pt-5 pb-5 mt-5 ">
 <div class="flat-trusted">
 <div class="mark-page23 tf-mark "> <img src="assets/images/mark-page/dots.svg" alt="images" style="width:70%" > </div>
 <div class="mark-page24 tf-mark "> <img src="assets/images/mark-page/hexagone.svg" alt="images" style="width:70%" > </div>
@@ -493,7 +493,7 @@ and long-lasting relationships with our clients. You can be rest assured that we
 <div class="flat-trusted">
 <div class="mark-page25 tf-mark animate-up"> <img src="assets/images/mark-page/money.svg" alt="images" style="width:70%" > </div>
 </div>
-</div>
+</div>-->
 
 <!-- News room comment ends    -->
 

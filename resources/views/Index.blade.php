@@ -145,8 +145,7 @@ Empowering your brand's accelerated online growth with a full stack of services 
 </div>
 
 <div class="button-slider"> <a href="contact" class="button btn-1"><span>Book a Consultation | How does it work? </span> </a>
-<div class="video-slider"> <a href="https://www.youtube.com/embed/xC4ze0p0b5Y" class="lightbox-image"> <i class="ripple"></i> </a>
-</div>
+<!--<div class="video-slider"> <a href="https://www.youtube.com/embed/xC4ze0p0b5Y" class="lightbox-image"> <i class="ripple"></i></a></div>-->
 </div>
 </div>
 </div>

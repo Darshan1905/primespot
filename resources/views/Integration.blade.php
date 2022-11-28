@@ -98,7 +98,7 @@
                                         <!-- <ul class="sub-menu"><li class="menu-item"><a href="career">Career01</a></li></ul> -->
                                     </li>
                                     <li class="menu-item ">
-                                        <a href="http://3.111.170.144/">Blog</a>
+                                        <a href="http://blog.primespotindia.com/">Blog</a>
                                         <!-- <ul class="sub-menu">
 <li class="menu-item"><a href="career">Career01</a></li>
 </ul> -->

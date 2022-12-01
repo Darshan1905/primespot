@@ -103,7 +103,7 @@
                                         <!-- <ul class="sub-menu"><li class="menu-item"><a href="career">Career01</a></li></ul> -->
                                     </li>
                                     <li class="menu-item ">
-                                        <a href="http://blog.primespotindia.com/">Blog</a>
+                                        <a href="https://primespotindiablog.com/">Blog</a>
                                         <!-- <ul class="sub-menu">
 <li class="menu-item"><a href="career">Career01</a></li>
 </ul> -->

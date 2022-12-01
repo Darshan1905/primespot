@@ -28,7 +28,7 @@
                     <li><a href="integration">Integration</a></li>
                     <li><a href="clientele">Clientele</a></li>
                     <li><a href="career">Career</a></li>
-                    <li><a href="http://blog.primespotindia.com/">Blog</a></li>
+                    <li><a href="https://primespotindiablog.com/">Blog</a></li>
                 </ul>
 
                 <!-- </div> -->

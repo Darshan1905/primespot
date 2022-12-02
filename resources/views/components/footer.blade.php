@@ -72,4 +72,10 @@
             </div>
         </div>
     </div>
+    <hr class="mt-3">
+    <div class="container mt-5 text-center">
+        <h5> <a href="http://avidusinteractive.com/" target="_blank" style="color:#fff"> 2022. Powered by Avidus
+                Interactive. All right
+                reserved </a></h5>
+    </div>
 </footer>

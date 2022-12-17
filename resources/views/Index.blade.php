@@ -476,6 +476,12 @@ style="width: 100%;">
 </div>
 
 <div class="item">
+<img src="/assets/images/owl-slider-images/Watch-Logo.png" alt=""
+style="width: 100%;">
+</div>
+
+
+<div class="item">
 <img src="/assets/images/owl-slider-images/Beauty-Logo.png" alt=""
 style="width: 100%;">
 </div>

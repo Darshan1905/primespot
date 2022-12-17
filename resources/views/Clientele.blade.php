@@ -206,6 +206,9 @@
                             <img src="/assets/images/owl-slider-images/swarovski.png" alt="img" />
                         </div>
                         <div class="item p-5">
+                            <img src="/assets/images/owl-slider-images/Titan.png" alt="img" />
+                        </div>
+                        <div class="item p-5">
                             <img src="/assets/images/owl-slider-images/guess.png" alt="img" />
                         </div>
                         <div class="item p-5">

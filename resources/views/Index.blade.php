@@ -415,7 +415,7 @@ Line</h2>
 </div>
 
 <div class="item">
-<img src="/assets/images/owl-slider-images/Watch-2.png" alt="img">
+<img src="/assets/images/owl-slider-images/Watch-3.png" alt="img">
 <div class="overlay">
 <div class="content">
 <p>Watches</p>

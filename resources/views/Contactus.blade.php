@@ -144,7 +144,7 @@
                                     style="width:70%"> </div>
 
                         </div>
-                        <img src="/assets/images/image-box/map.png" alt="" />
+                        <img src="/assets/images/image-box/map-20-05-2023.png" alt="" />
                         <p style="text-align: justify;">PrimeSpot specializes in integrated e-commerce solutions for
                             brands, with special expertise in premium and luxury brands.
                             After tasting success with over 100+ brands like Bvlgari, Chopard, Hermes, Guess, DKNY, CK,

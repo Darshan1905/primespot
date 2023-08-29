@@ -214,7 +214,7 @@ alt="images" style="width:70%"> </div>
 <!--We are <span class="text-color-3 style-title">trusted</span> by
 first & best in the world.-->
 
-We are A<span class="text-color-3 style-title"> trusted</span> by
+We are <span class="text-color-3 style-title"> trusted</span> by
 <!--the first &--> the best global brands.
 
 </h2>

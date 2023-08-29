@@ -807,7 +807,7 @@ integrated e-commerce IT systems giving you real time insights into your busines
 <section>
 <div class="container mt-5 mb-5 pt-5 pb-5">
 <div class="flat-trusted">
-<div class="mark-page11 tf-mark animate-up "> <img src="assets/images/mark-page/coupon.png" alt="images" style="width:70%" > </div>
+<!--<div class="mark-page11 tf-mark animate-up "> <img src="assets/images/mark-page/coupon.png" alt="images" style="width:70%" > </div>-->
 </div>
 <div class="row index-map-section">
 <div class="col-lg-6">

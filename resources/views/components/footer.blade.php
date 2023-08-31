@@ -63,7 +63,7 @@
                                 src="/assets/images/image-box/insta.png" alt="" style="width: 70%;"></a>
                     </div>
                     <div>
-                        <a href="https://www.linkedin.com/company/beauty-concepts-pvt.-ltd." target="_blank"><img src="/assets/images/image-box/Linkind-1.png"
+                        <a href="https://www.linkedin.com/company/beauty-concepts-pvt.-ltd." target="_blank"><img src="/assets/images/image-box/Linkind-2.png"
                                 alt="" style="width: 70%;"></a>
                     </div>
                 </div>

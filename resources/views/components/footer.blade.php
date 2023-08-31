@@ -55,11 +55,11 @@
                 </h3>
                 <div class="social-icon mt-4">
                     <div>
-                        <a href="https://www.facebook.com" target="_blank"><img src="/assets/images/image-box/fb.png"
+                        <a href="https://www.facebook.com/BeautyConceptsIndia" target="_blank"><img src="/assets/images/image-box/fb.png"
                                 alt="" style="width: 70%;"></a>
                     </div>
                     <div>
-                        <a href="https://www.instagram.com" target="_blank"><img
+                        <a href="https://www.instagram.com/beautyconcepts_india" target="_blank"><img
                                 src="/assets/images/image-box/insta.png" alt="" style="width: 70%;"></a>
                     </div>
                     <div>

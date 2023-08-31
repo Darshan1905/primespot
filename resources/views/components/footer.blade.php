@@ -63,7 +63,7 @@
                                 src="/assets/images/image-box/insta.png" alt="" style="width: 70%;"></a>
                     </div>
                     <div>
-                        <a href="https://web.whatsapp.com/" target="_blank"><img src="/assets/images/image-box/wp.png"
+                        <a href="https://www.linkedin.com/company/beauty-concepts-pvt.-ltd." target="_blank"><img src="/assets/images/image-box/Linkind.png"
                                 alt="" style="width: 70%;"></a>
                     </div>
                 </div>

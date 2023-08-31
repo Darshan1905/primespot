@@ -825,7 +825,7 @@ for your business.
 
 </div>
 <div class="col-lg-6">
-<img src="/assets/images/image-box/map.png" alt="" style="width: 90%;">
+<img src="/assets/images/image-box/map-31-08-2023.png" alt="" style="width: 90%;">
 </div>
 </div>
 </div>

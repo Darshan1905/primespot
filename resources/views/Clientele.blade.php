@@ -224,10 +224,16 @@
                             <img src="/assets/images/owl-slider-images/guess.png" alt="img" />
                         </div>
                         <div class="item p-5">
-                            <img src="/assets/images/owl-slider-images/schwarz.png" alt="img" />
+                            <img src="/assets/images/owl-slider-images/gross.png" alt="img" />
                         </div>
                         <div class="item p-5">
-                            <img src="/assets/images/owl-slider-images/gross.png" alt="img" />
+                            <img src="/assets/images/owl-slider-images/Gurlain.png" alt="img" />
+                        </div>
+                        <div class="item p-5">
+                            <img src="/assets/images/owl-slider-images/Hermes.png" alt="img" />
+                        </div>
+                        <div class="item p-5">
+                            <img src="/assets/images/owl-slider-images/Chopard.png" alt="img" />
                         </div>
                     </div>
                 </div>
